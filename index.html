@@ -3,166 +3,79 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#090d16">
-
-<title>AI GOLD INTELLIGENCE V2</title>
+<title>AI GOLD INTELLIGENCE V3</title>
 
 <style>
 *{box-sizing:border-box}
-
 body{
- margin:0;
- background:#090d16;
- color:#f4f4f5;
- font-family:Arial,sans-serif;
+ margin:0;background:#090d16;color:#f4f4f5;
+ font-family:Arial,sans-serif
 }
-
-header{
- padding:22px 17px;
- border-bottom:1px solid #293247;
- background:#101726;
-}
-
-h1{
- color:#e5bd62;
- font-size:21px;
- margin:0;
-}
-
-.sub{
- color:#98a3b6;
- font-size:12px;
- margin-top:8px;
-}
-
-main{padding:16px;max-width:850px;margin:auto}
-
-h2{font-size:17px;color:#e5bd62}
-
+header{padding:22px 17px;background:#101726;
+ border-bottom:1px solid #293247}
+h1{font-size:21px;color:#e5bd62;margin:0}
+.sub{font-size:12px;color:#9ba6b8;margin-top:8px}
+main{max-width:850px;margin:auto;padding:15px}
+h2{font-size:17px;color:#e5bd62;margin-top:25px}
 .card{
- background:#141e30;
- border:1px solid #29364c;
- border-radius:14px;
- padding:17px;
- margin-bottom:14px;
+ background:#141e30;border:1px solid #29364c;
+ border-radius:13px;padding:16px;margin-bottom:13px
 }
-
-.label{color:#a6b0c0;font-size:12px}
-
-.value{
- color:#e5bd62;
- font-size:22px;
- font-weight:bold;
- margin-top:10px;
-}
-
+.label{font-size:12px;color:#a6b0c0}
+.value{font-size:22px;font-weight:bold;
+ color:#e5bd62;margin-top:10px}
 .small{font-size:12px;color:#9ba6b8;line-height:1.8}
-
-.status{color:#66d9a0;font-size:12px}
-
-.grid{
- display:grid;
- grid-template-columns:1fr 1fr;
- gap:12px;
-}
-
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.metric{background:#1b2940;border-radius:10px;padding:13px}
 button{
- border:1px solid #b99448;
- background:#e5bd62;
- color:#111827;
- padding:11px 15px;
- border-radius:9px;
- font-weight:bold;
- cursor:pointer;
+ border:0;border-radius:9px;padding:13px;
+ background:#e5bd62;color:#111827;font-weight:bold;
+ width:100%;margin-top:12px
 }
-
-button.secondary{
- background:#19263b;
- color:#e5bd62;
-}
-
-.chart{
- height:440px;
- width:100%;
- overflow:hidden;
- border-radius:12px;
-}
-
-.indicator{
- background:#1b2940;
- padding:13px;
- border-radius:10px;
-}
-
-footer{
- text-align:center;
- color:#778195;
- padding:25px;
- font-size:11px;
-}
-
-@media(max-width:380px){
- .grid{grid-template-columns:1fr}
-}
+input{width:100%;margin-top:12px;color:white}
+.status{color:#66d9a0;font-size:12px}
+.warning{color:#f2c36b;font-size:12px;line-height:1.8}
+footer{text-align:center;color:#778195;padding:25px;font-size:11px}
+.chart{height:400px}
 </style>
 </head>
 
 <body>
 
 <header>
- <h1>AI GOLD INTELLIGENCE</h1>
- <div class="sub">
-  ENTERPRISE GOLD ANALYTICS PLATFORM · V2.0
- </div>
+<h1>AI GOLD INTELLIGENCE</h1>
+<div class="sub">GOLD ANALYTICS ENGINE · V3.0</div>
 </header>
 
 <main>
 
 <div class="card">
  <div class="label">SYSTEM STATUS</div>
- <div class="value">V2.0 ACTIVE</div>
- <div class="status">
-  ● Dashboard operational
- </div>
+ <div class="value">V3.0 ACTIVE</div>
+ <div class="status">● Analytics engine initialized</div>
  <p class="small" id="clock"></p>
 </div>
 
-<h2>Market Overview</h2>
-
-<div class="grid">
-
- <div class="card">
-  <div class="label">MARKET</div>
-  <div class="value">XAU/USD</div>
-  <div class="small">Gold / US Dollar</div>
- </div>
-
- <div class="card">
-  <div class="label">DATA CONNECTION</div>
-  <div class="value" style="font-size:17px">
-   TradingView
-  </div>
-  <div class="status">Chart embedded</div>
- </div>
-
-</div>
-
-<h2>Gold Market Chart</h2>
+<h2>Gold Market</h2>
 
 <div class="card">
+ <div class="label">MARKET SYMBOL</div>
+ <div class="value">XAU / USD</div>
+ <div class="small">Gold / US Dollar</div>
+</div>
+
+<div class="card">
+ <div class="label">TRADINGVIEW CHART</div>
  <div class="chart">
   <div class="tradingview-widget-container"
        style="height:100%;width:100%">
-
    <div class="tradingview-widget-container__widget"
-        style="height:100%;width:100%">
-   </div>
-
-   <script
-   type="text/javascript"
-   src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js"
-   async>
+        style="height:100%;width:100%"></div>
+   <script type="text/javascript"
+    src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js"
+    async>
    {
     "autosize":true,
     "symbol":"OANDA:XAUUSD",
@@ -172,119 +85,305 @@ footer{
     "style":"1",
     "locale":"en",
     "allow_symbol_change":true,
-    "calendar":false,
     "hide_side_toolbar":true,
     "withdateranges":true,
     "save_image":false,
-    "details":true,
     "studies":[
-      "RSI@tv-basicstudies",
-      "MACD@tv-basicstudies"
+     "RSI@tv-basicstudies",
+     "MACD@tv-basicstudies"
     ]
    }
    </script>
-
   </div>
  </div>
 </div>
 
-<h2>AI Analysis Laboratory</h2>
+<h2>Gold Analytics Engine</h2>
 
 <div class="card">
- <div class="label">ARTIFICIAL INTELLIGENCE ENGINE</div>
- <div class="value">RESEARCH MODE</div>
+ <div class="label">IMPORT HISTORICAL DATA</div>
  <p class="small">
-  محرك الذكاء الاصطناعي قيد التطوير.
-  لا توجد حالياً بيانات سوق موصولة بمحرك تعلم آلي.
+  ارفع ملف CSV يحتوي على أعمدة:
+  time, open, high, low, close.
+  الحجم volume اختياري.
  </p>
- <div class="status">
-  ● Dashboard ready for data integration
- </div>
+
+ <input type="file" id="csvFile" accept=".csv,text/csv">
+
+ <button onclick="analyzeFile()">
+ START ANALYSIS
+ </button>
+
+ <p class="status" id="message">
+ Waiting for historical data
+ </p>
 </div>
 
-<h2>Technical Analysis Library</h2>
+<h2>Analysis Results</h2>
 
 <div class="grid">
 
- <div class="indicator">
-  <div class="value">RSI</div>
-  <div class="small">
-   مؤشر القوة النسبية.
-   يقيس زخم حركة السعر.
-  </div>
+ <div class="metric">
+  <div class="label">RSI (14)</div>
+  <div class="value" id="rsi">--</div>
+  <div class="small">Relative Strength Index</div>
  </div>
 
- <div class="indicator">
-  <div class="value">MACD</div>
-  <div class="small">
-   تقارب وتباعد المتوسطات المتحركة.
-   يساعد على دراسة الزخم.
-  </div>
+ <div class="metric">
+  <div class="label">MACD</div>
+  <div class="value" id="macd">--</div>
+  <div class="small">MACD line</div>
  </div>
 
- <div class="indicator">
-  <div class="value">SMA</div>
-  <div class="small">
-   المتوسط المتحرك البسيط.
-   يدرس الاتجاه التاريخي.
-  </div>
+ <div class="metric">
+  <div class="label">SIGNAL LINE</div>
+  <div class="value" id="signal">--</div>
+  <div class="small">EMA 9</div>
  </div>
 
- <div class="indicator">
-  <div class="value">ATR</div>
-  <div class="small">
-   متوسط المدى الحقيقي.
-   يقيس التقلبات السعرية.
-  </div>
+ <div class="metric">
+  <div class="label">ATR (14)</div>
+  <div class="value" id="atr">--</div>
+  <div class="small">Average True Range</div>
  </div>
 
 </div>
 
-<h2>Data Quality</h2>
+<h2>Historical Statistics</h2>
 
 <div class="card">
- <div class="label">MARKET DATA ENGINE</div>
+ <div class="label">LAST CLOSE</div>
+ <div class="value" id="lastClose">--</div>
+ <div class="label" style="margin-top:15px">
+  TOTAL DATA ROWS
+ </div>
+ <div class="value" id="rows">--</div>
+ <div class="label" style="margin-top:15px">
+  DATA PERIOD
+ </div>
+ <div class="small" id="period">--</div>
+</div>
+
+<h2>Research Notes</h2>
+
+<div class="card">
  <div class="value" style="font-size:17px">
-  NOT CONNECTED
+  Educational Analysis
  </div>
- <p class="small">
-  لم يتم بعد ربط مصدر بيانات تاريخية
-  ومستمر بمحرك التحليل.
-  سيتم تفعيل هذه الوحدة بعد إعداد مصدر
-  بيانات مناسب ومرخص.
+ <p class="small" id="notes">
+  Import historical market data to calculate
+  technical indicators.
  </p>
-</div>
-
-<h2>Project Information</h2>
-
-<div class="card">
- <div class="small">
-  Project: AI GOLD INTELLIGENCE<br>
-  Version: 2.0<br>
-  Market: XAU/USD<br>
-  Interface: Responsive Web<br>
-  Chart Provider: TradingView<br>
-  Analysis: Educational Research
+ <div class="warning">
+  النتائج حسابات تاريخية وليست توقعات للأسعار
+  أو توصيات مالية.
  </div>
 </div>
 
 </main>
 
 <footer>
- AI GOLD INTELLIGENCE V2.0<br>
- Independent Educational Analytics Project
+AI GOLD INTELLIGENCE · V3.0<br>
+Historical Data Analytics Platform
 </footer>
 
 <script>
+
+function ema(values,period){
+ const result=[];
+ const k=2/(period+1);
+ let current=values[0];
+ result.push(current);
+
+ for(let i=1;i<values.length;i++){
+  current=values[i]*k+current*(1-k);
+  result.push(current);
+ }
+ return result;
+}
+
+function calculateRSI(values,period=14){
+ if(values.length<=period)return null;
+
+ let gains=0,losses=0;
+
+ for(let i=1;i<=period;i++){
+  const change=values[i]-values[i-1];
+  gains+=Math.max(change,0);
+  losses+=Math.max(-change,0);
+ }
+
+ let avgGain=gains/period;
+ let avgLoss=losses/period;
+
+ for(let i=period+1;i<values.length;i++){
+  const change=values[i]-values[i-1];
+  avgGain=(avgGain*(period-1)+Math.max(change,0))/period;
+  avgLoss=(avgLoss*(period-1)+Math.max(-change,0))/period;
+ }
+
+ if(avgLoss===0)return 100;
+
+ return 100-(100/(1+avgGain/avgLoss));
+}
+
+function calculateATR(data,period=14){
+ if(data.length<period+1)return null;
+
+ const ranges=[];
+
+ for(let i=1;i<data.length;i++){
+  const current=data[i];
+  const previous=data[i-1];
+
+  ranges.push(Math.max(
+   current.high-current.low,
+   Math.abs(current.high-previous.close),
+   Math.abs(current.low-previous.close)
+  ));
+ }
+
+ let atr=ranges.slice(0,period)
+  .reduce((a,b)=>a+b,0)/period;
+
+ for(let i=period;i<ranges.length;i++){
+  atr=(atr*(period-1)+ranges[i])/period;
+ }
+
+ return atr;
+}
+
+function parseCSV(text){
+ const lines=text.trim().split(/\r?\n/);
+ if(lines.length<37)throw Error("نحتاج إلى 37 صفاً على الأقل");
+
+ const headers=lines[0].split(",")
+  .map(x=>x.trim().toLowerCase());
+
+ const index={
+  time:headers.indexOf("time"),
+  open:headers.indexOf("open"),
+  high:headers.indexOf("high"),
+  low:headers.indexOf("low"),
+  close:headers.indexOf("close")
+ };
+
+ for(const key of Object.keys(index)){
+  if(index[key]===-1)
+   throw Error("عمود مفقود: "+key);
+ }
+
+ const data=[];
+
+ for(let i=1;i<lines.length;i++){
+  if(!lines[i].trim())continue;
+
+  const row=lines[i].split(",");
+
+  const item={
+   time:row[index.time]?.trim(),
+   open:Number(row[index.open]),
+   high:Number(row[index.high]),
+   low:Number(row[index.low]),
+   close:Number(row[index.close])
+  };
+
+  if(!item.time||
+     !Number.isFinite(item.open)||
+     !Number.isFinite(item.high)||
+     !Number.isFinite(item.low)||
+     !Number.isFinite(item.close)||
+     item.high<item.low||
+     item.high<item.open||
+     item.high<item.close||
+     item.low>item.open||
+     item.low>item.close){
+   throw Error("بيانات غير صحيحة في الصف "+(i+1));
+  }
+
+  data.push(item);
+ }
+
+ return data;
+}
+
+function analyzeFile(){
+ const file=document.getElementById("csvFile").files[0];
+ const message=document.getElementById("message");
+
+ if(!file){
+  message.textContent="اختر ملف CSV أولاً";
+  return;
+ }
+
+ const reader=new FileReader();
+
+ reader.onload=function(){
+  try{
+   const data=parseCSV(reader.result);
+   const closes=data.map(x=>x.close);
+
+   const rsi=calculateRSI(closes);
+   const ema12=ema(closes,12);
+   const ema26=ema(closes,26);
+
+   const macdValues=ema12.map(
+    (v,i)=>v-ema26[i]
+   );
+
+   const signalValues=ema(macdValues,9);
+
+   const macd=macdValues.at(-1);
+   const signal=signalValues.at(-1);
+   const atr=calculateATR(data);
+
+   document.getElementById("rsi").textContent=
+    rsi.toFixed(2);
+
+   document.getElementById("macd").textContent=
+    macd.toFixed(3);
+
+   document.getElementById("signal").textContent=
+    signal.toFixed(3);
+
+   document.getElementById("atr").textContent=
+    atr.toFixed(3);
+
+   document.getElementById("lastClose").textContent=
+    closes.at(-1).toFixed(3);
+
+   document.getElementById("rows").textContent=
+    data.length;
+
+   document.getElementById("period").textContent=
+    data[0].time+" → "+data.at(-1).time;
+
+   document.getElementById("notes").textContent=
+    "تم حساب RSI وMACD وATR من "+
+    data.length+" صف تاريخي. "+
+    "MACD minus Signal = "+
+    (macd-signal).toFixed(3)+
+    ". هذه إحصائيات تاريخية وليست توقعاً.";
+
+   message.textContent=
+    "Analysis completed successfully";
+
+  }catch(error){
+   message.textContent="Error: "+error.message;
+  }
+ };
+
+ reader.readAsText(file);
+}
+
 function updateClock(){
- const now = new Date();
- document.getElementById("clock").textContent =
- "Local time: " + now.toLocaleString();
+ document.getElementById("clock").textContent=
+ "Local time: "+new Date().toLocaleString();
 }
 
 updateClock();
 setInterval(updateClock,1000);
-</script>
 
+</script>
 </body>
 </html>
