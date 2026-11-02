@@ -2,20 +2,24 @@
 import json
 import re
 import hashlib
+import html
+
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 import feedparser
 
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "AI-GOLD-INTELLIGENCE/5.0"
+    "User-Agent": "AI-GOLD-INTELLIGENCE/6.0"
 }
 
+# GENERAL ECONOMIC NEWS
 FEEDS = [
     ("Federal Reserve", "https://www.federalreserve.gov/feeds/press_all.xml"),
     ("European Central Bank", "https://www.ecb.europa.eu/rss/press.html"),
@@ -25,75 +29,185 @@ FEEDS = [
     ("BLS", "https://www.bls.gov/feed/news_release/empsit.rss")
 ]
 
+# GOLD-SPECIFIC NEWS SEARCHES
+GOLD_SEARCHES = [
+    (
+        "Gold Price News",
+        '"gold price" OR bullion OR XAU'
+    ),
+    (
+        "Gold Market News",
+        '"gold market" OR "gold demand" OR "gold reserves"'
+    ),
+    (
+        "World Gold Council News",
+        '"World Gold Council" OR "central bank gold buying"'
+    )
+]
+
+GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
+
 WORLD_BANK_INDICATORS = [
     ("World GDP Growth", "NY.GDP.MKTP.KD.ZG"),
     ("World Inflation", "FP.CPI.TOTL.ZG")
 ]
 
 
-def collect_news():
-    news = []
-    seen = set()
-    successful = 0
+def clean_text(value):
+    value = html.unescape(str(value or ""))
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
 
-    for source, url in FEEDS:
-        try:
-            response = requests.get(
-                url, headers=HEADERS, timeout=20
+
+def make_news_item(entry, source, category):
+    title = clean_text(entry.get("title", ""))
+
+    if not title:
+        return None
+
+    link = entry.get("link", "")
+
+    if not link.startswith(("https://", "http://")):
+        return None
+
+    summary = clean_text(
+        entry.get("summary", "")
+    )[:500]
+
+    original_source = entry.get("source", {})
+    actual_source = (
+        original_source.get("title")
+        if isinstance(original_source, dict)
+        else None
+    )
+
+    return {
+        "title": title,
+        "url": link,
+        "source": actual_source or source,
+        "published": entry.get(
+            "published",
+            entry.get("updated", "")
+        ),
+        "description": summary,
+        "category": category
+    }
+
+
+def collect_rss(source, url, category, params=None):
+    try:
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            params=params,
+            timeout=25
+        )
+
+        response.raise_for_status()
+
+        feed = feedparser.parse(response.content)
+
+        if feed.bozo and not feed.entries:
+            raise ValueError("Invalid RSS feed")
+
+        articles = []
+
+        for entry in feed.entries[:30]:
+            item = make_news_item(
+                entry,
+                source,
+                category
             )
-            response.raise_for_status()
 
-            feed = feedparser.parse(response.content)
-            successful += 1
+            if item:
+                articles.append(item)
 
-            for entry in feed.entries[:20]:
-                title = re.sub(
-                    r"\s+", " ",
-                    entry.get("title", "")
-                ).strip()
+        print(
+            f"Source OK: {source} "
+            f"({len(articles)} articles)"
+        )
 
-                link = entry.get("link", "")
+        return articles, True
 
-                if not title:
-                    continue
+    except Exception as error:
+        print(f"Source failed: {source}: {error}")
+        return [], False
 
-                fingerprint = hashlib.sha256(
-                    (title.lower() + link).encode()
-                ).hexdigest()
 
-                if fingerprint in seen:
-                    continue
+def deduplicate(items):
+    unique = []
+    seen = set()
 
-                seen.add(fingerprint)
+    for item in items:
+        fingerprint = hashlib.sha256(
+            (
+                item["title"].lower()
+                + item["url"]
+            ).encode("utf-8")
+        ).hexdigest()
 
-                summary = re.sub(
-                    r"<[^>]+>", " ",
-                    entry.get("summary", "")
-                )
-                summary = re.sub(
-                    r"\s+", " ", summary
-                ).strip()[:400]
+        if fingerprint in seen:
+            continue
 
-                news.append({
-                    "title": title,
-                    "url": link,
-                    "source": source,
-                    "published": entry.get(
-                        "published",
-                        entry.get("updated", "")
-                    ),
-                    "description": summary
-                })
+        seen.add(fingerprint)
+        unique.append(item)
 
-        except Exception as error:
-            print(f"News source failed: {source}: {error}")
+    return unique
 
-    news.sort(
-        key=lambda item: item["published"],
+
+def sort_news(items):
+    return sorted(
+        items,
+        key=lambda item: item.get("published", ""),
         reverse=True
     )
 
-    return news[:100], successful
+
+def collect_general_news():
+    articles = []
+    successful = 0
+
+    for source, url in FEEDS:
+        items, ok = collect_rss(
+            source,
+            url,
+            "general"
+        )
+
+        articles.extend(items)
+
+        if ok:
+            successful += 1
+
+    return sort_news(deduplicate(articles)), successful
+
+
+def collect_gold_news():
+    articles = []
+    successful = 0
+
+    for source, query in GOLD_SEARCHES:
+        params = {
+            "q": query,
+            "hl": "en",
+            "gl": "US",
+            "ceid": "US:en"
+        }
+
+        items, ok = collect_rss(
+            source,
+            GOOGLE_NEWS_RSS,
+            "gold",
+            params=params
+        )
+
+        articles.extend(items)
+
+        if ok:
+            successful += 1
+
+    return sort_news(deduplicate(articles)), successful
 
 
 def collect_world_bank():
@@ -109,11 +223,14 @@ def collect_world_bank():
 
             response = requests.get(
                 url,
-                params={"format": "json", "per_page": 5},
-                timeout=20
+                params={
+                    "format": "json",
+                    "per_page": 10
+                },
+                timeout=25
             )
-            response.raise_for_status()
 
+            response.raise_for_status()
             result = response.json()
 
             if len(result) < 2 or not result[1]:
@@ -135,38 +252,50 @@ def collect_world_bank():
                     "source": "World Bank",
                     "series_id": code
                 })
+
                 successful += 1
 
         except Exception as error:
-            print(f"Indicator failed: {code}: {error}")
+            print(
+                f"Indicator failed: {code}: {error}"
+            )
 
     return indicators, successful
 
 
-def create_report(news, indicators):
-    observations = []
-
-    observations.append({
-        "title": "الأخبار العالمية",
-        "text": (
-            f"تم جمع {len(news)} خبراً "
-            "من المصادر المتاحة."
-        )
-    })
+def create_report(news, gold_news, indicators):
+    observations = [
+        {
+            "title": "Global News",
+            "text": (
+                f"Collected {len(news)} general "
+                "economic news articles."
+            )
+        },
+        {
+            "title": "Gold News",
+            "text": (
+                f"Collected {len(gold_news)} "
+                "gold-related news articles."
+            )
+        }
+    ]
 
     for item in indicators:
         observations.append({
             "title": item["name"],
             "text": (
-                f"آخر قيمة منشورة: {item['value']} "
-                f"عن الفترة {item['date']}."
+                f"Latest published value: {item['value']} "
+                f"for {item['date']}."
             )
         })
 
     return {
         "summary": (
-            "هذا تقرير وصفي للبيانات الاقتصادية العامة. "
-            "لا يمثل توقعاً للأسواق ولا يثبت علاقة سببية."
+            "Descriptive research based on public "
+            "economic and gold news sources. "
+            "It does not establish causation "
+            "or predict market movements."
         ),
         "observations": observations,
         "relationships": []
@@ -176,17 +305,39 @@ def create_report(news, indicators):
 def main():
     now = datetime.now(timezone.utc).isoformat()
 
-    news, news_sources = collect_news()
-    indicators, indicator_sources = collect_world_bank()
+    general_news, general_sources = (
+        collect_general_news()
+    )
 
-    total_sources = len(FEEDS) + len(WORLD_BANK_INDICATORS)
-    successful = news_sources + indicator_sources
+    gold_news, gold_sources = collect_gold_news()
+
+    indicators, indicator_sources = (
+        collect_world_bank()
+    )
+
+    # Combine news while preserving gold categories
+    all_news = sort_news(
+        deduplicate(general_news + gold_news)
+    )
+
+    total_sources = (
+        len(FEEDS)
+        + len(GOLD_SEARCHES)
+        + len(WORLD_BANK_INDICATORS)
+    )
+
+    successful = (
+        general_sources
+        + gold_sources
+        + indicator_sources
+    )
 
     result = {
-        "schema_version": "5.0",
+        "schema_version": "6.0",
         "generated_at": now,
         "timezone": "UTC",
         "data_status": "periodic_public_data_not_live",
+
         "quality": {
             "successful_sources": successful,
             "attempted_sources": total_sources,
@@ -194,12 +345,22 @@ def main():
                 successful / total_sources * 100
             ) if total_sources else 0
         },
-        "news": news,
+
+        "news": all_news,
+        "gold_news": gold_news,
         "indicators": indicators,
-        "report": create_report(news, indicators),
+
+        "report": create_report(
+            all_news,
+            gold_news,
+            indicators
+        ),
+
         "disclaimer": (
             "Educational economic research only. "
-            "No trading instructions. Data may be delayed."
+            "No trading instructions. "
+            "News availability and publication times "
+            "depend on external sources."
         )
     }
 
@@ -214,8 +375,10 @@ def main():
         encoding="utf-8"
     )
 
-    print("AI GOLD INTELLIGENCE updated successfully")
-    print("News:", len(news))
+    print("AI GOLD INTELLIGENCE V6 updated")
+    print("General news:", len(general_news))
+    print("Gold news:", len(gold_news))
+    print("Total news:", len(all_news))
     print("Indicators:", len(indicators))
     print("Successful sources:", successful)
 
