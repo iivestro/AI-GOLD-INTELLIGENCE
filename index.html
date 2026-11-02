@@ -1,77 +1,109 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI GOLD INTELLIGENCE</title>
+<meta name="theme-color" content="#090d16">
+
+<title>AI GOLD INTELLIGENCE V2</title>
 
 <style>
-* { box-sizing: border-box; }
+*{box-sizing:border-box}
 
-body {
-  margin: 0;
-  background: #090d16;
-  color: #f4f4f5;
-  font-family: Arial, sans-serif;
+body{
+ margin:0;
+ background:#090d16;
+ color:#f4f4f5;
+ font-family:Arial,sans-serif;
 }
 
-header {
-  padding: 22px 16px;
-  border-bottom: 1px solid #273044;
+header{
+ padding:22px 17px;
+ border-bottom:1px solid #293247;
+ background:#101726;
 }
 
-h1 {
-  color: #e5bd62;
-  font-size: 21px;
-  margin: 0;
+h1{
+ color:#e5bd62;
+ font-size:21px;
+ margin:0;
 }
 
-.subtitle {
-  color: #9ca3af;
-  font-size: 12px;
-  margin-top: 8px;
+.sub{
+ color:#98a3b6;
+ font-size:12px;
+ margin-top:8px;
 }
 
-main {
-  padding: 16px;
+main{padding:16px;max-width:850px;margin:auto}
+
+h2{font-size:17px;color:#e5bd62}
+
+.card{
+ background:#141e30;
+ border:1px solid #29364c;
+ border-radius:14px;
+ padding:17px;
+ margin-bottom:14px;
 }
 
-.card {
-  background: #131b2b;
-  border: 1px solid #273044;
-  border-radius: 13px;
-  padding: 16px;
-  margin-bottom: 15px;
+.label{color:#a6b0c0;font-size:12px}
+
+.value{
+ color:#e5bd62;
+ font-size:22px;
+ font-weight:bold;
+ margin-top:10px;
 }
 
-.label {
-  color: #aab2c2;
-  font-size: 12px;
+.small{font-size:12px;color:#9ba6b8;line-height:1.8}
+
+.status{color:#66d9a0;font-size:12px}
+
+.grid{
+ display:grid;
+ grid-template-columns:1fr 1fr;
+ gap:12px;
 }
 
-.value {
-  font-size: 20px;
-  margin-top: 10px;
-  color: #e5bd62;
-  font-weight: bold;
+button{
+ border:1px solid #b99448;
+ background:#e5bd62;
+ color:#111827;
+ padding:11px 15px;
+ border-radius:9px;
+ font-weight:bold;
+ cursor:pointer;
 }
 
-.chart {
-  height: 480px;
-  overflow: hidden;
-  border-radius: 12px;
+button.secondary{
+ background:#19263b;
+ color:#e5bd62;
 }
 
-.status {
-  color: #70d6a1;
-  font-size: 12px;
+.chart{
+ height:440px;
+ width:100%;
+ overflow:hidden;
+ border-radius:12px;
 }
 
-footer {
-  text-align: center;
-  color: #778195;
-  padding: 25px;
-  font-size: 11px;
+.indicator{
+ background:#1b2940;
+ padding:13px;
+ border-radius:10px;
+}
+
+footer{
+ text-align:center;
+ color:#778195;
+ padding:25px;
+ font-size:11px;
+}
+
+@media(max-width:380px){
+ .grid{grid-template-columns:1fr}
 }
 </style>
 </head>
@@ -79,90 +111,180 @@ footer {
 <body>
 
 <header>
-  <h1>AI GOLD INTELLIGENCE</h1>
-  <div class="subtitle">
-    GOLD MARKET ANALYTICS PLATFORM
-  </div>
+ <h1>AI GOLD INTELLIGENCE</h1>
+ <div class="sub">
+  ENTERPRISE GOLD ANALYTICS PLATFORM · V2.0
+ </div>
 </header>
 
 <main>
 
 <div class="card">
-  <div class="label">SYSTEM STATUS</div>
-  <div class="value">INITIALIZED</div>
-  <div class="status">
-    ● Dashboard interface ready
-  </div>
+ <div class="label">SYSTEM STATUS</div>
+ <div class="value">V2.0 ACTIVE</div>
+ <div class="status">
+  ● Dashboard operational
+ </div>
+ <p class="small" id="clock"></p>
 </div>
 
-<div class="card">
+<h2>Market Overview</h2>
+
+<div class="grid">
+
+ <div class="card">
   <div class="label">MARKET</div>
-  <div class="value">XAU / USD</div>
-  <div class="label">
-    Gold market chart
+  <div class="value">XAU/USD</div>
+  <div class="small">Gold / US Dollar</div>
+ </div>
+
+ <div class="card">
+  <div class="label">DATA CONNECTION</div>
+  <div class="value" style="font-size:17px">
+   TradingView
   </div>
+  <div class="status">Chart embedded</div>
+ </div>
+
 </div>
 
+<h2>Gold Market Chart</h2>
+
 <div class="card">
-  <div class="label">TRADINGVIEW MARKET CHART</div>
-  <br>
+ <div class="chart">
+  <div class="tradingview-widget-container"
+       style="height:100%;width:100%">
 
-  <div class="chart">
-    <div class="tradingview-widget-container"
-         style="height:100%;width:100%">
+   <div class="tradingview-widget-container__widget"
+        style="height:100%;width:100%">
+   </div>
 
-      <div class="tradingview-widget-container__widget"
-           style="height:100%;width:100%">
-      </div>
+   <script
+   type="text/javascript"
+   src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js"
+   async>
+   {
+    "autosize":true,
+    "symbol":"OANDA:XAUUSD",
+    "interval":"60",
+    "timezone":"Etc/UTC",
+    "theme":"dark",
+    "style":"1",
+    "locale":"en",
+    "allow_symbol_change":true,
+    "calendar":false,
+    "hide_side_toolbar":true,
+    "withdateranges":true,
+    "save_image":false,
+    "details":true,
+    "studies":[
+      "RSI@tv-basicstudies",
+      "MACD@tv-basicstudies"
+    ]
+   }
+   </script>
 
-      <script
-      type="text/javascript"
-      src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js"
-      async>
-
-      {
-        "autosize": true,
-        "symbol": "OANDA:XAUUSD",
-        "interval": "60",
-        "timezone": "Etc/UTC",
-        "theme": "dark",
-        "style": "1",
-        "locale": "en",
-        "allow_symbol_change": true,
-        "calendar": false,
-        "hide_side_toolbar": true,
-        "withdateranges": true,
-        "hide_top_toolbar": false,
-        "save_image": false,
-        "details": true,
-        "hotlist": false,
-        "studies": [
-          "RSI@tv-basicstudies",
-          "MACD@tv-basicstudies"
-        ]
-      }
-      </script>
-    </div>
   </div>
+ </div>
 </div>
 
+<h2>AI Analysis Laboratory</h2>
+
 <div class="card">
-  <div class="label">AI ANALYSIS ENGINE</div>
-  <div class="value">UNDER DEVELOPMENT</div>
-  <p class="label">
-    Statistical analysis and educational
-    research modules will be added in
-    future versions.
-  </p>
+ <div class="label">ARTIFICIAL INTELLIGENCE ENGINE</div>
+ <div class="value">RESEARCH MODE</div>
+ <p class="small">
+  محرك الذكاء الاصطناعي قيد التطوير.
+  لا توجد حالياً بيانات سوق موصولة بمحرك تعلم آلي.
+ </p>
+ <div class="status">
+  ● Dashboard ready for data integration
+ </div>
+</div>
+
+<h2>Technical Analysis Library</h2>
+
+<div class="grid">
+
+ <div class="indicator">
+  <div class="value">RSI</div>
+  <div class="small">
+   مؤشر القوة النسبية.
+   يقيس زخم حركة السعر.
+  </div>
+ </div>
+
+ <div class="indicator">
+  <div class="value">MACD</div>
+  <div class="small">
+   تقارب وتباعد المتوسطات المتحركة.
+   يساعد على دراسة الزخم.
+  </div>
+ </div>
+
+ <div class="indicator">
+  <div class="value">SMA</div>
+  <div class="small">
+   المتوسط المتحرك البسيط.
+   يدرس الاتجاه التاريخي.
+  </div>
+ </div>
+
+ <div class="indicator">
+  <div class="value">ATR</div>
+  <div class="small">
+   متوسط المدى الحقيقي.
+   يقيس التقلبات السعرية.
+  </div>
+ </div>
+
+</div>
+
+<h2>Data Quality</h2>
+
+<div class="card">
+ <div class="label">MARKET DATA ENGINE</div>
+ <div class="value" style="font-size:17px">
+  NOT CONNECTED
+ </div>
+ <p class="small">
+  لم يتم بعد ربط مصدر بيانات تاريخية
+  ومستمر بمحرك التحليل.
+  سيتم تفعيل هذه الوحدة بعد إعداد مصدر
+  بيانات مناسب ومرخص.
+ </p>
+</div>
+
+<h2>Project Information</h2>
+
+<div class="card">
+ <div class="small">
+  Project: AI GOLD INTELLIGENCE<br>
+  Version: 2.0<br>
+  Market: XAU/USD<br>
+  Interface: Responsive Web<br>
+  Chart Provider: TradingView<br>
+  Analysis: Educational Research
+ </div>
 </div>
 
 </main>
 
 <footer>
-AI GOLD INTELLIGENCE · VERSION 1.0<br>
-Educational market analysis platform.
-Market data may be delayed.
+ AI GOLD INTELLIGENCE V2.0<br>
+ Independent Educational Analytics Project
 </footer>
+
+<script>
+function updateClock(){
+ const now = new Date();
+ document.getElementById("clock").textContent =
+ "Local time: " + now.toLocaleString();
+}
+
+updateClock();
+setInterval(updateClock,1000);
+</script>
 
 </body>
 </html>
