@@ -1,12 +1,12 @@
 {
-  "schema_version": "5.0",
-  "generated_at": "2026-11-02T22:14:06.610625+00:00",
+  "schema_version": "6.0",
+  "generated_at": "2026-11-02T22:59:21.413315+00:00",
   "timezone": "UTC",
   "data_status": "periodic_public_data_not_live",
   "quality": {
-    "successful_sources": 6,
-    "attempted_sources": 8,
-    "score": 75
+    "successful_sources": 8,
+    "attempted_sources": 11,
+    "score": 73
   },
   "news": [
     {
@@ -14,385 +14,1882 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "source": "Federal Reserve",
       "published": "Wed, 7 Oct 2026 18:00:00 GMT",
-      "description": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
+      "description": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
       "source": "Federal Reserve",
       "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-      "description": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements"
+      "description": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "category": "general"
     },
     {
       "title": "Financial Policy Committee Record – September 2026",
       "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
       "source": "Bank of England",
       "published": "Wed, 30 Sep 2026 10:30:00 +0100",
-      "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system."
+      "description": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
+      "category": "general"
+    },
+    {
+      "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: Q1 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Record gold prices continue to shift demand dynamics - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXBrY284T0F3Sjk4bjltMGNSTWJNM0RNSEJaRk9qanRaLXk4NDFnVG1mVy13X0tlWmtKUTNCaldHY1dEaWZoQ1EwNUpTN3FKTWZOWTN5ejVjYlJlNGtxZW9sUUctX2c1ZUdrUGpwZmkwLThaelNibGRHTmdrWmFNTzFEREYtaEliWGN0WWpybXFlUFBUTVM1dGtXOGllUmtUb0Qw?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "description": "Record gold prices continue to shift demand dynamics World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Russia's gold reserves have fallen to a seven-year low due to a budget deficit — SZR - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkxKczBRdG5lV2RfX3FZRldUMGFFOVY2WHZ1aUZDN0t6OTMxcGlYZWNtQnpyeXhiX084ZlZKMmFuUTZCOE1WZ3BGT3YyUDBzdUhDVUVzRFRYUDVvQVhZUE1MR0xBSDFnU3Q5VkVjV1JmeU9OQUU1RTlpMUMxd2NzblVBYTNramlzSE9pTjVqcVRvYldkUUhiRTRFMDFrT2tsN0Z6V3k2cVVDSUpJLWg1OA?oc=5",
+      "source": "UA.NEWS",
+      "published": "Wed, 28 Oct 2026 21:25:48 GMT",
+      "description": "Russia's gold reserves have fallen to a seven-year low due to a budget deficit — SZR UA.NEWS",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
       "source": "Federal Reserve",
       "published": "Wed, 28 Oct 2026 18:00:00 GMT",
-      "description": "Federal Reserve issues FOMC statement"
+      "description": "Federal Reserve issues FOMC statement",
+      "category": "general"
     },
     {
       "title": "Remit for the Monetary Policy Committee - October 2026",
       "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
       "source": "Bank of England",
       "published": "Wed, 28 Oct 2026 14:16:49 Z",
-      "description": "Letter from the Chancellor to the Governor"
+      "description": "Letter from the Chancellor to the Governor",
+      "category": "general"
+    },
+    {
+      "title": "Gold reserves and exchange rate management - Klement on Investing",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnVmUjFLOU9CRTdqSUwwakIyZ2xyLXhFZ1BjNXRabXpoTy05dUg1YWJac3JFTGFmTHVBcmNEbjBtQllmeENpTjZxLWloc0hKcGdYSDlVc0ZrZ2hBXzFCTFBhai1CY2N3ZFlkaUQzVlBTVkluRENiUU1IdWF0TGp3ZmJnVi1ycC0zZTF6RA?oc=5",
+      "source": "Klement on Investing",
+      "published": "Wed, 28 Oct 2026 07:00:58 GMT",
+      "description": "Gold reserves and exchange rate management Klement on Investing",
+      "category": "gold"
     },
     {
       "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
       "source": "European Central Bank",
       "published": "Wed, 21 Oct 2026 10:00:00 +0200",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market? - XTB.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaW1mS1JJUTM1T1BxcWZTX2I2MjVweFJKZFdsN3J6dVN1S3lJU2poQkExZTFFT21ES3l6SEpTZUNEa1ZHVVVyY09tV1diY3p5WXh2UnNybFQ2bk5sU2tIQVlmb0R5UVlFZ0tpaHZheURtZnRJa0xUeHRTVThtTUdiMG8wOWlENnVqZl8ybDhvZ1BXQUpwTjUtVnBReHZWUmMyZXAtaF8xSGNTQzI2QV9KVFR0MnMtQS04d0ZobWdsdjBHaUJKaE1zUVFqbEJRMVJHcE5fX01n?oc=5",
+      "source": "XTB.com",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "description": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market? XTB.com",
+      "category": "gold"
     },
     {
       "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
       "source": "European Central Bank",
       "published": "Wed, 21 Oct 2026 06:15:00 +0200",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
       "source": "Federal Reserve",
       "published": "Wed, 16 Sep 2026 18:00:00 GMT",
-      "description": "Federal Reserve issues FOMC statement"
+      "description": "Federal Reserve issues FOMC statement",
+      "category": "general"
+    },
+    {
+      "title": "London’s gold market enjoys the Trump effect - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV9GWVVYWDQ5ZTkxc25ndVdFRENodXgxYVhzNmpyMnJ6dGFmcDFyYW5sOXVORkNJUVhReDhEZjBJZS1OeHh0bVZqU1QtOHRWV1ZJR0YtZ19WZTQtN0VnSjBIQ2JYVnd3QktkQ3gxazRTd1VyQjR4MVhZdTJoWDZMeWNnY1A?oc=5",
+      "source": "Financial Times",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "description": "London’s gold market enjoys the Trump effect Financial Times",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Market Commentary: Paved with good interventions - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwUTlQdkZoMkdCUmlvbmM4NHlJSzBEN3UxXzcyWGJ5eUh4a2dCNkhtYWtkbUt2aktJOERGRVVJbENRTG9tdmdrbFZyVllIZEJrVDFpZEtaMUVuX3FoeUtHdlNBSVE2RVBuTUxCVVhqY3g5WVFVNjZUSUt6dXE?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "description": "Gold Market Commentary: Paved with good interventions World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
       "source": "Bank of England",
       "published": "Wed, 07 Oct 2026 14:36:25 +0100",
-      "description": "The Bank of England provides the Secretariat to the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+      "description": "The Bank of England provides the Secretariat to the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "category": "general"
     },
     {
       "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
       "source": "Bank of England",
       "published": "Wed, 07 Oct 2026 10:49:25 +0100",
-      "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+      "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "category": "general"
     },
     {
       "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
       "source": "Bank of England",
       "published": "Wed, 07 Oct 2026 10:08:40 +0100",
-      "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators."
+      "description": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "category": "general"
     },
     {
       "title": "Regulatory thresholds set to shift to automatic increases",
       "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
       "source": "Bank of England",
       "published": "Wed, 07 Oct 2026 10:00:00 +0100",
-      "description": "Proportionality is set to be improved for firms as over 100 regulatory thresholds could be automatically increased periodically."
+      "description": "Proportionality is set to be improved for firms as over 100 regulatory thresholds could be automatically increased periodically.",
+      "category": "general"
+    },
+    {
+      "title": "Gold Market Commentary: Go with the flow - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkFrY1RiRkRCTjdiclpSeExocUdnNm42SUJITlBvUzBVaThSNGNEN1l6dk80clY4QW5lU2NidHVxTC1HbjNIOFQxdnlVSmNQN2ZKSjVjNjhqVlh0cTd6Z1dhTEl6UXBvcm5mNHc1d1hNVGlFcEFpS0ZlYkFpb1R6OA?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "description": "Gold Market Commentary: Go with the flow World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "UK crowned in a record quarter - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbmpBdm5za0U3UXB3WUtYb3hya2VvOFZCNkttdEFNTWRNbDE1Y3lCMG9VTTFsbmJzVUV3cmJJS0lqTjZUeWdJVU5tbks5X3VsZW15VXVucHFDUUNHX1kyRDlGbG9yeDlXeEVod19NdjgwTW9jR1RtZzE4ejY5cDg?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "description": "UK crowned in a record quarter World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold as a strategic asset: 2026 edition - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHZIRVJrOE1kWjJZY1NfbGRXNDBTRFhsa2ZsM3RnWklUSHFHUENWUWxGbUR3NWdzQk9SaTlOaHlzaGx0eS1hdXhyUGxocjlQMm54bTI1aGMzVFlMYlUxVnNXV0dKN2U2TU5OT2hNQnFrdkp6TTdadlhWdDFyc0tVcUhn?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "description": "Gold as a strategic asset: 2026 edition World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Mid-Year Outlook 2026: Point break - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RUWRQQ3BDNUs2ZWVqTjd5MWJrMHBSSGxTOGNtTG1iRm5XTUxuM3V3clJNMzdEUjRjcmdfM3pnQlN5dk9RUlNnZnpxOFR3b1FRRDNRTTF2MThvcXdJTmhCMW92UUdnSEVnS3lhOTVxY1g2UQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "description": "Gold Mid-Year Outlook 2026: Point break World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
       "source": "Federal Reserve",
       "published": "Tue, 29 Sep 2026 20:00:00 GMT",
-      "description": "Agencies publish resolution plan feedback letters for 15 banking organizations"
+      "description": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "category": "general"
+    },
+    {
+      "title": "How Could the Midterm Elections Impact the Gold Market? - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQndpN3hBQ1lBTHBnRGVTOHl0STNQZEhPZHA4M0VYOFlYdmdXWDRTU0pyd1J3UUNZekNMZi1xQlZac2czZ3hPVzcwLUlRdlZoaVZCWFFMWi15Y25wTS1aN3Z0R0JROFNYRDA2eFc0Y3k5Rk5acm9ydHVWOGRBcU93RlMzNnRNWnNacDlZeDA5MmZZTkZfUUpNU1lzdlg?oc=5",
+      "source": "LinkedIn",
+      "published": "Tue, 27 Oct 2026 19:22:26 GMT",
+      "description": "How Could the Midterm Elections Impact the Gold Market? LinkedIn",
+      "category": "gold"
+    },
+    {
+      "title": "Holding power: How reserves, technology and investors are reshaping the gold market - OMFIF",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUNlTXMzRHhUUXNCRFpEdmI4clk4YXZ2MXJGMWEyV0lpX21RY0pGRTN4NW9IcVdlQ2hWUElEOG1xVzhoUHR4ckR4RjRZbzJHV2RyNnlTcGZSRHdPY1A0UkN1bGlwd3lfdlJ0NmpDejRLTUlGSmVUck1Xdm5RbmF5VzIxWTA0VUQta3AzMDBFYUpETHNYeEVCbnFPbzlHT2xNUTNaR1F4ZlEwcENBWXdyTHVKaw?oc=5",
+      "source": "OMFIF",
+      "published": "Tue, 27 Oct 2026 11:20:45 GMT",
+      "description": "Holding power: How reserves, technology and investors are reshaping the gold market OMFIF",
+      "category": "gold"
     },
     {
       "title": "October 2026 euro area bank lending survey",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
       "source": "European Central Bank",
       "published": "Tue, 27 Oct 2026 01:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
       "source": "Federal Reserve",
       "published": "Tue, 22 Sep 2026 20:30:00 GMT",
-      "description": "Federal Reserve Board announces approval of application by BancFirst Corporation"
+      "description": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
+      "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
+      "source": "Bank of England",
+      "published": "Tue, 22 Sep 2026 16:30:00 +0100",
+      "description": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
+      "category": "general"
+    },
+    {
+      "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWEzUjIwdDM4SThRaE93WDdjSWdGbjVyZXVEdnIzYXNyMG9WYjJPdHZVelVzelVYQXVyaTg1NHRfRVZaMks1QkVxNWR2eGI5Wm8zTHc5OTZBZkFPV0FFaHhxYkhYRTBfWmFlVDNjX2J4eTJwczhUSi1ZSHZ2aXp5bDNvZ19VVWpwYzFqbS0wOUozWmhIU24zRFZTdnNFY19HdFhCUDl0ZmNyUWNKREE?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "description": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "How Much Gold Has Been Mined? - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90T3F5VVY3V0M5RFVIeUdQekU2V3JsVE9LSV9xandJeWhpdjlkaG1BeXJYRTJGRmw0dmtyeGtUVmNzd0YxRnFMdHhfMTBWWUlGYUk0Rkc4MWxjUEE?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "description": "How Much Gold Has Been Mined? World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Market Primer: Market size and structure - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUc5VjlWZ19IbEFRR09VV0hXUTRsdDRReGtuc0I2c1JlMFpPSkY4ZEF1QUpuckVGTWE0NUFFZWwydDd3TU9HWFF5ZFdxSzAtWDdvSEVRMHYzc0t4OVp4Zlh1LVNHeVdkSUdEb1ZVb3dWcnJsRjNoenBmcUVVdFBLYl94TFVSd0g5eXFIakh0RG8wVk1BQm9aVkFfSWQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "description": "Gold Market Primer: Market size and structure World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Reserves Survey 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks set to step up gold buying over the next year - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2gtaUdWQmdLX2Ntd1Y5R0dLM2VPYWNHNUVCbWZuVnV6ZzR5a29fbC1ud0pUMXlEeERmMndTZ25vbHRjZmE5QU0tSXZXWDU4STc2VmtveTBZb0wwdjc5RDlhYm5OSkpVWlZYMjFZanlaTWFPbnRyczIzYUxOZU8xeWNtSUxZT2RpX1dYN19fRHBvd0xjNkt4V1RuanFxdkU5UzQ4?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Central banks set to step up gold buying over the next year World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Perspectives on gold reserves - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWNTNkNCS1M2cGNGV3dFNnFfSWhqOFVtNTB6SjMwLW55SzdFMERqbHJRSG5FVXdxV2U3eTQ1SU9kdXhmcGFZTVk4X01sakxRdWZoX0QyQUlLY09XSEMwRUxnQVoxam5oY1RlUXZGa3hUTHFMaXpaVVNQQWtFZ0g3bXNDamw2Y3ppdXZQTWttOERtQXIyY0N4YnpTS0NyR3B5VERUZFRhWVlYZw?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Perspectives on gold reserves World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "You asked, we answered: Why are central banks moving their gold reserves | Post by Krishan Gopaul | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbE54WGk2bUFoZ21wdmFvLTVZRzdPZkdLMUJlTmVQZm82UnJnZHlJSngyelJBUHktcjJnVFozcG1NU1g4WXpQRk9XZ2tLZ3FmdzNqb29MUGdhdm9Sa2JKdzRwdkhtdHF2czBXWmMwVEJaWFN6MzdaNHNLRm1ETDkyTUtlWmdsUUVKeUxiRTBhNkkwd043b3VpSWdZSnA0dzQ4MTVCa2txTV8xejVBRktYaXJHLXVGOUNxS0E?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "description": "You asked, we answered: Why are central banks moving their gold reserves | Post by Krishan Gopaul | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "China gold market update: June concludes a divided H1 | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlRai1GbUFVTGlQOVVrUW5PRUwyQzQwZV9Sd3pkMFc3OXpSSjRQUkRuRjRsTC0tZEdzN09iNElaVFVycHFGamdFOFp5S3J4NWNnRWdUYkJ4TWNEcUFUcVdlNnMweHpOVVBsUDNwRnJ5OGVFeVl2bDNaNkhac0hialRMX2IzQUtLSWVsTEI4d2EzM19Oc3NBcFJaZjRYMjQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "description": "China gold market update: June concludes a divided H1 | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
       "source": "Federal Reserve",
       "published": "Tue, 13 Oct 2026 18:00:00 GMT",
-      "description": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
+      "description": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "category": "general"
     },
     {
       "title": "Minutes of the Money Market Committee meeting – September 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
       "source": "Bank of England",
       "published": "Tue, 13 Oct 2026 16:04:27 +0100",
-      "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets."
+      "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+      "category": "general"
+    },
+    {
+      "title": "Global mine production by country - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvZGR0aG8yaS10N1FTenJtb09XeXlGQ2RJTEFKQ1NDbmh6RVZHODl3OUlCWkVKbEUyZGx6NGFnZk8xNmp4UVl3b3Mxa084am4wN1FHT1JodHY1RXZlNnRUMmRGUldqUmN4MFFabA?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "description": "Global mine production by country World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDRZVnp4MXJsbWxUbjdvbW1tN0ZaNG1LcFFRRlNSYU5GZG0wTzR4OVhvaDJjakJDdkFlSjJETzdHaGd3QzVGQmpnNk1xOHRMSjhXVk9BUnBmZ3ZxMjNGRlVTd3A1T0dHMVJSTEdlY3BHS19KT0ZVR1hrN0pkTlBPMVFySkxicTcwRG5tWUlfRjE3WGJqN01BVFVLMHZ0dGdrRjNiM0Z6SzFwaHB1MnZOSGZKSE1GNzA?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
       "source": "Bank of England",
       "published": "Tue, 06 Oct 2026 14:07:03 +0100",
-      "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets."
+      "description": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+      "category": "general"
+    },
+    {
+      "title": "LBMA 2026: Central banks find new reasons to increase official gold reserves - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2M0cnBuM1BxcWR1RHZuQmxIU3BpSld1NDVKdlE4Rjl3UXZLenRwTWN3aVltcWdaUlg5UEpwWWlwN1QxOWpGbUU2ZW1mTl9PTnlOSkF4Tm5UaDctaHBJTmlHRnI0a29MTi1XanVrZmZoU2JDMGU1ZjlnOXBFRDl5Mm9GSXdHZngtbS04ZU9FbkFIWE42UzlremFKYndFTHN3MS1ueFIxWXdfaTkyY0NLZE94SE1HX0JlckE?oc=5",
+      "source": "Kitco",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "description": "LBMA 2026: Central banks find new reasons to increase official gold reserves Kitco",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central bank gold statistics: Momentum eases in January while demand base broadens - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2htQmdDX3UtNFZjdFhWc2EzV1EwMjlOMTNoLUpVZEgzYlRnLWZJR2xYTFh2WUhqcEljTEhHdnBNVWg3SktqTE5VR2JDakY5aVU2WFVRaktnQWE2SndhbUhQWjZDU3JJRjB2YVVyQzdudlU4OG4yX0Q5SklEYUNMUFN0YWdmcDkyV3VQT1Y3M1U1Z2d6ZDJUQk5tQlRnTXVwczM2OFEzYnpacVU5QVZEdXZKczhUNmF3?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "description": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
       "source": "Federal Reserve",
       "published": "Thu, 8 Oct 2026 20:30:00 GMT",
-      "description": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
+      "description": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "category": "general"
+    },
+    {
+      "title": "Gold Demand Trends: Q2 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXFpSFotaVFKRno1MVJWYnhmdGJVMVQ5RUVEMVAtcFZuV2tST0s1eFF1RjB3TWVJOUkyYTRFU1VxVlRIUmlFM19VaU11aU10QXZDSDFWUnRIQkFidzBzTHhJLXROU24tQlpqQXNPaVk0MnlGVXJXMXBUeFc4aHFJOWxHbVlMeHJpcHJJ?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: Q2 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold market shows resilience as price momentum cools in Q2 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkxLby11Y3hUd0dyci1CdU9jTmpvS0ZIbVlKZUxYN0xsUXFNaXhRMjVwaW5XN1AxdHR0TlYtR3NQdVRmOUNQS3V6czJod2ZISHVYRVBFVEpLckRJUzMwZlVUNl85VjBCR1BCUGppVmtrNXBBdktYbm42ZU85dWIyTFk4RDRva2JtYlBkWC0zNkp1WloxcjRzX2FlR1d4S3ItS2o2eFBQdw?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold market shows resilience as price momentum cools in Q2 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Demand Trends: India Focus Q2 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVKWUV3OW1vdkV6TGxiR1BfbjBYMzBmVnI1dDNSdGJhSmQ0dGpiR0I5OXFzMjVpbl9CQ1pkV2Q1Q20wLVBPSnBDY0NCbTFSc1dHX1BxOTlqdG1vZG1haU9SRkhyX0hRZ21iWHFwTlUtRnU2NUN2QzVLSTU4YThsZ1lqWjNQWUd0ZEFMcXN5clFjRElITjl4eXFtRQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: India Focus Q2 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Russia Sells Gold Reserves to Cover Budget Deficit Amid Falling Energy Revenues, Ukrainian Intelligence Says - uatv.ua",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaldBTzFxR0tiMGpseUVVekNRbTFhWTJ6akdRMzhJYmN1OUd4MDFuMi1SVHVLS0J3WWNQT3JQa2xIYmVERHlSN29icXBBNTJydVB3c3I1eGN4WDRZOEZybkQzYWVud0RwcXFYQVM2aUdNNGdJbXg4cV9Ib3ZfNlNpQ0h2d19UYlJTT0w0RVFkM0wzRkk1a0ZYM1R4VlNpem5QWUNFMmxNY3hwdlg2SDNEOE5iRnJQcGZJYmxSRm9oMTltSHpPV1E?oc=5",
+      "source": "uatv.ua",
+      "published": "Thu, 29 Oct 2026 23:26:56 GMT",
+      "description": "Russia Sells Gold Reserves to Cover Budget Deficit Amid Falling Energy Revenues, Ukrainian Intelligence Says uatv.ua",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
       "source": "Federal Reserve",
       "published": "Thu, 29 Oct 2026 20:30:00 GMT",
-      "description": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
+      "description": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "category": "general"
     },
     {
       "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
       "source": "European Central Bank",
       "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
       "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
       "source": "European Central Bank",
       "published": "Thu, 29 Oct 2026 15:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Monetary policy decisions",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
       "source": "European Central Bank",
       "published": "Thu, 29 Oct 2026 14:15:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
       "source": "Bank of England",
       "published": "Thu, 29 Oct 2026 14:00:00 Z",
-      "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members."
+      "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.",
+      "category": "general"
     },
     {
       "title": "ECB President Lagarde to step down on 7 February 2027",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
       "source": "European Central Bank",
       "published": "Thu, 29 Oct 2026 11:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Bank of England sets out approach to tokenised collateral in central clearing",
       "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
       "source": "Bank of England",
       "published": "Thu, 29 Oct 2026 10:00:00 Z",
-      "description": "The Bank of England has today launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral."
+      "description": "The Bank of England has today launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral.",
+      "category": "general"
+    },
+    {
+      "title": "Russia’s Gold Reserves Hit Lowest Level Since 2019 as War Costs Drain State Finances - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1dYOUNOTHlnSkptQXNJdWlGTFo5QzVjb3h1dGJFOXlJY1Y4MnZWQWhoMFBpbUhfcS1tQ1FrY2JNT2EzVHZqMDBhNTlYM2JINWlNLUR4ZWl5OWpSeTBQblVvX1Q5VFZXLU9mNEJLeHRCeU44UGJleFdLb09lbmRmd0N2ZHRJZWlWNGpSUDEwOFZmYXotTzdoeWV4ZGtIRE5uX0hQZU5vc3cwLUpzMEVsVENtVlZtbHZjWEMwYWdn?oc=5",
+      "source": "UNITED24 Media",
+      "published": "Thu, 29 Oct 2026 09:09:36 GMT",
+      "description": "Russia’s Gold Reserves Hit Lowest Level Since 2019 as War Costs Drain State Finances UNITED24 Media",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Demand Trends: Q4 and Full Year 2025 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1ZPVWhSNjZoWWttR3hhd3dydXhfZFFPNzU2eXY3ZFBrU2ZwNXQ5YzJTbnBwaU04M2RTMEQwOGdjeE9wYWRvb2k5ODFYaEtfcUtUYVdxVTVyeVhQelJMRzVIdTRrcDFrUHVqRkZrQUkydHpmWkwxcTF6Nm5VQ0tIbHg0N3BwNkd2N3NuMFhhT3QwWHVh?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "description": "Gold Demand Trends: Q4 and Full Year 2025 World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
       "source": "Federal Reserve",
       "published": "Thu, 24 Sep 2026 18:30:00 GMT",
-      "description": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act"
+      "description": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
       "source": "Federal Reserve",
       "published": "Thu, 24 Sep 2026 15:00:00 GMT",
-      "description": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank"
+      "description": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "category": "general"
     },
     {
       "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
       "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
       "source": "Bank of England",
       "published": "Thu, 22 Oct 2026 21:00:00 +0100",
-      "description": "The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth."
+      "description": "The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth.",
+      "category": "general"
     },
     {
       "title": "Minutes of the Securities Lending Committee meeting – September 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
       "source": "Bank of England",
       "published": "Thu, 22 Oct 2026 16:35:53 +0100",
-      "description": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market."
+      "description": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.",
+      "category": "general"
+    },
+    {
+      "title": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S. - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHhMaFhQUUsyQ2RIQzhWM2ZZSDRjaVpJZnIxVTdFMzBkLWxRNHh5NU93ZWdYVXVYY3Z3U1BhQWpoRG96akJZaUQ3SW5haVVOUVZIOFp6aXNlWS1CVlBMazFORkNIUlVVdVdVTFdSSmpoSkxXSElJN3A1R0dCR3M4SU1JSTZlbXBUaWRaVnhoTU9jd2NmUS0xOTl0c0o?oc=5",
+      "source": "Fortune",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "description": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S. Fortune",
+      "category": "gold"
+    },
+    {
+      "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
+      "source": "Bank of England",
+      "published": "Thu, 17 Sep 2026 14:30:00 +0100",
+      "description": "Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting",
+      "category": "general"
+    },
+    {
+      "title": "Monetary Policy Committee dates for 2027",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
+      "source": "Bank of England",
+      "published": "Thu, 17 Sep 2026 14:30:00 +0100",
+      "description": "2027 confirmed dates",
+      "category": "general"
+    },
+    {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "source": "Bank of England",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0100",
+      "description": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "category": "general"
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "source": "Bank of England",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0100",
+      "description": "Exchange of letters between the Governor and the Chancellor",
+      "category": "general"
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
+      "url": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "source": "Bank of England",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0100",
+      "description": "Exchange of letters between the Governor and the Chancellor",
+      "category": "general"
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+      "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+      "source": "Bank of England",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0100",
+      "description": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank reviews a model of selling gilts to the Government.",
+      "category": "general"
     },
     {
       "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
       "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
       "source": "Bank of England",
       "published": "Thu, 15 Oct 2026 10:52:41 +0100",
-      "description": "Published for the Treasury Select Committee"
+      "description": "Published for the Treasury Select Committee",
+      "category": "general"
     },
     {
       "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
       "source": "Bank of England",
       "published": "Thu, 15 Oct 2026 09:27:59 +0100",
-      "description": "The SONIA Stakeholder Advisory Group supports the Bank’s administration of SONIA by providing advice and technical input to the Bank and the SONIA Oversight Committee"
+      "description": "The SONIA Stakeholder Advisory Group supports the Bank’s administration of SONIA by providing advice and technical input to the Bank and the SONIA Oversight Committee",
+      "category": "general"
+    },
+    {
+      "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "description": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
       "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
       "source": "Bank of England",
       "published": "Thu, 08 Oct 2026 00:01:00 +0100",
-      "description": "The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will represent UK wildlife and feature as the central images on our next series of banknotes."
+      "description": "The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will represent UK wildlife and feature as the central images on our next series of banknotes.",
+      "category": "general"
+    },
+    {
+      "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0RmSUIyTEM4QkRSbHpzak9zYWxmSEJKcXJiWkJJR0ZDOW5hX3RSN2pMdHdObjVYeVc1TURZdnIzNVE5YnM4dV95MDZYbXFWd3JsMUF2S0ZQN2VHWDVPNVl2MDVFNS1DMW1vaVNKZm1aTjd4aVVMcFhqdmd5RWVBbXhBNFlCenB3OVdSb1JpSUs2TFNLeVJlVEJWQkVFX1M2Y0xCTmVTYjctUGJwMzVra3hB?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "description": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
       "source": "Bank of England",
       "published": "Thu, 01 Oct 2026 14:00:00 +0100",
-      "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members."
+      "description": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.",
+      "category": "general"
+    },
+    {
+      "title": "The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBxNUF1SHZxTzlxSEpoUE5wUXJKbXNLdlI3M3pSeUpMenhqTEEwUTN2QngyNXhLM3FXVEhVanNBUlBGWnFoRlQyYTBoZlRBTVA4aVlZYWNkU1hsWkxQcFdNSzE2dEc4RDgyUHNEUHQ3NkVtZXF6QkdFZHlrSkJDLUNaOWlpdDJjai01U1lmTVJocHBzWW9rbDZ3dGZaQnNnbzNPZ0Y2WE5HTEJr?oc=5",
+      "source": "Fortune",
+      "published": "Sun, 25 Oct 2026 18:57:00 GMT",
+      "description": "The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' Fortune",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks split over gold: Russia is selling, China is buying - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW?oc=5",
+      "source": "Euronews.com",
+      "published": "Sun, 25 Oct 2026 06:58:33 GMT",
+      "description": "Central banks split over gold: Russia is selling, China is buying Euronews.com",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks around the world are now reshuffling gold reserves for a new era of uncertainty - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGRYWFpJSzF6MHZDdWk5eFVNc1U0YVJTUE1hVFp6ZnJFUUVCZTNHcGlvZlBnWG51LW1Vd2dUUS1jeDUzTzBOTldnVE5RWGVHdXZPQWJhT0RScHpFTnhKSHdscWI4TU55SjdyaHFGbGtiOEV3VFNKWWdHWHNQOUNYVGxUTkdjX2Uta1pkX091NC0wUHhVczJmcXdaX2Y0c3pnY254bjNhdUd4YU0tY0xrcmFva1BtZkhFSXc?oc=5",
+      "source": "Fortune",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+      "description": "Central banks around the world are now reshuffling gold reserves for a new era of uncertainty Fortune",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price outlook: Gold sliding along the 0.786 arc. Eyes on 3,720 - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1FUbGhvLUpObU1XQXZ2VTh0S191dDdNRlRZZ0JlTkVDWjBaODJuQ2FrRzlfakx2MXJwTGZSX0tCRS1wWWtNbmF3MFBnUTE2Nk85QVhFcWxRQ1ZDQWNQQ01zMVE5YWFBMndEMU5OWU1Cb0doVW9VM2ViRTI4RUJFYllCcnlsem5EMW1NOERLT3hldzVkZklPR2xpUUppYVdNajZoTWJPa2pSZ1QxNGlWUw?oc=5",
+      "source": "FXStreet",
+      "published": "Sun, 01 Nov 2026 19:08:37 GMT",
+      "description": "Gold price outlook: Gold sliding along the 0.786 arc. Eyes on 3,720 FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjRaRVk1cVlHXzRfdGpIRkl0Q3Q3aW43VTU5UWdtd3hBZnBEMWpLbFh2QU51OVFYYjJTMUMtZndvXzh1Z0VzNHlCTDhXU2ozUkZ5TzRWenBBWFZ4bHlqTXY2cU5ObG0yT1VoVkwwSi1sZW1ScW9RQmR0aTlOU3NwWmJ2eXBBYXV6ZUh6cjViSEZja1l4cW9NbFZacHFrbEx6TEx4Y3JXbGFlTkhwaGN6emxUUEhtNGxVWmFvM0w1aDk0WTRQSFE?oc=5",
+      "source": "FOREX.com",
+      "published": "Sat, 31 Oct 2026 18:07:07 GMT",
+      "description": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend FOREX.com",
+      "category": "gold"
+    },
+    {
+      "title": "Venezuela demands Bank of England return its gold reserves - Monthly Review",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQazFEU3ctNmVrYXdiQ0xSeGlORGc3aHJkdkhDNXB5a0RIdlh6VllYNC13ZHY0Q3hUeU5MT0VVN0RTM3RoVU1DRHo5NmlFT3cwV1Eyc2tmaGtPbVNiajBOVGdKa1Z3WXZFUi1vU2h3X3VZQmJteTBQRGUwcHdlM0o2cXdVUXFtMk1CZ0Q1cnYxQWVqUDROMlE?oc=5",
+      "source": "Monthly Review",
+      "published": "Sat, 31 Oct 2026 13:02:37 GMT",
+      "description": "Venezuela demands Bank of England return its gold reserves Monthly Review",
+      "category": "gold"
+    },
+    {
+      "title": "Silver Price Today | Live Spot Price Per Ounce & Charts - SD Bullion",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hT3hFTEstRXBaRUNWQ0NITm80Q0pVS0tOaXhEZXVCWF93MGhBaFNVOVRLamxfZElqVEx0S1hKaUhkbGx6aWY0R2Ywaw?oc=5",
+      "source": "SD Bullion",
+      "published": "Sat, 31 Oct 2026 11:16:00 GMT",
+      "description": "Silver Price Today | Live Spot Price Per Ounce & Charts SD Bullion",
+      "category": "gold"
+    },
+    {
+      "title": "Gold (XAU/USD) Price Forecast: Breakdown Puts $3,500 in Focus - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUNQdlc3dFBVOTVwS2JBUW1nXzJaRV8xanJ1UDhtYW9lak4xczl6Ry1zTnlHWmdlMDVvQVNRalk4LVpyYUdKcnFwcnc5T2xYSGl4YmQteFFDdXFxMFpJU2JOMEdnQ0xROEZCWjQ2ZmtROXJtaWVZRExZRTdMT2J0ZzFVaVFVMklyaFAzRWxKcFRpSnlDbjVwTnNHNW5rZDBpMjlBZTdJZGRUSFk?oc=5",
+      "source": "FXEmpire",
+      "published": "Sat, 31 Oct 2026 04:31:00 GMT",
+      "description": "Gold (XAU/USD) Price Forecast: Breakdown Puts $3,500 in Focus FXEmpire",
+      "category": "gold"
     },
     {
       "title": "Piero Cipollone: Interview with Milano Finanza",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
       "source": "European Central Bank",
       "published": "Sat, 24 Oct 2026 08:00:00 +0200",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
       "source": "Federal Reserve",
       "published": "Mon, 5 Oct 2026 20:30:00 GMT",
-      "description": "Federal Reserve Board announces approval of application by Isabella Bank Corporation"
+      "description": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "category": "general"
     },
     {
       "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
       "source": "European Central Bank",
       "published": "Mon, 26 Oct 2026 10:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
     },
     {
       "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
       "source": "European Central Bank",
       "published": "Mon, 26 Oct 2026 06:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Record gold prices outpace rising mining costs in Q1’26 | Post by Oliver Blagden | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDZjc3NvdjhjX2Ywcm84Z3lQOUZDWGRrSHF1b1FYQ2lMRVhZOHk4dDNXcFBNYkw1YUtzM2hGMTE5R2piTC1GdG9fbDFsZTYycnRIYWl4NUpCNXdlbGdpZUZoR0ttOVh2VkxNZkVEelhMS0RiVmhqTjVydnFsd0VDMTdQeWUyR0NSX1NGSGxXdWhoaGhzRVRFd3JNQmt2T0pf?oc=5",
+      "source": "World Gold Council",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "description": "Record gold prices outpace rising mining costs in Q1’26 | Post by Oliver Blagden | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Bank of England announces new office space in Leeds",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+      "source": "Bank of England",
+      "published": "Mon, 21 Sep 2026 13:00:00 +0100",
+      "description": "The Bank of England has secured a new long-term premises in Leeds, marking a major milestone in its commitment to build its presence in the region.",
+      "category": "general"
+    },
+    {
+      "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
+      "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
+      "source": "Bank of England",
+      "published": "Mon, 21 Sep 2026 12:30:00 +0100",
+      "description": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
+      "category": "general"
+    },
+    {
+      "title": "Digital gold market worth US$700 bil - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWRsNVQ1YnF0MS1BNmtaRWYxcHhXOEEzTmYxV2diaXM0R3pPNlFWQjBMb3U0YVk5bmJZYmdjYWVRMU00VXRtOEtRWGtNMzN0eGEwdVA1a2FWVERYTGpLcHNqdVdCT2thUDdUM0g3WXBSTURNR2p2NmZqcXJhMTlOdWZkaw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "description": "Digital gold market worth US$700 bil Yahoo Finance Singapore",
+      "category": "gold"
+    },
+    {
+      "title": "Gold market consolidating rather than entering bear market, Metals Focus analyst says (GLD:NYSEARCA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLTd4NExhb0Q4a01MdDl4TVVzOW5pVEJudU45dHFsUEdaTHhvVzNQUFVEZ09vbkt4X3luTUkyREh6VVhoSlJ6R0NDcFE5VlZTdXdtOFRPVDk5VFctNmN1akZiVlBMcXBPSUgwc0JYYjBsOE5CQ3VlSGxyWW1MMEhRbUZTOFQ5REZVc1UzSmtJc1FYODRYSUpwdkIzNXFSeDFZdTdiem5xWkFxZ09pTE1vTGFuSHFMSkJJOUlfNE93WQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "description": "Gold market consolidating rather than entering bear market, Metals Focus analyst says (GLD:NYSEARCA) Seeking Alpha",
+      "category": "gold"
+    },
+    {
+      "title": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
+      "source": "World Gold Council",
+      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "description": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Woman found hanging in flat, husband held; her relatives allege murder over gold demand | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ1VRbkpabXdMOVY5QWk5emc2dW40NmxMam1pcWhCVGNRbHlzNzVGZzhBbnU1Sm83cGFLSUZMUFI0OG1SbnBGU0xFdmgzeXFhQVhUR2ZyU25MaWgxUmx0WFNaQ0JaSTk3eHVmUVVIWVIzc1FPb0VjQm5DN05HZHZkRU1SWWNkcTg2SFRoMXBQeGxrb0VWSDhHVkNuNloyN0hxeGZiR2lQaFcxa0dGckladFhrOXFoOE10YXNIdVRXLXNhWXhKY1NPdVRwWW1kejcwX21MejZMSFVmSWFONUpJODFFTENkUnF5RWfSAe8BQVVfeXFMTWRhSlJ0TXVWN1RLWDVHSDU3ckx6TF9WQVJPMmViSzU3TjVkUjM0dUk3RGpQa0pubnRhRDEzcE1OeFk0LXg5cHNocUJKMUJHNzlRQ2ZaaDRxRGdETXZUZ0F5MmZTSElEemIxVXhFSFZzRUxfLU5hVmdQWlB1ai1YMEREczQxVk1oXzljOUNUcGstX3JtZ0FBLVlsLXA4RkJDTHZKYTlyenV5cmZFOC10X2o4ZGZlcnJjZEdQMEIzdmhCaTdnZmlVeXRMd0M3cjNqYk1mYkxDMm44Q3hwQVk5QnZXNzQ4MDg5Rkhka2hVX00?oc=5",
+      "source": "Hindustan Times",
+      "published": "Mon, 02 Nov 2026 18:49:04 GMT",
+      "description": "Woman found hanging in flat, husband held; her relatives allege murder over gold demand | Hindustan Times Hindustan Times",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price rises by Tk 3,265 a bhari - New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDZwZ3lrNFptUmVtdldweXVZTDdGazFkbi1CakxJV1FmdlMzeW8tZlFPN3A5Qk9oM3RhZUswMWtWSW9LWHRqbVE5aHZjd0czcS16MENzMzZnNi00Zmphb2d6ZGlCWXowOEFRSGYzejhQS3QzeWNlc0wxR1ZDcTg0emRLeWVRSVhBZ0dSY1N1VXpUX1dlWDdB?oc=5",
+      "source": "New Age BD",
+      "published": "Mon, 02 Nov 2026 17:54:58 GMT",
+      "description": "Gold price rises by Tk 3,265 a bhari New Age BD",
+      "category": "gold"
+    },
+    {
+      "title": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjJmZGlKamJpZ3k1YmY4MG1acTc0eTJ3ZWJtbmhIdHZxUENSR1lXUHhQSUZiNjlBNkh0aUFjOW9GUzQ4QkI0aXNDV1RxMF9xS2ltV0l6aFk2VnJwaVBfY2xLcldyMFktdWtjdmllMFJoUHRfeTJad0VMQjZRLU8xS2dwNHpWVzZPTlBqelFqV0hDNjdsQmpVV1pzYjUzM1YwdG1YSFROUmNUbXg5bWUxS0U1V1Q5OExNbm1HX3RTR1NuRnJQcWd5cWhkSWYtc1ROUkhBWGtjVHBydw?oc=5",
+      "source": "StoneX",
+      "published": "Mon, 02 Nov 2026 16:36:44 GMT",
+      "description": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting StoneX",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Today on November 02, 2026 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3VJUVo5ci16bWcyRi1XNFJEaDA1X2ZNVkhuQld6czFQV19HUkZsbXRyTExGVXlwVG92Z2hrNW9PTVdxMzJ0clQwMUN1eFVzZkt2dDM3bEdGTmRvM1hpS293WEdpajdvdFB6RHBpVDhrbWFmYWZnN1AyMVZabWpWRFdISklpVDBJMzd1UDA1UXM4STYwVERqSzg0TzhmUnkzMUQtajlhVGoxYW8?oc=5",
+      "source": "USA Today",
+      "published": "Mon, 02 Nov 2026 16:26:56 GMT",
+      "description": "Gold Price Today on November 02, 2026 USA Today",
+      "category": "gold"
+    },
+    {
+      "title": "Stock Market Today: Oil Slides on Middle East Hopes as Wall Street Rebounds, Gold price Gains 2% - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjhFNjRqdzM0dXRXT1Z4cUowYjFRSndydFE5NjBJY3VaMF94X2NaWFZ5YjE0eDdLNkhnSGJJTDBDdXZOVDJFZmREa180OG1tZHhFQ3dETlAtUE5ybllvOXFCbnpwRWlXWkhKVVliTFgybFpxU1JoUGw3S3pEX3RJM3J4bzctWUxZRXhoQ09rVzZfSTgwUHZBYndQTk0yRnoxZDk5elZ5MlhUbi11UWpxUW95MDNJN1lldGZhQ0Jha1ltZ1FWMk11VWVQSGtQMVFzLTQ4?oc=5",
+      "source": "Eurasia Business News",
+      "published": "Mon, 02 Nov 2026 16:11:09 GMT",
+      "description": "Stock Market Today: Oil Slides on Middle East Hopes as Wall Street Rebounds, Gold price Gains 2% Eurasia Business News",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Forecast, Prediction: JP Morgan Flags $3,500-$3,600 Support - Exchange Rates UK",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSW9WaG9jemhwSVE5cjNyZUgxcWU2bjZYUjM5ODNsLVBjOXd0S0tVdERMalZDZEhPa1ZIdUlScWxZZUotODFkZUEzNWd3UzI1OVhWS0dPMFJOLXY2QUNyc3o5Q1lpc3BYUlRDZmRYZ1RTa0dTYXVXaHpURzRtV3FfYVNiZDhaWU5KREJvN3ViM2RsN2czb3huenlrTVlhZmFKN04zSlpaeWtxSXBxbGM5YmVCX2xSUzRuMHF4UGlvZDZSa0w2?oc=5",
+      "source": "Exchange Rates UK",
+      "published": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "description": "Gold Price Forecast, Prediction: JP Morgan Flags $3,500-$3,600 Support Exchange Rates UK",
+      "category": "gold"
+    },
+    {
+      "title": "Kinross Earnings: Stronger Gold Price More Than Compensates for Lower Volumes and Higher Unit Costs - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMW8yN1hqV29JWHRpV0ZWbzRqc1l6cWhmNEdjaG9RVmlTbm51emNhZ1RjLUNNcFVkRldveHNQM3BnNjhnWjRrVDc1cndVZklMeDVCaC1CaklxQmNYejJwTjV4V3VpMXhTVVRFMnpwSmRvRGNSbHhrRHJxVWdvMkJtT3E4cUJ4VEk5ckJoeGxaVzVzZGpKU25scDBtMUVoSHdvdEx5M3VJMWxQUk1jUmVYcjNqQjl3NW16b2xhNndyalRWUXBtZk5zVnpkRF9kVWs?oc=5",
+      "source": "Morningstar",
+      "published": "Mon, 02 Nov 2026 15:22:00 GMT",
+      "description": "Kinross Earnings: Stronger Gold Price More Than Compensates for Lower Volumes and Higher Unit Costs Morningstar",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price today: Two analysts see more downside near $3,900, but one warns an overbought US Dollar could spark a rebound - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcF9yX1l2TnQ0V00yMWJ2S00zX0pxeWtkVWFVNEdQM3hCcDItZmhNSUt3VzhBZURHTEdWZDl3enFISWhvd05LdDhqc1d6ZGxaLXMwRmFoZno2QkU0NWZTRFdfVGp6ZFprSGlzOHNjTm9WZkdrREhJZGpiQXBESktWYW90dTAtaVJBWndDdFZtTUd1TklqV3pSdHZ0UEFkcE54anhFT0hKNVgyVlRUa0hZNjNjV0pRRkFlTUh2TlAyajBsRm5Rbm95Qzg0U1hWNWVHbTRDdWUxQkZzTU5rSXJIOUVMUjR6SVZuV0RPcVBWbVdhdjRPbWtzaA?oc=5",
+      "source": "FXStreet",
+      "published": "Mon, 02 Nov 2026 14:29:50 GMT",
+      "description": "Gold price today: Two analysts see more downside near $3,900, but one warns an overbought US Dollar could spark a rebound FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video] - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeU4zV0UxVVBxbzNNaFJJZDhGalNMb0ZtS2oxRXZfVFdXekZYcE9HODVUcHY1Z3ZmOVV4MWF5bEtLdlJFeldYbEpISWNrX2l2QmZlbVBVUGo5QWNEUlhvMFFqQmlqNkFneU1vVlo0Nk9DVkZRbDNId09aTV80dXZvRGFNUDNHZVBCTTZ0S2h0M0hhVUxUaF9UeUtaay1pWlJZalJOdEN0cjBLdnk2WlBTejJvdk9lWE9TQmZMOFo1dDI?oc=5",
+      "source": "FXStreet",
+      "published": "Mon, 02 Nov 2026 14:20:06 GMT",
+      "description": "Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video] FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Gold forecast: XAU/USD stabilised after recent falls – for now - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUQtcU9kUWhhemxDYzFmdGIwRDU4U1hGNU42RnQ2TFJYSV9pa21PWEktclJPZWNUVURVSnMzSDZBS0xtZUlKaVl5SW9ickNBMjFXZVhfYkxOOW1tMkVIMFVyOWRHQkI5dXJiLUpKb2N2bXhlbFpJaHpGWGc4Y3dhUFFNWVgtN0Y4c3pwUzMxTGtqTnFwdFFVaFJZLWpVQUhpSi15YjM4RHlrdWZsTmJwTVVhMUZjbGdKOEE?oc=5",
+      "source": "StoneX",
+      "published": "Mon, 02 Nov 2026 14:01:42 GMT",
+      "description": "Gold forecast: XAU/USD stabilised after recent falls – for now StoneX",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Outlook: Why I’m Avoiding the Dip as Gold Stays Expensive - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1fSlY1bUVNd0g4YklTX0dsY1R0WmtfTDVDcUNVVlEtbGJvTnhiTWM4MVBIUEdSRkdCdTR0ejQydHNnSFRLdzN1WHk2QzM3dEJzVlMwQWlKX0NMUzMwNWVfdm0wR0h5MWRiZng2ekNxcmhMdUljaFp6TlNWbjRPbVlmM2hzUnVqRGV2WlFDbUlsTnllOVR6ZTNwMGZ5X0V3aDdzalpYc2RTbjlkWkl1OTdHaDFFS29D?oc=5",
+      "source": "FXEmpire",
+      "published": "Mon, 02 Nov 2026 12:06:05 GMT",
+      "description": "Gold Price Outlook: Why I’m Avoiding the Dip as Gold Stays Expensive FXEmpire",
+      "category": "gold"
+    },
+    {
+      "title": "Shafaq News..CBI reserves top 113 trillion dinars after devaluation - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNODYzenN1dDNKNDFYMVZTQkpkTmVKOHl2eHFEMzBqLTNUZElzQlBrTHU5NnV1WGhKV28wZ2tJRk1LX1d4YkpmbTAxVFlFbnZDUHNycEFsdGhTUUx4Z2NieXd0NEdLLUI3Zll1SnlLZ3dLN09tOHRwWU4zcy1NWmdjZUxOQ2dxajU3dm9xLQ?oc=5",
+      "source": "شفق نيوز",
+      "published": "Mon, 02 Nov 2026 11:15:27 GMT",
+      "description": "Shafaq News..CBI reserves top 113 trillion dinars after devaluation شفق نيوز",
+      "category": "gold"
     },
     {
       "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
       "source": "European Central Bank",
       "published": "Mon, 02 Nov 2026 10:30:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Stack BTC Revises Terms Of Proposed Direct Bullion Acquisition - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQnE1Yml0UE51SkZYTl9sS2J1MFRlV3dBWEZJVFpqb21BYXUtQ0hYXzFTakIwcWFHdEJJYzlNaEhKdnhjczA4dXk2LVYyRmN6LWxPM0hfeFRaNU5jWEtKdFpPb1RBeUphSG5NYUx1U1NDUWd5S1hhMjFWRkNEd3RIRHR2QTVFM0JMaEJ6YUJWQXZqWE5aRXlKRFh2QXJjQTNNM0E1WE9WMkZnSHJLdFZqOWdSVEZHS3gxampzbWJBTnBSczc4cFc5RDJ3S18?oc=5",
+      "source": "TradingView",
+      "published": "Mon, 02 Nov 2026 07:43:00 GMT",
+      "description": "Stack BTC Revises Terms Of Proposed Direct Bullion Acquisition TradingView",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price prediction today: Will gold continue to fall? Check outlook for November 2, 2026 week - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOTTc2MDJ2cnRodVpDLWtwUFEyOFhqbEZwOXBlbl9MV0xWWU5qb0dCLUNsbzBUREZKdDBUWHZiT0pEQnZtLUZqWmZNRm9oQm5aaUtjTERiRUZiUV9EaDdjSHRDY1NXVVRyM2k4eTNfZzJHekNuT3FRMS1VVUpHY2N5M2VteTQtYm5ZQnN2b0NSekliQmFUank4Z2V5dWpNX1ZGQWVmd0k4TUdQOFhpOGlMeXRRM1EybGtxUEtJMy1DZW5fcmVGMUhDNVJLcUtkaTRzR2NKeV83R3YtV0hwaDdHNklCWnNEOTJvZVhXaEYyZy1WZE1paTVvaHVNRENPd0F4Tzh6ZENISHdFNmRiX09za3c5VjJ1UlBFWEJLS1RnNllaaEtzT3dIVWx0bUtpZHNQVV91aEdVdlRqNXdGVGUzSFh0OTJYbEhMY1FCM001SGZsRnVHSU83TUwydFB0NknSAeQCQVVfeXFMUEM4M0N4VjRkSDlkZ3BtaFpaaG1aaXRJY0Vxb0czQWhwVkdyeUJ2OVc3REZ0SmlwX2lPbE1PYVA1bWNpLU9HNjF1U2t6QmtDQVNFR011QWlILTQ5blc4R2VmQTFqUTZnNGZIRVI4VzdremtNY0QwVXQwMHNmTjIyUzNRQWV2N0dyb2xLcUF5QUJ6Vk5IekQyUFhMZWVhbGR5VkVwOWJKZ1JpalI5eGVFWFFTMHdQaGN5RVc4WG0waFYzZGxQeER3X0NTbDd1NUpSR3NUWC1McmNkaXF6dEFhb3RtOHZOT2dfWlpDdzQxd2JkYkFiSEJsZ2xLcW1BeXlueGdoSnkyM1JZYXljRWU2WkxUblMtSXo3MUZSMXVQeWdBZ0JWNUNSb0U2eERsM1JtME41Q3pvdGI4dUd0N2NLUU90NUtTaUtJaDdUMjl4eE1nT19yU1RhaVZBa0lvcXdEbVV3WGE?oc=5",
+      "source": "The Times of India",
+      "published": "Mon, 02 Nov 2026 06:30:00 GMT",
+      "description": "Gold price prediction today: Will gold continue to fall? Check outlook for November 2, 2026 week The Times of India",
+      "category": "gold"
+    },
+    {
+      "title": "India Gold price today: FXStreet data shows an increase in Gold prices - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ2hPbDF0SDJXWWJiUFpvY1JjYkJ5MURTVnFCSnF4aUxiRkpjR2dEVXhrRVNVeUJlUWhocVpsZnl4Mkoya0t4YW1ETEY0b1dTLVRxZW1td0JOeExiTF9HRUhIWDdqMGNNbE8tQ1gtVUtsMTR3cGlnQ2JlX01UMkYwTWVXNkQ5ZVFhNmI3VmpTT3IxVUJTN2Y0Wllzb0g5ZFpHUWJqdHplYmhhdF9HeERGX1hqa3dNQkRSNks1Wk9FU2xxRndKdml6Sg?oc=5",
+      "source": "www.tmgm.com",
+      "published": "Mon, 02 Nov 2026 05:32:52 GMT",
+      "description": "India Gold price today: FXStreet data shows an increase in Gold prices www.tmgm.com",
+      "category": "gold"
+    },
+    {
+      "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 02 Nov 2026 05:04:00 GMT",
+      "description": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus Reuters",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD recovers modestly as oil prices decline, US elections in focus - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1c4Ui10WDBxa3JVdzltc0U1WlZaUWJXOS1hSzBtS1V4RUw5UklUQkVNYWRoa0F3VUtqc1d6TkliRzdWbnV3S0F2STVlYmtKYzM4bjItVUhnQ0lPbUdZbEtjSHlOZVUwaVROczJhb2pVcXNDX3ZQQTRqVVc0YWJIQ1FCWk5mS24tMmxGTU1jbXRnUmhmTWZGYTJDcFdSYXNBM3ZIYkJEdnZwUUExNUxReG8xMUJjWGFjSDVHd1VTQ0lZUlJfRnBrTDR1SlU2UWg3RUE?oc=5",
+      "source": "FXStreet",
+      "published": "Mon, 02 Nov 2026 03:37:47 GMT",
+      "description": "Gold Price Forecast: XAU/USD recovers modestly as oil prices decline, US elections in focus FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price is Attempting to Offload its Oversold Conditions – Analysis –02-11-2026 - Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNW1hU2phd2RsU0ktVFpSOG9zZHNDX2NtTkRWLXlnLXNYTUc5a0pjN1dxXzlSWHM1SkY3TDlRVEdnay1hTHJtTWdjdFF0LUYybkYyY0VlMF9PNkNfdnQ3MzR2TklZbFVnRGtGU2s3U1BtbU9fbHlJSURhVkN2TENBODhrUURfQmFMQXdkNU1OXzkwSWtzSDRYNHVtc2xydDI0dVZWSmRfV0Q5ei1jdXhhOXVWMnBPVGtUTllTd3F3NjRsazN1VXFGOUZzN09kMFNVaW5ZSEcxTG5USlBrdVp0dTUyTXM3Wk5jT2lqLXRR?oc=5",
+      "source": "Economies.com",
+      "published": "Mon, 02 Nov 2026 03:28:00 GMT",
+      "description": "Gold Price is Attempting to Offload its Oversold Conditions – Analysis –02-11-2026 Economies.com",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 2, 2026 - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTNtRWJqZEJaSUg1N2pIYmFTSWczTVBMZkJQWW9yWjBJX3RGZVJraWU2S2hfaHZxVkdrcW54b01XLUFjc2xuMUJ3UzBLV1RiemJPeEk3bjdYeUJUVW5iX203RjRGRl9ZXy1VcWhZZEVOU1JCQmc1aXNYNVZaaDRfS3BjOHdCem1DS1lJWUQ0UG42T2x5QmVKVmE0WWpPc2hfMzFF?oc=5",
+      "source": "Mitrade",
+      "published": "Mon, 02 Nov 2026 02:44:29 GMT",
+      "description": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 2, 2026 Mitrade",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price analysis today: Is the sharp selloff creating a buying opportunity or another trap? - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWh2RF9oQzJiczZ6enppemwwXzdWekx5QVVaM3NnRXNWWENPMjZGbUtGM2YzRzl6MndXSE1pVTFOYlV3WTdubjRIQVJVckljRlJBSlZMX0ZwTHlydWNYTWlSMjRaU2JFb2I3Q1ZuekZpb2FnR3lPUUt0bFdEbjRXZFhRVnVYdVFSWU5FM0pHd1lROE40a3RzdWdhTjEtX3A1YVM1RnRSUHpsenc1VUtHZEZQX2t0b1R2Tmh1OVY0SkI2OWJTTGZUcE5DNA?oc=5",
+      "source": "investingLive",
+      "published": "Mon, 02 Nov 2026 00:04:35 GMT",
+      "description": "Gold price analysis today: Is the sharp selloff creating a buying opportunity or another trap? investingLive",
+      "category": "gold"
+    },
+    {
+      "title": "PRESS RELEASE: DOREX WEEKLY GOLD MARKET UPDATE – w/e 30.10.26: Gold Faces Selling Pressure as Global Markets Seek Liquidity - Press Release Distribution Australia",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcGxRRG5HWmZNVGlPQmIyMElUd3JodmNUNEVKekNjWlVxZGxoT2Nkdlg4c0lONVl5T01EVU8yZEkyWGMwT3FHdTQ4WjJZdm5OYjZETFhWdjFNVzZGbVZ0bFlFaUZJcW9zbnpoX2JOUjgzWGFicUMtWS1CbEhlR1l5OG1mUXlzZmJWTGhmbDFnOG5LTDduV2lJa0dXTHNCZy1qQk1RV0Eyb213d0hEdldvc216NUFiRll5dm1pUGJqQldHTmJFNGV0Nlpwa25LM2h3eTk3TkVxWGk2Rk50MEhZc2lXby1yQVBqUmFsRVc4OWtJN3lyZWc?oc=5",
+      "source": "Press Release Distribution Australia",
+      "published": "Mon, 02 Nov 2026 00:03:36 GMT",
+      "description": "PRESS RELEASE: DOREX WEEKLY GOLD MARKET UPDATE – w/e 30.10.26: Gold Faces Selling Pressure as Global Markets Seek Liquidity Press Release Distribution Australia",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 9 Oct 2026 14:00:00 GMT",
-      "description": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families"
+      "description": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "category": "general"
+    },
+    {
+      "title": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0pPZHhycWdjRDdEQ3NfYlRNbXhlTGEtSHRfQlcwWWFxdl9KU1VZOGdvNHA0RnJ3WTVlaTNYZ0ctQUdUODJWSlhOOC1RT25LZXhPZW5oV2JaMk85aWxmR0FZaHhIVXl3cGt4cnA4MXJfWl8td244TGdoNGhfMEdUZVN3aWdsTVdRYWU5QW1mNVM2TDR6Z3d6Qlc1NVE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 30 Oct 2026 19:54:53 GMT",
+      "description": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? Yahoo Finance",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mZXNibXV4ME54eDVOV3REZkV3VEMzSXplb214alJUZU5hSE0zcE0yMlBpTXJ6LTFLNlFENFNOUDNJZXJERGxINVVWUUNhS01UVkp0REZzQ3lCdWJra1Z2NWtSclVlZVZ4MXF0dXNn?oc=5",
+      "source": "BeInCrypto",
+      "published": "Fri, 30 Oct 2026 19:54:00 GMT",
+      "description": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? BeInCrypto",
+      "category": "gold"
+    },
+    {
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "source": "Reuters",
+      "published": "Fri, 30 Oct 2026 19:03:39 GMT",
+      "description": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone Reuters",
+      "category": "gold"
+    },
+    {
+      "title": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWI2VzJfY19yZTRMR2lrVkYwRXpfZmFiVUdiVzJGSWpid1ZsVi1jRURGM09aOWdYUkZtcGlLb3BBSVRabVlaV0xfckVCVFIxTXFHelU4WFNCVnd6c1g4Y0hfb2had2hTaXZ4dGlKTzcxZmFpX1EzLU55Tjl5MFFfZ1JPSHFjcmdKcmZvRg?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "Fri, 30 Oct 2026 17:26:11 GMT",
+      "description": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat Yahoo Finance UK",
+      "category": "gold"
     },
     {
       "title": "Philip R. Lane: AI adoption in Europe",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
       "source": "European Central Bank",
       "published": "Fri, 30 Oct 2026 17:10:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJnbS1JeHBpOHJBSFRHSk5wZ2stdmFPblE5YTdvUmVsbUpna0JQdm5NNTdDVEVVLWp3ZUJVb0RxUGhKc2V1MU1xOG5vRnZMMHktZElrSGJwbnJ5U2tBZTlmenlkMGp6OTdaRTBsZkZCX0hmWHdLSGZ3TUZnOVNWdkFZU2pDSzdUMDVxODJ1Mkd1UEx5S1czS2xMWnRTUzRnM1RKaQ?oc=5",
+      "source": "Mining.com",
+      "published": "Fri, 30 Oct 2026 16:30:49 GMT",
+      "description": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank Mining.com",
+      "category": "gold"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
       "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
       "source": "European Central Bank",
       "published": "Fri, 30 Oct 2026 15:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "India's forex kitty shrinks by $1.27 billion as gold reserves slide; bank credit growth accelerates - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRjZvcjZPSzBRSWVjVkJyZDRIdkM1cGZkS2d1X1p5YTNISHphMGs3NG9CMlZKZVFnVXZiaWVuQW9velFoYVZiNHBybjc3OU5wU3BJZEhaQk95akVoN2I2T0E0QjgtWHRzcTMtbU1JSXdFTUw3Z1NvazBRSG9xVzFEeHBSWFFhZk1kVkZtdlYyb19oYWR1Uk1qV2l2ZVJJUG92YjF0Nkp6cUVxeWFzSERLZl8wbWdOZHhXcTVUY2tBSTNJdl9DNTV1ZC1Qbm5ETWx2UWZ4RnZZRlhlUXJvUVJFaXQwX2hlNm96eF9WWFBWVjRsb2hTZ0lvNmgxcDB6REJhX0Y1bnZNTy12dlRMcFN30gGUAkFVX3lxTFBTU0lreXJXZ3NTZndlM3A3MmNQZHlBVHdidVlVNmE2empEaHBtc2VQWER6VVZyZm1obEpFYi12RHlBS181UXZ3YktYMW96aHFQTnpFOHZwMnFpbW9GOTMzanRwVkxKTHhmdjJaN1pYWU1fblUwajdLUlRWbV9mX0UtcDZwTElZUjJhUGdiVVJIb2dQR0xvSUtsRTBoSEphd1dsWUJtbzl1U3REX0UyTWx0Z19XSnNDR29JdHlwOVpQbjhHV0tHWkF2YnplWmVCT2tSbjVQNUtTdGwwbThiRmdlek1zWTJ3UG1Hb2E5RV94Z284X2NCTnpNTkVVY2pZdFRoUGZPLTlyYVk0YVl2LXFLLW5DMg?oc=5",
+      "source": "The Times of India",
+      "published": "Fri, 30 Oct 2026 14:38:00 GMT",
+      "description": "India's forex kitty shrinks by $1.27 billion as gold reserves slide; bank credit growth accelerates The Times of India",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Today: October 30, 2026 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5",
+      "source": "Forbes",
+      "published": "Fri, 30 Oct 2026 12:32:00 GMT",
+      "description": "Gold Price Today: October 30, 2026 Forbes",
+      "category": "gold"
+    },
+    {
+      "title": "Asia physical gold demand remains subdued - Mining.com.au",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xeG1ScE50R09EcHBsV0RMZW5vblVZTVE3VDduLUdURV9yRElhQUJwc1ZNTVpZTWlxdnh0MjliMzV2Y0NuTGRfbGF6Wk1yVkN2YVNsOHIzRlRYZE45aEw2WlJoODRvaW9QVkxsOU9weE5UUQ?oc=5",
+      "source": "Mining.com.au",
+      "published": "Fri, 30 Oct 2026 12:16:29 GMT",
+      "description": "Asia physical gold demand remains subdued Mining.com.au",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONDZKVXFEUEtkWm8xRm1EWDNURkFBdjdQX212NzZGZk1lbHJwWEFUTkZFVWxnOG53MmstWTBwMmk1eUg3XzRMeXBpNFhKVUVMYmF5QWNwdFo4a3AwaWxkVXg4TmltM0QwSDMwTWJad2JBUnJaRXE1Qk5wTEI0OWNEQi1kZDFJRzRObHhLcVB5U3hXZ2czalI4a3BwLW43LVpDeEFpZ0tBRVNuMEE1Rk82RUtialg5aHc3UTctNzBPbmxTTkFOWFFLU1ByazNjLTBRSkR0Z0IyMjVteEktT1RJQVNQamttTHpPbDJjc0xWYlhodWxSZ3RB?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 30 Oct 2026 11:14:51 GMT",
+      "description": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount Yahoo Finance",
+      "category": "gold"
     },
     {
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
       "source": "European Central Bank",
       "published": "Fri, 30 Oct 2026 10:00:00 +0100",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWROX2ZxNkgxTVpVdTlFSmdaT1paOVpfN1RxY0x1Y2djX2ZqSXB3b2wzUVZaakpEd1FvZTQxejl3ck9IVjBNaXdJVVN2ZFdsUTJWQy1yTDJzUnVhcTZxMl9seDBrUm83TThTTHBxM3hpaGVjaXU3N01qODFicnZSeWZpcWhvbk1NYTdDa2pZYUNWc00yRkc0Ng?oc=5",
+      "source": "Morningstar",
+      "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "description": "Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? Morningstar",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 25 Sep 2026 20:30:00 GMT",
-      "description": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc."
+      "description": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "category": "general"
     },
     {
       "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
       "source": "Bank of England",
       "published": "Fri, 25 Sep 2026 07:30:00 +0100",
-      "description": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee."
+      "description": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+      "category": "general"
     },
     {
       "title": "ECB Consumer Expectations Survey results – September 2026",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
       "source": "European Central Bank",
       "published": "Fri, 23 Oct 2026 10:00:00 +0200",
-      "description": ""
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Russia's Gold Reserves Dip to 2019 Low, Deficit Grows - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92RFc2eG5MU3duSW9PZTVzM3FlbWZVUkd1cGNvSWtsU2M4OVhsc2g0b0NYdDFEYUNsLW9mSFdfQlNzcVhjZUFuQnJvTnN3U09HV3N0djF0eG56T1M1UHpJLWxUOA?oc=5",
+      "source": "Investing News Network",
+      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "description": "Russia's Gold Reserves Dip to 2019 Low, Deficit Grows Investing News Network",
+      "category": "gold"
     },
     {
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 2 Oct 2026 20:45:00 GMT",
-      "description": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
+      "description": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 2 Oct 2026 20:00:00 GMT",
-      "description": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O"
+      "description": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 2 Oct 2026 15:00:00 GMT",
-      "description": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc."
+      "description": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 18 Sep 2026 15:00:00 GMT",
-      "description": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank"
+      "description": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
       "source": "Federal Reserve",
       "published": "Fri, 18 Sep 2026 15:00:00 GMT",
-      "description": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula"
+      "description": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "category": "general"
+    },
+    {
+      "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+      "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
+      "source": "Bank of England",
+      "published": "Fri, 18 Sep 2026 12:00:00 +0100",
+      "description": "The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA’s long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements",
+      "category": "general"
     },
     {
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
       "source": "Federal Reserve",
       "published": "Fri, 16 Oct 2026 15:00:00 GMT",
-      "description": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
+      "description": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "category": "general"
     },
     {
       "title": "Banknote imagery advisory group minutes – 15 July 2026",
       "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
       "source": "Bank of England",
       "published": "Fri, 16 Oct 2026 12:00:00 +0100",
-      "description": "Meeting held 15 July 2026"
+      "description": "Meeting held 15 July 2026",
+      "category": "general"
+    },
+    {
+      "title": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0diX0NXMU9LM2thenJRM2g2VTN6OF91b2FieHhmWTVpaUZoaWplalc3RmtfR2tjeExNWmVwdGlrNGJ6VDFhYVBLS2NmRGJwSVVLajIxQlRoTG5qSUphMm45UDZ2d0FGSHdfdUVQNEZWNGtSX2NFWXJnUm5uN3dVZjhscWlNRGJrM3dQd1ZXT1VSQTBfQU9YMDA2OWJCUlhFQmtESUFjOG93SFE?oc=5",
+      "source": "World Gold Council",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "description": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
+      "source": "World Gold Council",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "description": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Commodity weekly: Fuel tightness and gold demand support recovery - Saxo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1ljanVUeEZ1dW5pZ05GdnZ6UVE3bm5kMmNnYW1XUjFNYmp6SjdSNDJIYnNZQkw4TFpTbjRlbTliWnd3U2poWEtxaXlSOV9RQldkdnI0QjNscHR6TXZ6NUhQc2J0TWJlSWg2WlBJWW4tQXllMUp1cFdDQ0VYV1hKZ0NLNjJSN0RuRnA5RTMxa09VdlRUeGdibVNWQ0RBR1FXXzMyTmp6UWl6cjhFWFpzUU1DSGs5N1lTMHpUel92NFlDZw?oc=5",
+      "source": "Saxo",
+      "published": "Fri, 09 Oct 2026 11:30:00 GMT",
+      "description": "Commodity weekly: Fuel tightness and gold demand support recovery Saxo",
+      "category": "gold"
     },
     {
       "title": "CMORG holds sector-wide cloud outage simulation exercise",
       "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
       "source": "Bank of England",
       "published": "Fri, 09 Oct 2026 10:00:00 +0100",
-      "description": "The Cross-Market Operational Resilience Group (CMORG) yesterday (8 October 2026) completed its biennial simulation exercise, known as SIMEX26, focused this year on a global cloud services disruption."
+      "description": "The Cross-Market Operational Resilience Group (CMORG) yesterday (8 October 2026) completed its biennial simulation exercise, known as SIMEX26, focused this year on a global cloud services disruption.",
+      "category": "general"
+    },
+    {
+      "title": "Argentina’s Central Bank and auditors clash over gold reserves - Buenos Aires Herald",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFZ3R0s5QUVielFwWUYwVTNBLS1nNDVSSXBCTXByY2hFNDhFUGxsQ1Zkd05HbDBmSEdBdWZkYXVKcWZocWw3QXZTNEJmQkNiemVwNWdUeVp0Vm5sQVBxTTQtVUVWMlBBWGxFdUg3eldTNUk0UWZYS09Tb21sbnI1WC1oYjRIYnhFNXNSeDI0Vmh1V093dmgxMGtFWlBqZUNiLXc4?oc=5",
+      "source": "Buenos Aires Herald",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "description": "Argentina’s Central Bank and auditors clash over gold reserves Buenos Aires Herald",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Reserves Survey - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fd0Z2Z0o3MWNJeXN5dW5PUHB3U1M3MUtobXpmYTJHRy1QM0RzNnNzbm9TbjRBOC1ZbFk1d1VXNFRPQ3lHZ1JLSHRBcHV2ZWo2LU9YTHQ0aS1FeHI4NU8wX3FSdUVzcTZZU3c?oc=5",
+      "source": "World Gold Council",
+      "published": "Fri, 04 Sep 2026 11:36:34 GMT",
+      "description": "Central Bank Gold Reserves Survey World Gold Council",
+      "category": "gold"
     },
     {
       "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
       "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
       "source": "Bank of England",
       "published": "Fri, 02 Oct 2026 09:00:00 +0100",
-      "description": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026."
+      "description": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.",
+      "category": "general"
+    }
+  ],
+  "gold_news": [
+    {
+      "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: Q1 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Record gold prices continue to shift demand dynamics - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXBrY284T0F3Sjk4bjltMGNSTWJNM0RNSEJaRk9qanRaLXk4NDFnVG1mVy13X0tlWmtKUTNCaldHY1dEaWZoQ1EwNUpTN3FKTWZOWTN5ejVjYlJlNGtxZW9sUUctX2c1ZUdrUGpwZmkwLThaelNibGRHTmdrWmFNTzFEREYtaEliWGN0WWpybXFlUFBUTVM1dGtXOGllUmtUb0Qw?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "description": "Record gold prices continue to shift demand dynamics World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Russia's gold reserves have fallen to a seven-year low due to a budget deficit — SZR - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkxKczBRdG5lV2RfX3FZRldUMGFFOVY2WHZ1aUZDN0t6OTMxcGlYZWNtQnpyeXhiX084ZlZKMmFuUTZCOE1WZ3BGT3YyUDBzdUhDVUVzRFRYUDVvQVhZUE1MR0xBSDFnU3Q5VkVjV1JmeU9OQUU1RTlpMUMxd2NzblVBYTNramlzSE9pTjVqcVRvYldkUUhiRTRFMDFrT2tsN0Z6V3k2cVVDSUpJLWg1OA?oc=5",
+      "source": "UA.NEWS",
+      "published": "Wed, 28 Oct 2026 21:25:48 GMT",
+      "description": "Russia's gold reserves have fallen to a seven-year low due to a budget deficit — SZR UA.NEWS",
+      "category": "gold"
+    },
+    {
+      "title": "Gold reserves and exchange rate management - Klement on Investing",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnVmUjFLOU9CRTdqSUwwakIyZ2xyLXhFZ1BjNXRabXpoTy05dUg1YWJac3JFTGFmTHVBcmNEbjBtQllmeENpTjZxLWloc0hKcGdYSDlVc0ZrZ2hBXzFCTFBhai1CY2N3ZFlkaUQzVlBTVkluRENiUU1IdWF0TGp3ZmJnVi1ycC0zZTF6RA?oc=5",
+      "source": "Klement on Investing",
+      "published": "Wed, 28 Oct 2026 07:00:58 GMT",
+      "description": "Gold reserves and exchange rate management Klement on Investing",
+      "category": "gold"
+    },
+    {
+      "title": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market? - XTB.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaW1mS1JJUTM1T1BxcWZTX2I2MjVweFJKZFdsN3J6dVN1S3lJU2poQkExZTFFT21ES3l6SEpTZUNEa1ZHVVVyY09tV1diY3p5WXh2UnNybFQ2bk5sU2tIQVlmb0R5UVlFZ0tpaHZheURtZnRJa0xUeHRTVThtTUdiMG8wOWlENnVqZl8ybDhvZ1BXQUpwTjUtVnBReHZWUmMyZXAtaF8xSGNTQzI2QV9KVFR0MnMtQS04d0ZobWdsdjBHaUJKaE1zUVFqbEJRMVJHcE5fX01n?oc=5",
+      "source": "XTB.com",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "description": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market? XTB.com",
+      "category": "gold"
+    },
+    {
+      "title": "London’s gold market enjoys the Trump effect - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV9GWVVYWDQ5ZTkxc25ndVdFRENodXgxYVhzNmpyMnJ6dGFmcDFyYW5sOXVORkNJUVhReDhEZjBJZS1OeHh0bVZqU1QtOHRWV1ZJR0YtZ19WZTQtN0VnSjBIQ2JYVnd3QktkQ3gxazRTd1VyQjR4MVhZdTJoWDZMeWNnY1A?oc=5",
+      "source": "Financial Times",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "description": "London’s gold market enjoys the Trump effect Financial Times",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Market Commentary: Paved with good interventions - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwUTlQdkZoMkdCUmlvbmM4NHlJSzBEN3UxXzcyWGJ5eUh4a2dCNkhtYWtkbUt2aktJOERGRVVJbENRTG9tdmdrbFZyVllIZEJrVDFpZEtaMUVuX3FoeUtHdlNBSVE2RVBuTUxCVVhqY3g5WVFVNjZUSUt6dXE?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "description": "Gold Market Commentary: Paved with good interventions World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Market Commentary: Go with the flow - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkFrY1RiRkRCTjdiclpSeExocUdnNm42SUJITlBvUzBVaThSNGNEN1l6dk80clY4QW5lU2NidHVxTC1HbjNIOFQxdnlVSmNQN2ZKSjVjNjhqVlh0cTd6Z1dhTEl6UXBvcm5mNHc1d1hNVGlFcEFpS0ZlYkFpb1R6OA?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "description": "Gold Market Commentary: Go with the flow World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "UK crowned in a record quarter - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbmpBdm5za0U3UXB3WUtYb3hya2VvOFZCNkttdEFNTWRNbDE1Y3lCMG9VTTFsbmJzVUV3cmJJS0lqTjZUeWdJVU5tbks5X3VsZW15VXVucHFDUUNHX1kyRDlGbG9yeDlXeEVod19NdjgwTW9jR1RtZzE4ejY5cDg?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "description": "UK crowned in a record quarter World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold as a strategic asset: 2026 edition - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHZIRVJrOE1kWjJZY1NfbGRXNDBTRFhsa2ZsM3RnWklUSHFHUENWUWxGbUR3NWdzQk9SaTlOaHlzaGx0eS1hdXhyUGxocjlQMm54bTI1aGMzVFlMYlUxVnNXV0dKN2U2TU5OT2hNQnFrdkp6TTdadlhWdDFyc0tVcUhn?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "description": "Gold as a strategic asset: 2026 edition World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Mid-Year Outlook 2026: Point break - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RUWRQQ3BDNUs2ZWVqTjd5MWJrMHBSSGxTOGNtTG1iRm5XTUxuM3V3clJNMzdEUjRjcmdfM3pnQlN5dk9RUlNnZnpxOFR3b1FRRDNRTTF2MThvcXdJTmhCMW92UUdnSEVnS3lhOTVxY1g2UQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "description": "Gold Mid-Year Outlook 2026: Point break World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "How Could the Midterm Elections Impact the Gold Market? - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQndpN3hBQ1lBTHBnRGVTOHl0STNQZEhPZHA4M0VYOFlYdmdXWDRTU0pyd1J3UUNZekNMZi1xQlZac2czZ3hPVzcwLUlRdlZoaVZCWFFMWi15Y25wTS1aN3Z0R0JROFNYRDA2eFc0Y3k5Rk5acm9ydHVWOGRBcU93RlMzNnRNWnNacDlZeDA5MmZZTkZfUUpNU1lzdlg?oc=5",
+      "source": "LinkedIn",
+      "published": "Tue, 27 Oct 2026 19:22:26 GMT",
+      "description": "How Could the Midterm Elections Impact the Gold Market? LinkedIn",
+      "category": "gold"
+    },
+    {
+      "title": "Holding power: How reserves, technology and investors are reshaping the gold market - OMFIF",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUNlTXMzRHhUUXNCRFpEdmI4clk4YXZ2MXJGMWEyV0lpX21RY0pGRTN4NW9IcVdlQ2hWUElEOG1xVzhoUHR4ckR4RjRZbzJHV2RyNnlTcGZSRHdPY1A0UkN1bGlwd3lfdlJ0NmpDejRLTUlGSmVUck1Xdm5RbmF5VzIxWTA0VUQta3AzMDBFYUpETHNYeEVCbnFPbzlHT2xNUTNaR1F4ZlEwcENBWXdyTHVKaw?oc=5",
+      "source": "OMFIF",
+      "published": "Tue, 27 Oct 2026 11:20:45 GMT",
+      "description": "Holding power: How reserves, technology and investors are reshaping the gold market OMFIF",
+      "category": "gold"
+    },
+    {
+      "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWEzUjIwdDM4SThRaE93WDdjSWdGbjVyZXVEdnIzYXNyMG9WYjJPdHZVelVzelVYQXVyaTg1NHRfRVZaMks1QkVxNWR2eGI5Wm8zTHc5OTZBZkFPV0FFaHhxYkhYRTBfWmFlVDNjX2J4eTJwczhUSi1ZSHZ2aXp5bDNvZ19VVWpwYzFqbS0wOUozWmhIU24zRFZTdnNFY19HdFhCUDl0ZmNyUWNKREE?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "description": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "How Much Gold Has Been Mined? - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90T3F5VVY3V0M5RFVIeUdQekU2V3JsVE9LSV9xandJeWhpdjlkaG1BeXJYRTJGRmw0dmtyeGtUVmNzd0YxRnFMdHhfMTBWWUlGYUk0Rkc4MWxjUEE?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "description": "How Much Gold Has Been Mined? World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Market Primer: Market size and structure - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUc5VjlWZ19IbEFRR09VV0hXUTRsdDRReGtuc0I2c1JlMFpPSkY4ZEF1QUpuckVGTWE0NUFFZWwydDd3TU9HWFF5ZFdxSzAtWDdvSEVRMHYzc0t4OVp4Zlh1LVNHeVdkSUdEb1ZVb3dWcnJsRjNoenBmcUVVdFBLYl94TFVSd0g5eXFIakh0RG8wVk1BQm9aVkFfSWQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "description": "Gold Market Primer: Market size and structure World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Reserves Survey 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks set to step up gold buying over the next year - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2gtaUdWQmdLX2Ntd1Y5R0dLM2VPYWNHNUVCbWZuVnV6ZzR5a29fbC1ud0pUMXlEeERmMndTZ25vbHRjZmE5QU0tSXZXWDU4STc2VmtveTBZb0wwdjc5RDlhYm5OSkpVWlZYMjFZanlaTWFPbnRyczIzYUxOZU8xeWNtSUxZT2RpX1dYN19fRHBvd0xjNkt4V1RuanFxdkU5UzQ4?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Central banks set to step up gold buying over the next year World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Perspectives on gold reserves - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWNTNkNCS1M2cGNGV3dFNnFfSWhqOFVtNTB6SjMwLW55SzdFMERqbHJRSG5FVXdxV2U3eTQ1SU9kdXhmcGFZTVk4X01sakxRdWZoX0QyQUlLY09XSEMwRUxnQVoxam5oY1RlUXZGa3hUTHFMaXpaVVNQQWtFZ0g3bXNDamw2Y3ppdXZQTWttOERtQXIyY0N4YnpTS0NyR3B5VERUZFRhWVlYZw?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Perspectives on gold reserves World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "You asked, we answered: Why are central banks moving their gold reserves | Post by Krishan Gopaul | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbE54WGk2bUFoZ21wdmFvLTVZRzdPZkdLMUJlTmVQZm82UnJnZHlJSngyelJBUHktcjJnVFozcG1NU1g4WXpQRk9XZ2tLZ3FmdzNqb29MUGdhdm9Sa2JKdzRwdkhtdHF2czBXWmMwVEJaWFN6MzdaNHNLRm1ETDkyTUtlWmdsUUVKeUxiRTBhNkkwd043b3VpSWdZSnA0dzQ4MTVCa2txTV8xejVBRktYaXJHLXVGOUNxS0E?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "description": "You asked, we answered: Why are central banks moving their gold reserves | Post by Krishan Gopaul | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "China gold market update: June concludes a divided H1 | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlRai1GbUFVTGlQOVVrUW5PRUwyQzQwZV9Sd3pkMFc3OXpSSjRQUkRuRjRsTC0tZEdzN09iNElaVFVycHFGamdFOFp5S3J4NWNnRWdUYkJ4TWNEcUFUcVdlNnMweHpOVVBsUDNwRnJ5OGVFeVl2bDNaNkhac0hialRMX2IzQUtLSWVsTEI4d2EzM19Oc3NBcFJaZjRYMjQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "description": "China gold market update: June concludes a divided H1 | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Global mine production by country - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvZGR0aG8yaS10N1FTenJtb09XeXlGQ2RJTEFKQ1NDbmh6RVZHODl3OUlCWkVKbEUyZGx6NGFnZk8xNmp4UVl3b3Mxa084am4wN1FHT1JodHY1RXZlNnRUMmRGUldqUmN4MFFabA?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "description": "Global mine production by country World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDRZVnp4MXJsbWxUbjdvbW1tN0ZaNG1LcFFRRlNSYU5GZG0wTzR4OVhvaDJjakJDdkFlSjJETzdHaGd3QzVGQmpnNk1xOHRMSjhXVk9BUnBmZ3ZxMjNGRlVTd3A1T0dHMVJSTEdlY3BHS19KT0ZVR1hrN0pkTlBPMVFySkxicTcwRG5tWUlfRjE3WGJqN01BVFVLMHZ0dGdrRjNiM0Z6SzFwaHB1MnZOSGZKSE1GNzA?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "LBMA 2026: Central banks find new reasons to increase official gold reserves - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2M0cnBuM1BxcWR1RHZuQmxIU3BpSld1NDVKdlE4Rjl3UXZLenRwTWN3aVltcWdaUlg5UEpwWWlwN1QxOWpGbUU2ZW1mTl9PTnlOSkF4Tm5UaDctaHBJTmlHRnI0a29MTi1XanVrZmZoU2JDMGU1ZjlnOXBFRDl5Mm9GSXdHZngtbS04ZU9FbkFIWE42UzlremFKYndFTHN3MS1ueFIxWXdfaTkyY0NLZE94SE1HX0JlckE?oc=5",
+      "source": "Kitco",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "description": "LBMA 2026: Central banks find new reasons to increase official gold reserves Kitco",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central bank gold statistics: Momentum eases in January while demand base broadens - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2htQmdDX3UtNFZjdFhWc2EzV1EwMjlOMTNoLUpVZEgzYlRnLWZJR2xYTFh2WUhqcEljTEhHdnBNVWg3SktqTE5VR2JDakY5aVU2WFVRaktnQWE2SndhbUhQWjZDU3JJRjB2YVVyQzdudlU4OG4yX0Q5SklEYUNMUFN0YWdmcDkyV3VQT1Y3M1U1Z2d6ZDJUQk5tQlRnTXVwczM2OFEzYnpacVU5QVZEdXZKczhUNmF3?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "description": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Demand Trends: Q2 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXFpSFotaVFKRno1MVJWYnhmdGJVMVQ5RUVEMVAtcFZuV2tST0s1eFF1RjB3TWVJOUkyYTRFU1VxVlRIUmlFM19VaU11aU10QXZDSDFWUnRIQkFidzBzTHhJLXROU24tQlpqQXNPaVk0MnlGVXJXMXBUeFc4aHFJOWxHbVlMeHJpcHJJ?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: Q2 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold market shows resilience as price momentum cools in Q2 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkxLby11Y3hUd0dyci1CdU9jTmpvS0ZIbVlKZUxYN0xsUXFNaXhRMjVwaW5XN1AxdHR0TlYtR3NQdVRmOUNQS3V6czJod2ZISHVYRVBFVEpLckRJUzMwZlVUNl85VjBCR1BCUGppVmtrNXBBdktYbm42ZU85dWIyTFk4RDRva2JtYlBkWC0zNkp1WloxcjRzX2FlR1d4S3ItS2o2eFBQdw?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold market shows resilience as price momentum cools in Q2 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Demand Trends: India Focus Q2 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVKWUV3OW1vdkV6TGxiR1BfbjBYMzBmVnI1dDNSdGJhSmQ0dGpiR0I5OXFzMjVpbl9CQ1pkV2Q1Q20wLVBPSnBDY0NCbTFSc1dHX1BxOTlqdG1vZG1haU9SRkhyX0hRZ21iWHFwTlUtRnU2NUN2QzVLSTU4YThsZ1lqWjNQWUd0ZEFMcXN5clFjRElITjl4eXFtRQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: India Focus Q2 2026 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Russia Sells Gold Reserves to Cover Budget Deficit Amid Falling Energy Revenues, Ukrainian Intelligence Says - uatv.ua",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaldBTzFxR0tiMGpseUVVekNRbTFhWTJ6akdRMzhJYmN1OUd4MDFuMi1SVHVLS0J3WWNQT3JQa2xIYmVERHlSN29icXBBNTJydVB3c3I1eGN4WDRZOEZybkQzYWVud0RwcXFYQVM2aUdNNGdJbXg4cV9Ib3ZfNlNpQ0h2d19UYlJTT0w0RVFkM0wzRkk1a0ZYM1R4VlNpem5QWUNFMmxNY3hwdlg2SDNEOE5iRnJQcGZJYmxSRm9oMTltSHpPV1E?oc=5",
+      "source": "uatv.ua",
+      "published": "Thu, 29 Oct 2026 23:26:56 GMT",
+      "description": "Russia Sells Gold Reserves to Cover Budget Deficit Amid Falling Energy Revenues, Ukrainian Intelligence Says uatv.ua",
+      "category": "gold"
+    },
+    {
+      "title": "Russia’s Gold Reserves Hit Lowest Level Since 2019 as War Costs Drain State Finances - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1dYOUNOTHlnSkptQXNJdWlGTFo5QzVjb3h1dGJFOXlJY1Y4MnZWQWhoMFBpbUhfcS1tQ1FrY2JNT2EzVHZqMDBhNTlYM2JINWlNLUR4ZWl5OWpSeTBQblVvX1Q5VFZXLU9mNEJLeHRCeU44UGJleFdLb09lbmRmd0N2ZHRJZWlWNGpSUDEwOFZmYXotTzdoeWV4ZGtIRE5uX0hQZU5vc3cwLUpzMEVsVENtVlZtbHZjWEMwYWdn?oc=5",
+      "source": "UNITED24 Media",
+      "published": "Thu, 29 Oct 2026 09:09:36 GMT",
+      "description": "Russia’s Gold Reserves Hit Lowest Level Since 2019 as War Costs Drain State Finances UNITED24 Media",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Demand Trends: Q4 and Full Year 2025 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1ZPVWhSNjZoWWttR3hhd3dydXhfZFFPNzU2eXY3ZFBrU2ZwNXQ5YzJTbnBwaU04M2RTMEQwOGdjeE9wYWRvb2k5ODFYaEtfcUtUYVdxVTVyeVhQelJMRzVIdTRrcDFrUHVqRkZrQUkydHpmWkwxcTF6Nm5VQ0tIbHg0N3BwNkd2N3NuMFhhT3QwWHVh?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "description": "Gold Demand Trends: Q4 and Full Year 2025 World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S. - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHhMaFhQUUsyQ2RIQzhWM2ZZSDRjaVpJZnIxVTdFMzBkLWxRNHh5NU93ZWdYVXVYY3Z3U1BhQWpoRG96akJZaUQ3SW5haVVOUVZIOFp6aXNlWS1CVlBMazFORkNIUlVVdVdVTFdSSmpoSkxXSElJN3A1R0dCR3M4SU1JSTZlbXBUaWRaVnhoTU9jd2NmUS0xOTl0c0o?oc=5",
+      "source": "Fortune",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "description": "Central banks around the world are quietly stockpiling four times as much gold as usual and are moving it out of the U.S. Fortune",
+      "category": "gold"
+    },
+    {
+      "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "description": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "description": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0RmSUIyTEM4QkRSbHpzak9zYWxmSEJKcXJiWkJJR0ZDOW5hX3RSN2pMdHdObjVYeVc1TURZdnIzNVE5YnM4dV95MDZYbXFWd3JsMUF2S0ZQN2VHWDVPNVl2MDVFNS1DMW1vaVNKZm1aTjd4aVVMcFhqdmd5RWVBbXhBNFlCenB3OVdSb1JpSUs2TFNLeVJlVEJWQkVFX1M2Y0xCTmVTYjctUGJwMzVra3hB?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "description": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBxNUF1SHZxTzlxSEpoUE5wUXJKbXNLdlI3M3pSeUpMenhqTEEwUTN2QngyNXhLM3FXVEhVanNBUlBGWnFoRlQyYTBoZlRBTVA4aVlZYWNkU1hsWkxQcFdNSzE2dEc4RDgyUHNEUHQ3NkVtZXF6QkdFZHlrSkJDLUNaOWlpdDJjai01U1lmTVJocHBzWW9rbDZ3dGZaQnNnbzNPZ0Y2WE5HTEJr?oc=5",
+      "source": "Fortune",
+      "published": "Sun, 25 Oct 2026 18:57:00 GMT",
+      "description": "The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' Fortune",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks split over gold: Russia is selling, China is buying - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW?oc=5",
+      "source": "Euronews.com",
+      "published": "Sun, 25 Oct 2026 06:58:33 GMT",
+      "description": "Central banks split over gold: Russia is selling, China is buying Euronews.com",
+      "category": "gold"
+    },
+    {
+      "title": "Central banks around the world are now reshuffling gold reserves for a new era of uncertainty - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGRYWFpJSzF6MHZDdWk5eFVNc1U0YVJTUE1hVFp6ZnJFUUVCZTNHcGlvZlBnWG51LW1Vd2dUUS1jeDUzTzBOTldnVE5RWGVHdXZPQWJhT0RScHpFTnhKSHdscWI4TU55SjdyaHFGbGtiOEV3VFNKWWdHWHNQOUNYVGxUTkdjX2Uta1pkX091NC0wUHhVczJmcXdaX2Y0c3pnY254bjNhdUd4YU0tY0xrcmFva1BtZkhFSXc?oc=5",
+      "source": "Fortune",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+      "description": "Central banks around the world are now reshuffling gold reserves for a new era of uncertainty Fortune",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price outlook: Gold sliding along the 0.786 arc. Eyes on 3,720 - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1FUbGhvLUpObU1XQXZ2VTh0S191dDdNRlRZZ0JlTkVDWjBaODJuQ2FrRzlfakx2MXJwTGZSX0tCRS1wWWtNbmF3MFBnUTE2Nk85QVhFcWxRQ1ZDQWNQQ01zMVE5YWFBMndEMU5OWU1Cb0doVW9VM2ViRTI4RUJFYllCcnlsem5EMW1NOERLT3hldzVkZklPR2xpUUppYVdNajZoTWJPa2pSZ1QxNGlWUw?oc=5",
+      "source": "FXStreet",
+      "published": "Sun, 01 Nov 2026 19:08:37 GMT",
+      "description": "Gold price outlook: Gold sliding along the 0.786 arc. Eyes on 3,720 FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjRaRVk1cVlHXzRfdGpIRkl0Q3Q3aW43VTU5UWdtd3hBZnBEMWpLbFh2QU51OVFYYjJTMUMtZndvXzh1Z0VzNHlCTDhXU2ozUkZ5TzRWenBBWFZ4bHlqTXY2cU5ObG0yT1VoVkwwSi1sZW1ScW9RQmR0aTlOU3NwWmJ2eXBBYXV6ZUh6cjViSEZja1l4cW9NbFZacHFrbEx6TEx4Y3JXbGFlTkhwaGN6emxUUEhtNGxVWmFvM0w1aDk0WTRQSFE?oc=5",
+      "source": "FOREX.com",
+      "published": "Sat, 31 Oct 2026 18:07:07 GMT",
+      "description": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend FOREX.com",
+      "category": "gold"
+    },
+    {
+      "title": "Venezuela demands Bank of England return its gold reserves - Monthly Review",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQazFEU3ctNmVrYXdiQ0xSeGlORGc3aHJkdkhDNXB5a0RIdlh6VllYNC13ZHY0Q3hUeU5MT0VVN0RTM3RoVU1DRHo5NmlFT3cwV1Eyc2tmaGtPbVNiajBOVGdKa1Z3WXZFUi1vU2h3X3VZQmJteTBQRGUwcHdlM0o2cXdVUXFtMk1CZ0Q1cnYxQWVqUDROMlE?oc=5",
+      "source": "Monthly Review",
+      "published": "Sat, 31 Oct 2026 13:02:37 GMT",
+      "description": "Venezuela demands Bank of England return its gold reserves Monthly Review",
+      "category": "gold"
+    },
+    {
+      "title": "Silver Price Today | Live Spot Price Per Ounce & Charts - SD Bullion",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hT3hFTEstRXBaRUNWQ0NITm80Q0pVS0tOaXhEZXVCWF93MGhBaFNVOVRLamxfZElqVEx0S1hKaUhkbGx6aWY0R2Ywaw?oc=5",
+      "source": "SD Bullion",
+      "published": "Sat, 31 Oct 2026 11:16:00 GMT",
+      "description": "Silver Price Today | Live Spot Price Per Ounce & Charts SD Bullion",
+      "category": "gold"
+    },
+    {
+      "title": "Gold (XAU/USD) Price Forecast: Breakdown Puts $3,500 in Focus - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUNQdlc3dFBVOTVwS2JBUW1nXzJaRV8xanJ1UDhtYW9lak4xczl6Ry1zTnlHWmdlMDVvQVNRalk4LVpyYUdKcnFwcnc5T2xYSGl4YmQteFFDdXFxMFpJU2JOMEdnQ0xROEZCWjQ2ZmtROXJtaWVZRExZRTdMT2J0ZzFVaVFVMklyaFAzRWxKcFRpSnlDbjVwTnNHNW5rZDBpMjlBZTdJZGRUSFk?oc=5",
+      "source": "FXEmpire",
+      "published": "Sat, 31 Oct 2026 04:31:00 GMT",
+      "description": "Gold (XAU/USD) Price Forecast: Breakdown Puts $3,500 in Focus FXEmpire",
+      "category": "gold"
+    },
+    {
+      "title": "Record gold prices outpace rising mining costs in Q1’26 | Post by Oliver Blagden | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDZjc3NvdjhjX2Ywcm84Z3lQOUZDWGRrSHF1b1FYQ2lMRVhZOHk4dDNXcFBNYkw1YUtzM2hGMTE5R2piTC1GdG9fbDFsZTYycnRIYWl4NUpCNXdlbGdpZUZoR0ttOVh2VkxNZkVEelhMS0RiVmhqTjVydnFsd0VDMTdQeWUyR0NSX1NGSGxXdWhoaGhzRVRFd3JNQmt2T0pf?oc=5",
+      "source": "World Gold Council",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "description": "Record gold prices outpace rising mining costs in Q1’26 | Post by Oliver Blagden | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Digital gold market worth US$700 bil - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWRsNVQ1YnF0MS1BNmtaRWYxcHhXOEEzTmYxV2diaXM0R3pPNlFWQjBMb3U0YVk5bmJZYmdjYWVRMU00VXRtOEtRWGtNMzN0eGEwdVA1a2FWVERYTGpLcHNqdVdCT2thUDdUM0g3WXBSTURNR2p2NmZqcXJhMTlOdWZkaw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "description": "Digital gold market worth US$700 bil Yahoo Finance Singapore",
+      "category": "gold"
+    },
+    {
+      "title": "Gold market consolidating rather than entering bear market, Metals Focus analyst says (GLD:NYSEARCA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLTd4NExhb0Q4a01MdDl4TVVzOW5pVEJudU45dHFsUEdaTHhvVzNQUFVEZ09vbkt4X3luTUkyREh6VVhoSlJ6R0NDcFE5VlZTdXdtOFRPVDk5VFctNmN1akZiVlBMcXBPSUgwc0JYYjBsOE5CQ3VlSGxyWW1MMEhRbUZTOFQ5REZVc1UzSmtJc1FYODRYSUpwdkIzNXFSeDFZdTdiem5xWkFxZ09pTE1vTGFuSHFMSkJJOUlfNE93WQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "description": "Gold market consolidating rather than entering bear market, Metals Focus analyst says (GLD:NYSEARCA) Seeking Alpha",
+      "category": "gold"
+    },
+    {
+      "title": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
+      "source": "World Gold Council",
+      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "description": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Woman found hanging in flat, husband held; her relatives allege murder over gold demand | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ1VRbkpabXdMOVY5QWk5emc2dW40NmxMam1pcWhCVGNRbHlzNzVGZzhBbnU1Sm83cGFLSUZMUFI0OG1SbnBGU0xFdmgzeXFhQVhUR2ZyU25MaWgxUmx0WFNaQ0JaSTk3eHVmUVVIWVIzc1FPb0VjQm5DN05HZHZkRU1SWWNkcTg2SFRoMXBQeGxrb0VWSDhHVkNuNloyN0hxeGZiR2lQaFcxa0dGckladFhrOXFoOE10YXNIdVRXLXNhWXhKY1NPdVRwWW1kejcwX21MejZMSFVmSWFONUpJODFFTENkUnF5RWfSAe8BQVVfeXFMTWRhSlJ0TXVWN1RLWDVHSDU3ckx6TF9WQVJPMmViSzU3TjVkUjM0dUk3RGpQa0pubnRhRDEzcE1OeFk0LXg5cHNocUJKMUJHNzlRQ2ZaaDRxRGdETXZUZ0F5MmZTSElEemIxVXhFSFZzRUxfLU5hVmdQWlB1ai1YMEREczQxVk1oXzljOUNUcGstX3JtZ0FBLVlsLXA4RkJDTHZKYTlyenV5cmZFOC10X2o4ZGZlcnJjZEdQMEIzdmhCaTdnZmlVeXRMd0M3cjNqYk1mYkxDMm44Q3hwQVk5QnZXNzQ4MDg5Rkhka2hVX00?oc=5",
+      "source": "Hindustan Times",
+      "published": "Mon, 02 Nov 2026 18:49:04 GMT",
+      "description": "Woman found hanging in flat, husband held; her relatives allege murder over gold demand | Hindustan Times Hindustan Times",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price rises by Tk 3,265 a bhari - New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDZwZ3lrNFptUmVtdldweXVZTDdGazFkbi1CakxJV1FmdlMzeW8tZlFPN3A5Qk9oM3RhZUswMWtWSW9LWHRqbVE5aHZjd0czcS16MENzMzZnNi00Zmphb2d6ZGlCWXowOEFRSGYzejhQS3QzeWNlc0wxR1ZDcTg0emRLeWVRSVhBZ0dSY1N1VXpUX1dlWDdB?oc=5",
+      "source": "New Age BD",
+      "published": "Mon, 02 Nov 2026 17:54:58 GMT",
+      "description": "Gold price rises by Tk 3,265 a bhari New Age BD",
+      "category": "gold"
+    },
+    {
+      "title": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjJmZGlKamJpZ3k1YmY4MG1acTc0eTJ3ZWJtbmhIdHZxUENSR1lXUHhQSUZiNjlBNkh0aUFjOW9GUzQ4QkI0aXNDV1RxMF9xS2ltV0l6aFk2VnJwaVBfY2xLcldyMFktdWtjdmllMFJoUHRfeTJad0VMQjZRLU8xS2dwNHpWVzZPTlBqelFqV0hDNjdsQmpVV1pzYjUzM1YwdG1YSFROUmNUbXg5bWUxS0U1V1Q5OExNbm1HX3RTR1NuRnJQcWd5cWhkSWYtc1ROUkhBWGtjVHBydw?oc=5",
+      "source": "StoneX",
+      "published": "Mon, 02 Nov 2026 16:36:44 GMT",
+      "description": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting StoneX",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Today on November 02, 2026 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3VJUVo5ci16bWcyRi1XNFJEaDA1X2ZNVkhuQld6czFQV19HUkZsbXRyTExGVXlwVG92Z2hrNW9PTVdxMzJ0clQwMUN1eFVzZkt2dDM3bEdGTmRvM1hpS293WEdpajdvdFB6RHBpVDhrbWFmYWZnN1AyMVZabWpWRFdISklpVDBJMzd1UDA1UXM4STYwVERqSzg0TzhmUnkzMUQtajlhVGoxYW8?oc=5",
+      "source": "USA Today",
+      "published": "Mon, 02 Nov 2026 16:26:56 GMT",
+      "description": "Gold Price Today on November 02, 2026 USA Today",
+      "category": "gold"
+    },
+    {
+      "title": "Stock Market Today: Oil Slides on Middle East Hopes as Wall Street Rebounds, Gold price Gains 2% - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjhFNjRqdzM0dXRXT1Z4cUowYjFRSndydFE5NjBJY3VaMF94X2NaWFZ5YjE0eDdLNkhnSGJJTDBDdXZOVDJFZmREa180OG1tZHhFQ3dETlAtUE5ybllvOXFCbnpwRWlXWkhKVVliTFgybFpxU1JoUGw3S3pEX3RJM3J4bzctWUxZRXhoQ09rVzZfSTgwUHZBYndQTk0yRnoxZDk5elZ5MlhUbi11UWpxUW95MDNJN1lldGZhQ0Jha1ltZ1FWMk11VWVQSGtQMVFzLTQ4?oc=5",
+      "source": "Eurasia Business News",
+      "published": "Mon, 02 Nov 2026 16:11:09 GMT",
+      "description": "Stock Market Today: Oil Slides on Middle East Hopes as Wall Street Rebounds, Gold price Gains 2% Eurasia Business News",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Forecast, Prediction: JP Morgan Flags $3,500-$3,600 Support - Exchange Rates UK",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSW9WaG9jemhwSVE5cjNyZUgxcWU2bjZYUjM5ODNsLVBjOXd0S0tVdERMalZDZEhPa1ZIdUlScWxZZUotODFkZUEzNWd3UzI1OVhWS0dPMFJOLXY2QUNyc3o5Q1lpc3BYUlRDZmRYZ1RTa0dTYXVXaHpURzRtV3FfYVNiZDhaWU5KREJvN3ViM2RsN2czb3huenlrTVlhZmFKN04zSlpaeWtxSXBxbGM5YmVCX2xSUzRuMHF4UGlvZDZSa0w2?oc=5",
+      "source": "Exchange Rates UK",
+      "published": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "description": "Gold Price Forecast, Prediction: JP Morgan Flags $3,500-$3,600 Support Exchange Rates UK",
+      "category": "gold"
+    },
+    {
+      "title": "Kinross Earnings: Stronger Gold Price More Than Compensates for Lower Volumes and Higher Unit Costs - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMW8yN1hqV29JWHRpV0ZWbzRqc1l6cWhmNEdjaG9RVmlTbm51emNhZ1RjLUNNcFVkRldveHNQM3BnNjhnWjRrVDc1cndVZklMeDVCaC1CaklxQmNYejJwTjV4V3VpMXhTVVRFMnpwSmRvRGNSbHhrRHJxVWdvMkJtT3E4cUJ4VEk5ckJoeGxaVzVzZGpKU25scDBtMUVoSHdvdEx5M3VJMWxQUk1jUmVYcjNqQjl3NW16b2xhNndyalRWUXBtZk5zVnpkRF9kVWs?oc=5",
+      "source": "Morningstar",
+      "published": "Mon, 02 Nov 2026 15:22:00 GMT",
+      "description": "Kinross Earnings: Stronger Gold Price More Than Compensates for Lower Volumes and Higher Unit Costs Morningstar",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price today: Two analysts see more downside near $3,900, but one warns an overbought US Dollar could spark a rebound - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcF9yX1l2TnQ0V00yMWJ2S00zX0pxeWtkVWFVNEdQM3hCcDItZmhNSUt3VzhBZURHTEdWZDl3enFISWhvd05LdDhqc1d6ZGxaLXMwRmFoZno2QkU0NWZTRFdfVGp6ZFprSGlzOHNjTm9WZkdrREhJZGpiQXBESktWYW90dTAtaVJBWndDdFZtTUd1TklqV3pSdHZ0UEFkcE54anhFT0hKNVgyVlRUa0hZNjNjV0pRRkFlTUh2TlAyajBsRm5Rbm95Qzg0U1hWNWVHbTRDdWUxQkZzTU5rSXJIOUVMUjR6SVZuV0RPcVBWbVdhdjRPbWtzaA?oc=5",
+      "source": "FXStreet",
+      "published": "Mon, 02 Nov 2026 14:29:50 GMT",
+      "description": "Gold price today: Two analysts see more downside near $3,900, but one warns an overbought US Dollar could spark a rebound FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video] - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeU4zV0UxVVBxbzNNaFJJZDhGalNMb0ZtS2oxRXZfVFdXekZYcE9HODVUcHY1Z3ZmOVV4MWF5bEtLdlJFeldYbEpISWNrX2l2QmZlbVBVUGo5QWNEUlhvMFFqQmlqNkFneU1vVlo0Nk9DVkZRbDNId09aTV80dXZvRGFNUDNHZVBCTTZ0S2h0M0hhVUxUaF9UeUtaay1pWlJZalJOdEN0cjBLdnk2WlBTejJvdk9lWE9TQmZMOFo1dDI?oc=5",
+      "source": "FXStreet",
+      "published": "Mon, 02 Nov 2026 14:20:06 GMT",
+      "description": "Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video] FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Gold forecast: XAU/USD stabilised after recent falls – for now - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUQtcU9kUWhhemxDYzFmdGIwRDU4U1hGNU42RnQ2TFJYSV9pa21PWEktclJPZWNUVURVSnMzSDZBS0xtZUlKaVl5SW9ickNBMjFXZVhfYkxOOW1tMkVIMFVyOWRHQkI5dXJiLUpKb2N2bXhlbFpJaHpGWGc4Y3dhUFFNWVgtN0Y4c3pwUzMxTGtqTnFwdFFVaFJZLWpVQUhpSi15YjM4RHlrdWZsTmJwTVVhMUZjbGdKOEE?oc=5",
+      "source": "StoneX",
+      "published": "Mon, 02 Nov 2026 14:01:42 GMT",
+      "description": "Gold forecast: XAU/USD stabilised after recent falls – for now StoneX",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Outlook: Why I’m Avoiding the Dip as Gold Stays Expensive - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1fSlY1bUVNd0g4YklTX0dsY1R0WmtfTDVDcUNVVlEtbGJvTnhiTWM4MVBIUEdSRkdCdTR0ejQydHNnSFRLdzN1WHk2QzM3dEJzVlMwQWlKX0NMUzMwNWVfdm0wR0h5MWRiZng2ekNxcmhMdUljaFp6TlNWbjRPbVlmM2hzUnVqRGV2WlFDbUlsTnllOVR6ZTNwMGZ5X0V3aDdzalpYc2RTbjlkWkl1OTdHaDFFS29D?oc=5",
+      "source": "FXEmpire",
+      "published": "Mon, 02 Nov 2026 12:06:05 GMT",
+      "description": "Gold Price Outlook: Why I’m Avoiding the Dip as Gold Stays Expensive FXEmpire",
+      "category": "gold"
+    },
+    {
+      "title": "Shafaq News..CBI reserves top 113 trillion dinars after devaluation - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNODYzenN1dDNKNDFYMVZTQkpkTmVKOHl2eHFEMzBqLTNUZElzQlBrTHU5NnV1WGhKV28wZ2tJRk1LX1d4YkpmbTAxVFlFbnZDUHNycEFsdGhTUUx4Z2NieXd0NEdLLUI3Zll1SnlLZ3dLN09tOHRwWU4zcy1NWmdjZUxOQ2dxajU3dm9xLQ?oc=5",
+      "source": "شفق نيوز",
+      "published": "Mon, 02 Nov 2026 11:15:27 GMT",
+      "description": "Shafaq News..CBI reserves top 113 trillion dinars after devaluation شفق نيوز",
+      "category": "gold"
+    },
+    {
+      "title": "Stack BTC Revises Terms Of Proposed Direct Bullion Acquisition - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQnE1Yml0UE51SkZYTl9sS2J1MFRlV3dBWEZJVFpqb21BYXUtQ0hYXzFTakIwcWFHdEJJYzlNaEhKdnhjczA4dXk2LVYyRmN6LWxPM0hfeFRaNU5jWEtKdFpPb1RBeUphSG5NYUx1U1NDUWd5S1hhMjFWRkNEd3RIRHR2QTVFM0JMaEJ6YUJWQXZqWE5aRXlKRFh2QXJjQTNNM0E1WE9WMkZnSHJLdFZqOWdSVEZHS3gxampzbWJBTnBSczc4cFc5RDJ3S18?oc=5",
+      "source": "TradingView",
+      "published": "Mon, 02 Nov 2026 07:43:00 GMT",
+      "description": "Stack BTC Revises Terms Of Proposed Direct Bullion Acquisition TradingView",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price prediction today: Will gold continue to fall? Check outlook for November 2, 2026 week - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOTTc2MDJ2cnRodVpDLWtwUFEyOFhqbEZwOXBlbl9MV0xWWU5qb0dCLUNsbzBUREZKdDBUWHZiT0pEQnZtLUZqWmZNRm9oQm5aaUtjTERiRUZiUV9EaDdjSHRDY1NXVVRyM2k4eTNfZzJHekNuT3FRMS1VVUpHY2N5M2VteTQtYm5ZQnN2b0NSekliQmFUank4Z2V5dWpNX1ZGQWVmd0k4TUdQOFhpOGlMeXRRM1EybGtxUEtJMy1DZW5fcmVGMUhDNVJLcUtkaTRzR2NKeV83R3YtV0hwaDdHNklCWnNEOTJvZVhXaEYyZy1WZE1paTVvaHVNRENPd0F4Tzh6ZENISHdFNmRiX09za3c5VjJ1UlBFWEJLS1RnNllaaEtzT3dIVWx0bUtpZHNQVV91aEdVdlRqNXdGVGUzSFh0OTJYbEhMY1FCM001SGZsRnVHSU83TUwydFB0NknSAeQCQVVfeXFMUEM4M0N4VjRkSDlkZ3BtaFpaaG1aaXRJY0Vxb0czQWhwVkdyeUJ2OVc3REZ0SmlwX2lPbE1PYVA1bWNpLU9HNjF1U2t6QmtDQVNFR011QWlILTQ5blc4R2VmQTFqUTZnNGZIRVI4VzdremtNY0QwVXQwMHNmTjIyUzNRQWV2N0dyb2xLcUF5QUJ6Vk5IekQyUFhMZWVhbGR5VkVwOWJKZ1JpalI5eGVFWFFTMHdQaGN5RVc4WG0waFYzZGxQeER3X0NTbDd1NUpSR3NUWC1McmNkaXF6dEFhb3RtOHZOT2dfWlpDdzQxd2JkYkFiSEJsZ2xLcW1BeXlueGdoSnkyM1JZYXljRWU2WkxUblMtSXo3MUZSMXVQeWdBZ0JWNUNSb0U2eERsM1JtME41Q3pvdGI4dUd0N2NLUU90NUtTaUtJaDdUMjl4eE1nT19yU1RhaVZBa0lvcXdEbVV3WGE?oc=5",
+      "source": "The Times of India",
+      "published": "Mon, 02 Nov 2026 06:30:00 GMT",
+      "description": "Gold price prediction today: Will gold continue to fall? Check outlook for November 2, 2026 week The Times of India",
+      "category": "gold"
+    },
+    {
+      "title": "India Gold price today: FXStreet data shows an increase in Gold prices - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ2hPbDF0SDJXWWJiUFpvY1JjYkJ5MURTVnFCSnF4aUxiRkpjR2dEVXhrRVNVeUJlUWhocVpsZnl4Mkoya0t4YW1ETEY0b1dTLVRxZW1td0JOeExiTF9HRUhIWDdqMGNNbE8tQ1gtVUtsMTR3cGlnQ2JlX01UMkYwTWVXNkQ5ZVFhNmI3VmpTT3IxVUJTN2Y0Wllzb0g5ZFpHUWJqdHplYmhhdF9HeERGX1hqa3dNQkRSNks1Wk9FU2xxRndKdml6Sg?oc=5",
+      "source": "www.tmgm.com",
+      "published": "Mon, 02 Nov 2026 05:32:52 GMT",
+      "description": "India Gold price today: FXStreet data shows an increase in Gold prices www.tmgm.com",
+      "category": "gold"
+    },
+    {
+      "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 02 Nov 2026 05:04:00 GMT",
+      "description": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus Reuters",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD recovers modestly as oil prices decline, US elections in focus - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1c4Ui10WDBxa3JVdzltc0U1WlZaUWJXOS1hSzBtS1V4RUw5UklUQkVNYWRoa0F3VUtqc1d6TkliRzdWbnV3S0F2STVlYmtKYzM4bjItVUhnQ0lPbUdZbEtjSHlOZVUwaVROczJhb2pVcXNDX3ZQQTRqVVc0YWJIQ1FCWk5mS24tMmxGTU1jbXRnUmhmTWZGYTJDcFdSYXNBM3ZIYkJEdnZwUUExNUxReG8xMUJjWGFjSDVHd1VTQ0lZUlJfRnBrTDR1SlU2UWg3RUE?oc=5",
+      "source": "FXStreet",
+      "published": "Mon, 02 Nov 2026 03:37:47 GMT",
+      "description": "Gold Price Forecast: XAU/USD recovers modestly as oil prices decline, US elections in focus FXStreet",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price is Attempting to Offload its Oversold Conditions – Analysis –02-11-2026 - Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNW1hU2phd2RsU0ktVFpSOG9zZHNDX2NtTkRWLXlnLXNYTUc5a0pjN1dxXzlSWHM1SkY3TDlRVEdnay1hTHJtTWdjdFF0LUYybkYyY0VlMF9PNkNfdnQ3MzR2TklZbFVnRGtGU2s3U1BtbU9fbHlJSURhVkN2TENBODhrUURfQmFMQXdkNU1OXzkwSWtzSDRYNHVtc2xydDI0dVZWSmRfV0Q5ei1jdXhhOXVWMnBPVGtUTllTd3F3NjRsazN1VXFGOUZzN09kMFNVaW5ZSEcxTG5USlBrdVp0dTUyTXM3Wk5jT2lqLXRR?oc=5",
+      "source": "Economies.com",
+      "published": "Mon, 02 Nov 2026 03:28:00 GMT",
+      "description": "Gold Price is Attempting to Offload its Oversold Conditions – Analysis –02-11-2026 Economies.com",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 2, 2026 - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTNtRWJqZEJaSUg1N2pIYmFTSWczTVBMZkJQWW9yWjBJX3RGZVJraWU2S2hfaHZxVkdrcW54b01XLUFjc2xuMUJ3UzBLV1RiemJPeEk3bjdYeUJUVW5iX203RjRGRl9ZXy1VcWhZZEVOU1JCQmc1aXNYNVZaaDRfS3BjOHdCem1DS1lJWUQ0UG42T2x5QmVKVmE0WWpPc2hfMzFF?oc=5",
+      "source": "Mitrade",
+      "published": "Mon, 02 Nov 2026 02:44:29 GMT",
+      "description": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 2, 2026 Mitrade",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price analysis today: Is the sharp selloff creating a buying opportunity or another trap? - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWh2RF9oQzJiczZ6enppemwwXzdWekx5QVVaM3NnRXNWWENPMjZGbUtGM2YzRzl6MndXSE1pVTFOYlV3WTdubjRIQVJVckljRlJBSlZMX0ZwTHlydWNYTWlSMjRaU2JFb2I3Q1ZuekZpb2FnR3lPUUt0bFdEbjRXZFhRVnVYdVFSWU5FM0pHd1lROE40a3RzdWdhTjEtX3A1YVM1RnRSUHpsenc1VUtHZEZQX2t0b1R2Tmh1OVY0SkI2OWJTTGZUcE5DNA?oc=5",
+      "source": "investingLive",
+      "published": "Mon, 02 Nov 2026 00:04:35 GMT",
+      "description": "Gold price analysis today: Is the sharp selloff creating a buying opportunity or another trap? investingLive",
+      "category": "gold"
+    },
+    {
+      "title": "PRESS RELEASE: DOREX WEEKLY GOLD MARKET UPDATE – w/e 30.10.26: Gold Faces Selling Pressure as Global Markets Seek Liquidity - Press Release Distribution Australia",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcGxRRG5HWmZNVGlPQmIyMElUd3JodmNUNEVKekNjWlVxZGxoT2Nkdlg4c0lONVl5T01EVU8yZEkyWGMwT3FHdTQ4WjJZdm5OYjZETFhWdjFNVzZGbVZ0bFlFaUZJcW9zbnpoX2JOUjgzWGFicUMtWS1CbEhlR1l5OG1mUXlzZmJWTGhmbDFnOG5LTDduV2lJa0dXTHNCZy1qQk1RV0Eyb213d0hEdldvc216NUFiRll5dm1pUGJqQldHTmJFNGV0Nlpwa25LM2h3eTk3TkVxWGk2Rk50MEhZc2lXby1yQVBqUmFsRVc4OWtJN3lyZWc?oc=5",
+      "source": "Press Release Distribution Australia",
+      "published": "Mon, 02 Nov 2026 00:03:36 GMT",
+      "description": "PRESS RELEASE: DOREX WEEKLY GOLD MARKET UPDATE – w/e 30.10.26: Gold Faces Selling Pressure as Global Markets Seek Liquidity Press Release Distribution Australia",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0pPZHhycWdjRDdEQ3NfYlRNbXhlTGEtSHRfQlcwWWFxdl9KU1VZOGdvNHA0RnJ3WTVlaTNYZ0ctQUdUODJWSlhOOC1RT25LZXhPZW5oV2JaMk85aWxmR0FZaHhIVXl3cGt4cnA4MXJfWl8td244TGdoNGhfMEdUZVN3aWdsTVdRYWU5QW1mNVM2TDR6Z3d6Qlc1NVE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 30 Oct 2026 19:54:53 GMT",
+      "description": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? Yahoo Finance",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mZXNibXV4ME54eDVOV3REZkV3VEMzSXplb214alJUZU5hSE0zcE0yMlBpTXJ6LTFLNlFENFNOUDNJZXJERGxINVVWUUNhS01UVkp0REZzQ3lCdWJra1Z2NWtSclVlZVZ4MXF0dXNn?oc=5",
+      "source": "BeInCrypto",
+      "published": "Fri, 30 Oct 2026 19:54:00 GMT",
+      "description": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? BeInCrypto",
+      "category": "gold"
+    },
+    {
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "source": "Reuters",
+      "published": "Fri, 30 Oct 2026 19:03:39 GMT",
+      "description": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone Reuters",
+      "category": "gold"
+    },
+    {
+      "title": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWI2VzJfY19yZTRMR2lrVkYwRXpfZmFiVUdiVzJGSWpid1ZsVi1jRURGM09aOWdYUkZtcGlLb3BBSVRabVlaV0xfckVCVFIxTXFHelU4WFNCVnd6c1g4Y0hfb2had2hTaXZ4dGlKTzcxZmFpX1EzLU55Tjl5MFFfZ1JPSHFjcmdKcmZvRg?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "Fri, 30 Oct 2026 17:26:11 GMT",
+      "description": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat Yahoo Finance UK",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJnbS1JeHBpOHJBSFRHSk5wZ2stdmFPblE5YTdvUmVsbUpna0JQdm5NNTdDVEVVLWp3ZUJVb0RxUGhKc2V1MU1xOG5vRnZMMHktZElrSGJwbnJ5U2tBZTlmenlkMGp6OTdaRTBsZkZCX0hmWHdLSGZ3TUZnOVNWdkFZU2pDSzdUMDVxODJ1Mkd1UEx5S1czS2xMWnRTUzRnM1RKaQ?oc=5",
+      "source": "Mining.com",
+      "published": "Fri, 30 Oct 2026 16:30:49 GMT",
+      "description": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank Mining.com",
+      "category": "gold"
+    },
+    {
+      "title": "India's forex kitty shrinks by $1.27 billion as gold reserves slide; bank credit growth accelerates - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRjZvcjZPSzBRSWVjVkJyZDRIdkM1cGZkS2d1X1p5YTNISHphMGs3NG9CMlZKZVFnVXZiaWVuQW9velFoYVZiNHBybjc3OU5wU3BJZEhaQk95akVoN2I2T0E0QjgtWHRzcTMtbU1JSXdFTUw3Z1NvazBRSG9xVzFEeHBSWFFhZk1kVkZtdlYyb19oYWR1Uk1qV2l2ZVJJUG92YjF0Nkp6cUVxeWFzSERLZl8wbWdOZHhXcTVUY2tBSTNJdl9DNTV1ZC1Qbm5ETWx2UWZ4RnZZRlhlUXJvUVJFaXQwX2hlNm96eF9WWFBWVjRsb2hTZ0lvNmgxcDB6REJhX0Y1bnZNTy12dlRMcFN30gGUAkFVX3lxTFBTU0lreXJXZ3NTZndlM3A3MmNQZHlBVHdidVlVNmE2empEaHBtc2VQWER6VVZyZm1obEpFYi12RHlBS181UXZ3YktYMW96aHFQTnpFOHZwMnFpbW9GOTMzanRwVkxKTHhmdjJaN1pYWU1fblUwajdLUlRWbV9mX0UtcDZwTElZUjJhUGdiVVJIb2dQR0xvSUtsRTBoSEphd1dsWUJtbzl1U3REX0UyTWx0Z19XSnNDR29JdHlwOVpQbjhHV0tHWkF2YnplWmVCT2tSbjVQNUtTdGwwbThiRmdlek1zWTJ3UG1Hb2E5RV94Z284X2NCTnpNTkVVY2pZdFRoUGZPLTlyYVk0YVl2LXFLLW5DMg?oc=5",
+      "source": "The Times of India",
+      "published": "Fri, 30 Oct 2026 14:38:00 GMT",
+      "description": "India's forex kitty shrinks by $1.27 billion as gold reserves slide; bank credit growth accelerates The Times of India",
+      "category": "gold"
+    },
+    {
+      "title": "Gold Price Today: October 30, 2026 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5",
+      "source": "Forbes",
+      "published": "Fri, 30 Oct 2026 12:32:00 GMT",
+      "description": "Gold Price Today: October 30, 2026 Forbes",
+      "category": "gold"
+    },
+    {
+      "title": "Asia physical gold demand remains subdued - Mining.com.au",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xeG1ScE50R09EcHBsV0RMZW5vblVZTVE3VDduLUdURV9yRElhQUJwc1ZNTVpZTWlxdnh0MjliMzV2Y0NuTGRfbGF6Wk1yVkN2YVNsOHIzRlRYZE45aEw2WlJoODRvaW9QVkxsOU9weE5UUQ?oc=5",
+      "source": "Mining.com.au",
+      "published": "Fri, 30 Oct 2026 12:16:29 GMT",
+      "description": "Asia physical gold demand remains subdued Mining.com.au",
+      "category": "gold"
+    },
+    {
+      "title": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONDZKVXFEUEtkWm8xRm1EWDNURkFBdjdQX212NzZGZk1lbHJwWEFUTkZFVWxnOG53MmstWTBwMmk1eUg3XzRMeXBpNFhKVUVMYmF5QWNwdFo4a3AwaWxkVXg4TmltM0QwSDMwTWJad2JBUnJaRXE1Qk5wTEI0OWNEQi1kZDFJRzRObHhLcVB5U3hXZ2czalI4a3BwLW43LVpDeEFpZ0tBRVNuMEE1Rk82RUtialg5aHc3UTctNzBPbmxTTkFOWFFLU1ByazNjLTBRSkR0Z0IyMjVteEktT1RJQVNQamttTHpPbDJjc0xWYlhodWxSZ3RB?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Fri, 30 Oct 2026 11:14:51 GMT",
+      "description": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount Yahoo Finance",
+      "category": "gold"
+    },
+    {
+      "title": "Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWROX2ZxNkgxTVpVdTlFSmdaT1paOVpfN1RxY0x1Y2djX2ZqSXB3b2wzUVZaakpEd1FvZTQxejl3ck9IVjBNaXdJVVN2ZFdsUTJWQy1yTDJzUnVhcTZxMl9seDBrUm83TThTTHBxM3hpaGVjaXU3N01qODFicnZSeWZpcWhvbk1NYTdDa2pZYUNWc00yRkc0Ng?oc=5",
+      "source": "Morningstar",
+      "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "description": "Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? Morningstar",
+      "category": "gold"
+    },
+    {
+      "title": "Russia's Gold Reserves Dip to 2019 Low, Deficit Grows - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92RFc2eG5MU3duSW9PZTVzM3FlbWZVUkd1cGNvSWtsU2M4OVhsc2g0b0NYdDFEYUNsLW9mSFdfQlNzcVhjZUFuQnJvTnN3U09HV3N0djF0eG56T1M1UHpJLWxUOA?oc=5",
+      "source": "Investing News Network",
+      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "description": "Russia's Gold Reserves Dip to 2019 Low, Deficit Grows Investing News Network",
+      "category": "gold"
+    },
+    {
+      "title": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0diX0NXMU9LM2thenJRM2g2VTN6OF91b2FieHhmWTVpaUZoaWplalc3RmtfR2tjeExNWmVwdGlrNGJ6VDFhYVBLS2NmRGJwSVVLajIxQlRoTG5qSUphMm45UDZ2d0FGSHdfdUVQNEZWNGtSX2NFWXJnUm5uN3dVZjhscWlNRGJrM3dQd1ZXT1VSQTBfQU9YMDA2OWJCUlhFQmtESUFjOG93SFE?oc=5",
+      "source": "World Gold Council",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "description": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
+      "source": "World Gold Council",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "description": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
+      "category": "gold"
+    },
+    {
+      "title": "Commodity weekly: Fuel tightness and gold demand support recovery - Saxo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1ljanVUeEZ1dW5pZ05GdnZ6UVE3bm5kMmNnYW1XUjFNYmp6SjdSNDJIYnNZQkw4TFpTbjRlbTliWnd3U2poWEtxaXlSOV9RQldkdnI0QjNscHR6TXZ6NUhQc2J0TWJlSWg2WlBJWW4tQXllMUp1cFdDQ0VYV1hKZ0NLNjJSN0RuRnA5RTMxa09VdlRUeGdibVNWQ0RBR1FXXzMyTmp6UWl6cjhFWFpzUU1DSGs5N1lTMHpUel92NFlDZw?oc=5",
+      "source": "Saxo",
+      "published": "Fri, 09 Oct 2026 11:30:00 GMT",
+      "description": "Commodity weekly: Fuel tightness and gold demand support recovery Saxo",
+      "category": "gold"
+    },
+    {
+      "title": "Argentina’s Central Bank and auditors clash over gold reserves - Buenos Aires Herald",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFZ3R0s5QUVielFwWUYwVTNBLS1nNDVSSXBCTXByY2hFNDhFUGxsQ1Zkd05HbDBmSEdBdWZkYXVKcWZocWw3QXZTNEJmQkNiemVwNWdUeVp0Vm5sQVBxTTQtVUVWMlBBWGxFdUg3eldTNUk0UWZYS09Tb21sbnI1WC1oYjRIYnhFNXNSeDI0Vmh1V093dmgxMGtFWlBqZUNiLXc4?oc=5",
+      "source": "Buenos Aires Herald",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "description": "Argentina’s Central Bank and auditors clash over gold reserves Buenos Aires Herald",
+      "category": "gold"
+    },
+    {
+      "title": "Central Bank Gold Reserves Survey - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fd0Z2Z0o3MWNJeXN5dW5PUHB3U1M3MUtobXpmYTJHRy1QM0RzNnNzbm9TbjRBOC1ZbFk1d1VXNFRPQ3lHZ1JLSHRBcHV2ZWo2LU9YTHQ0aS1FeHI4NU8wX3FSdUVzcTZZU3c?oc=5",
+      "source": "World Gold Council",
+      "published": "Fri, 04 Sep 2026 11:36:34 GMT",
+      "description": "Central Bank Gold Reserves Survey World Gold Council",
+      "category": "gold"
     }
   ],
   "indicators": [
@@ -412,22 +1909,26 @@
     }
   ],
   "report": {
-    "summary": "هذا تقرير وصفي للبيانات الاقتصادية العامة. لا يمثل توقعاً للأسواق ولا يثبت علاقة سببية.",
+    "summary": "Descriptive research based on public economic and gold news sources. It does not establish causation or predict market movements.",
     "observations": [
       {
-        "title": "الأخبار العالمية",
-        "text": "تم جمع 55 خبراً من المصادر المتاحة."
+        "title": "Global News",
+        "text": "Collected 150 general economic news articles."
+      },
+      {
+        "title": "Gold News",
+        "text": "Collected 85 gold-related news articles."
       },
       {
         "title": "World GDP Growth",
-        "text": "آخر قيمة منشورة: 2.92127318539153 عن الفترة 2025."
+        "text": "Latest published value: 2.92127318539153 for 2025."
       },
       {
         "title": "World Inflation",
-        "text": "آخر قيمة منشورة: 3.04141321556539 عن الفترة 2025."
+        "text": "Latest published value: 3.04141321556539 for 2025."
       }
     ],
     "relationships": []
   },
-  "disclaimer": "Educational economic research only. No trading instructions. Data may be delayed."
+  "disclaimer": "Educational economic research only. No trading instructions. News availability and publication times depend on external sources."
 }
