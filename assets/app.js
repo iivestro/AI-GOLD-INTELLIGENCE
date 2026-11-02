@@ -9,21 +9,29 @@ async function loadIntelligence() {
   const goldNewsList = document.getElementById("gold-news-list");
 
   try {
-    const response = await fetch("data/latest.json?time=" + Date.now());
+    const response = await fetch(
+      "data/latest.json?time=" + Date.now()
+    );
 
     if (!response.ok) {
       throw new Error("Could not load latest.json");
     }
 
     const data = await response.json();
-    const news = Array.isArray(data.news) ? data.news : [];
+
+    const news = Array.isArray(data.news)
+      ? data.news
+      : [];
+
     const indicators = Array.isArray(data.indicators)
       ? data.indicators
       : [];
 
     // GENERAL INTELLIGENCE
+
     updated.textContent =
-      "Last update: " + (data.generated_at || "Not available");
+      "Last update: " +
+      (data.generated_at || "Not available");
 
     newsCount.textContent = news.length;
 
@@ -51,6 +59,7 @@ async function loadIntelligence() {
         : "N/A";
 
     // GENERAL NEWS
+
     newsList.replaceChildren();
 
     news.slice(0, 20).forEach(item => {
@@ -58,15 +67,20 @@ async function loadIntelligence() {
       article.className = "news-item";
 
       const title = document.createElement("a");
-      title.textContent = item.title || "Untitled report";
+      title.textContent =
+        item.title || "Untitled report";
 
-      if (item.url && /^https?:\/\//i.test(item.url)) {
+      if (
+        item.url &&
+        /^https?:\/\//i.test(item.url)
+      ) {
         title.href = item.url;
         title.target = "_blank";
         title.rel = "noopener noreferrer";
       }
 
       const description = document.createElement("p");
+
       description.textContent =
         (item.source || "Public source") +
         " · " +
@@ -77,6 +91,7 @@ async function loadIntelligence() {
     });
 
     // GOLD INTELLIGENCE
+
     const goldKeywords = [
       "gold",
       "bullion",
@@ -94,7 +109,8 @@ async function loadIntelligence() {
 
     const goldNews = news.filter(item => {
       const text = (
-        (item.title || "") + " " +
+        (item.title || "") +
+        " " +
         (item.description || "")
       ).toLowerCase();
 
@@ -114,15 +130,21 @@ async function loadIntelligence() {
         article.className = "news-item";
 
         const title = document.createElement("a");
-        title.textContent = item.title || "Untitled report";
 
-        if (item.url && /^https?:\/\//i.test(item.url)) {
+        title.textContent =
+          item.title || "Untitled report";
+
+        if (
+          item.url &&
+          /^https?:\/\//i.test(item.url)
+        ) {
           title.href = item.url;
           title.target = "_blank";
           title.rel = "noopener noreferrer";
         }
 
         const description = document.createElement("p");
+
         description.textContent =
           (item.source || "Public source") +
           " · " +
@@ -136,10 +158,22 @@ async function loadIntelligence() {
   } catch (error) {
     console.error("Intelligence error:", error);
 
-    updated.textContent = "Data loading error.";
-    newsList.textContent = "Could not load general news.";
-    goldNewsList.textContent = "Could not load gold intelligence.";
+    if (updated) {
+      updated.textContent = "Data loading error.";
+    }
+
+    if (newsList) {
+      newsList.textContent =
+        "Could not load general news.";
+    }
+
+    if (goldNewsList) {
+      goldNewsList.textContent =
+        "Could not load gold intelligence.";
+    }
   }
 }
+
+// START INTELLIGENCE ENGINE
 
 loadIntelligence();
