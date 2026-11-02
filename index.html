@@ -385,5 +385,70 @@ updateClock();
 setInterval(updateClock,1000);
 
 </script>
+ <script>
+function runAIAnalysis() {
+    const output = document.getElementById("ai-report");
+
+    if (!output) {
+        alert("لم يتم العثور على مكان عرض التقرير");
+        return;
+    }
+
+    const rsi = Number(document.getElementById("rsi-value")?.textContent);
+    const macd = Number(document.getElementById("macd-value")?.textContent);
+    const atr = Number(document.getElementById("atr-value")?.textContent);
+
+    if (![rsi, macd, atr].every(Number.isFinite)) {
+        output.textContent =
+          "تعذر التحليل. تأكد من تحميل البيانات وحساب المؤشرات أولاً.";
+        return;
+    }
+
+    let report = [];
+
+    report.push("AI GOLD INTELLIGENCE");
+    report.push("تقرير التحليل الآلي");
+    report.push("--------------------------------");
+
+    report.push("RSI: " + rsi);
+    report.push("MACD: " + macd);
+    report.push("ATR: " + atr);
+
+    report.push("--------------------------------");
+
+    if (rsi >= 70) {
+        report.push("ملاحظة RSI: القيمة مرتفعة مقارنة بالنطاق المعتاد.");
+    } else if (rsi <= 30) {
+        report.push("ملاحظة RSI: القيمة منخفضة مقارنة بالنطاق المعتاد.");
+    } else {
+        report.push("ملاحظة RSI: القيمة ضمن النطاق المتوسط.");
+    }
+
+    report.push(
+      "ملاحظة MACD: " +
+      (macd > 0 ? "القيمة موجبة." :
+       macd < 0 ? "القيمة سالبة." : "القيمة قريبة من الصفر.")
+    );
+
+    report.push("ملاحظة ATR: يقيس هذا المؤشر مدى التذبذب، وليس اتجاه الحركة.");
+
+    report.push("--------------------------------");
+    report.push("هذا تحليل تعليمي للمؤشرات، وليس توقعاً للسعر.");
+
+    output.textContent = report.join("\n");
+}
+</script>
+
+<div id="ai-report"
+     style="background:#101827;color:#00e5a8;padding:20px;
+     margin:20px 0;border-radius:12px;white-space:pre-line;">
+سيظهر التقرير التحليلي هنا.
+</div>
+
+<button onclick="runAIAnalysis()"
+style="padding:14px 22px;background:#00b894;color:white;
+border:0;border-radius:8px;font-weight:bold;">
+START AI ANALYSIS
+</button>
 </body>
 </html>
