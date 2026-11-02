@@ -1,454 +1,559 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ar" dir="rtl">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#090d16">
-<title>AI GOLD INTELLIGENCE V3</title>
-
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#07111f">
+<title>AI Gold Intelligence | Historical Data Lab</title>
 <style>
+:root{--bg:#07111f;--panel:#101d2e;--panel2:#0c1726;--line:#22344a;--text:#edf4ff;--muted:#9eb0c7;--mint:#54e0b5;--blue:#75a9ff;--gold:#e8c46a;--red:#ff8d8d}
 *{box-sizing:border-box}
-body{
- margin:0;background:#090d16;color:#f4f4f5;
- font-family:Arial,sans-serif
+body{margin:0;background:radial-gradient(circle at 80% 0%,#142a40 0,transparent 34%),var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Tahoma,Arial,sans-serif;line-height:1.6}
+.wrap{max-width:1050px;margin:auto;padding:24px 16px 50px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:22px}
+.brand{font-weight:800;letter-spacing:.08em;font-size:clamp(18px,4vw,25px)}
+.tag{color:var(--mint);font-size:12px;border:1px solid #285b54;border-radius:99px;padding:5px 10px}
+h1{font-size:clamp(25px,5vw,38px);line-height:1.2;margin:10px 0}
+.sub{color:var(--muted);max-width:720px;margin:0 0 24px}
+.panel{background:linear-gradient(145deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:18px;padding:20px;margin:16px 0;box-shadow:0 12px 30px #0002}
+.panel h2{font-size:17px;margin:0 0 12px}
+.upload{border:1px dashed #49627d;border-radius:14px;padding:18px;text-align:center;background:#0a1523}
+input[type=file]{display:block;width:100%;margin:12px 0;color:var(--muted)}
+button{border:0;border-radius:11px;padding:13px 20px;font-weight:800;font-size:15px;cursor:pointer;background:var(--mint);color:#062018}
+button:disabled{opacity:.45;cursor:not-allowed}
+.hint,.muted{color:var(--muted);font-size:13px}
+.status{margin-top:12px;color:var(--gold);font-size:14px;min-height:24px}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.metric{background:#0a1625;border:1px solid var(--line);border-radius:13px;padding:14px;min-width:0}
+.metric .k{color:var(--muted);font-size:12px}
+.metric .v{font-size:clamp(18px,3vw,25px);font-weight:800;overflow-wrap:anywhere;margin-top:4px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.report{white-space:pre-wrap;background:#091523;border:1px solid var(--line);border-radius:13px;padding:16px;color:#dce9f7;min-height:110px}
+canvas{width:100%;height:230px;background:#091523;border:1px solid var(--line);border-radius:13px}
+.footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+@media(max-width:700px){
+.grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.two{grid-template-columns:1fr}
+.wrap{padding:18px 12px 36px}
+.panel{padding:15px}
 }
-header{padding:22px 17px;background:#101726;
- border-bottom:1px solid #293247}
-h1{font-size:21px;color:#e5bd62;margin:0}
-.sub{font-size:12px;color:#9ba6b8;margin-top:8px}
-main{max-width:850px;margin:auto;padding:15px}
-h2{font-size:17px;color:#e5bd62;margin-top:25px}
-.card{
- background:#141e30;border:1px solid #29364c;
- border-radius:13px;padding:16px;margin-bottom:13px
-}
-.label{font-size:12px;color:#a6b0c0}
-.value{font-size:22px;font-weight:bold;
- color:#e5bd62;margin-top:10px}
-.small{font-size:12px;color:#9ba6b8;line-height:1.8}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.metric{background:#1b2940;border-radius:10px;padding:13px}
-button{
- border:0;border-radius:9px;padding:13px;
- background:#e5bd62;color:#111827;font-weight:bold;
- width:100%;margin-top:12px
-}
-input{width:100%;margin-top:12px;color:white}
-.status{color:#66d9a0;font-size:12px}
-.warning{color:#f2c36b;font-size:12px;line-height:1.8}
-footer{text-align:center;color:#778195;padding:25px;font-size:11px}
-.chart{height:400px}
 </style>
 </head>
 
 <body>
+<div class="wrap">
 
-<header>
-<h1>AI GOLD INTELLIGENCE</h1>
-<div class="sub">GOLD ANALYTICS ENGINE · V3.0</div>
-</header>
-
-<main>
-
-<div class="card">
- <div class="label">SYSTEM STATUS</div>
- <div class="value">V3.0 ACTIVE</div>
- <div class="status">● Analytics engine initialized</div>
- <p class="small" id="clock"></p>
+<div class="top">
+<div class="brand">AI GOLD INTELLIGENCE</div>
+<div class="tag">HISTORICAL DATA LAB · V4</div>
 </div>
 
-<h2>Gold Market</h2>
+<h1>مختبر تحليل البيانات التاريخية</h1>
 
-<div class="card">
- <div class="label">MARKET SYMBOL</div>
- <div class="value">XAU / USD</div>
- <div class="small">Gold / US Dollar</div>
+<p class="sub">
+ارفع ملف CSV يحتوي على time, open, high, low, close.
+سيقوم الموقع بفحص جودة البيانات وحساب إحصاءات وصفية
+وإنشاء تقرير تلقائي. جميع العمليات تتم داخل متصفحك.
+</p>
+
+<section class="panel">
+<h2>استيراد البيانات</h2>
+
+<div class="upload">
+<strong>اختر ملف CSV من جهازك</strong>
+
+<input id="csvFile" type="file" accept=".csv,text/csv">
+
+<div class="hint">
+الأعمدة المطلوبة: time, open, high, low, close
+وعمود volume اختياري.
 </div>
 
-<div class="card">
- <div class="label">TRADINGVIEW CHART</div>
- <div class="chart">
-  <div class="tradingview-widget-container"
-       style="height:100%;width:100%">
-   <div class="tradingview-widget-container__widget"
-        style="height:100%;width:100%"></div>
-   <script type="text/javascript"
-    src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js"
-    async>
-   {
-    "autosize":true,
-    "symbol":"OANDA:XAUUSD",
-    "interval":"60",
-    "timezone":"Etc/UTC",
-    "theme":"dark",
-    "style":"1",
-    "locale":"en",
-    "allow_symbol_change":true,
-    "hide_side_toolbar":true,
-    "withdateranges":true,
-    "save_image":false,
-    "studies":[
-     "RSI@tv-basicstudies",
-     "MACD@tv-basicstudies"
-    ]
-   }
-   </script>
-  </div>
- </div>
+<div style="margin-top:14px">
+<button id="analyzeBtn" disabled>ابدأ فحص البيانات</button>
 </div>
 
-<h2>Gold Analytics Engine</h2>
-
-<div class="card">
- <div class="label">IMPORT HISTORICAL DATA</div>
- <p class="small">
-  ارفع ملف CSV يحتوي على أعمدة:
-  time, open, high, low, close.
-  الحجم volume اختياري.
- </p>
-
- <input type="file" id="csvFile" accept=".csv,text/csv">
-
- <button onclick="analyzeFile()">
- START ANALYSIS
- </button>
-
- <p class="status" id="message">
- Waiting for historical data
- </p>
+<div id="status" class="status" aria-live="polite">
+لم يتم اختيار ملف بعد.
 </div>
 
-<h2>Analysis Results</h2>
+</div>
+</section>
+
+<section id="results" hidden>
+
+<div class="panel">
+<h2>ملخص مجموعة البيانات</h2>
 
 <div class="grid">
 
- <div class="metric">
-  <div class="label">RSI (14)</div>
-  <div class="value" id="rsi">--</div>
-  <div class="small">Relative Strength Index</div>
- </div>
+<div class="metric">
+<div class="k">عدد السجلات</div>
+<div class="v" id="rows">—</div>
+</div>
 
- <div class="metric">
-  <div class="label">MACD</div>
-  <div class="value" id="macd">--</div>
-  <div class="small">MACD line</div>
- </div>
+<div class="metric">
+<div class="k">أول تاريخ</div>
+<div class="v" id="firstDate">—</div>
+</div>
 
- <div class="metric">
-  <div class="label">SIGNAL LINE</div>
-  <div class="value" id="signal">--</div>
-  <div class="small">EMA 9</div>
- </div>
+<div class="metric">
+<div class="k">آخر تاريخ</div>
+<div class="v" id="lastDate">—</div>
+</div>
 
- <div class="metric">
-  <div class="label">ATR (14)</div>
-  <div class="value" id="atr">--</div>
-  <div class="small">Average True Range</div>
- </div>
+<div class="metric">
+<div class="k">السجلات غير المكتملة</div>
+<div class="v" id="badRows">—</div>
+</div>
+
+</div>
+</div>
+
+<div class="panel">
+<h2>إحصاءات عمود الإغلاق (Close)</h2>
+
+<div class="grid">
+
+<div class="metric">
+<div class="k">أول قيمة</div>
+<div class="v" id="firstClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">آخر قيمة</div>
+<div class="v" id="lastClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">المتوسط الحسابي</div>
+<div class="v" id="meanClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">الوسيط</div>
+<div class="v" id="medianClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">أعلى قيمة</div>
+<div class="v" id="maxClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">أدنى قيمة</div>
+<div class="v" id="minClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">الانحراف المعياري</div>
+<div class="v" id="stdClose">—</div>
+</div>
+
+<div class="metric">
+<div class="k">متوسط مدى الشمعة (High − Low)</div>
+<div class="v" id="avgRange">—</div>
+</div>
+
+</div>
+</div>
+
+<div class="panel">
+<h2>مخطط تسلسل قيم الإغلاق</h2>
+
+<canvas id="chart" width="1000" height="300"
+aria-label="رسم تاريخي لقيم الإغلاق"></canvas>
+
+<p class="hint">
+المخطط يعرض القيم الموجودة في الملف فقط،
+ولا يمثل توقعاً للقيم اللاحقة.
+</p>
+</div>
+
+<div class="two">
+
+<div class="panel">
+<h2>تقرير الفحص الآلي</h2>
+<div id="report" class="report"></div>
+</div>
+
+<div class="panel">
+<h2>فحص جودة البيانات</h2>
+<div id="quality" class="report"></div>
+</div>
 
 </div>
 
-<h2>Historical Statistics</h2>
+</section>
 
-<div class="card">
- <div class="label">LAST CLOSE</div>
- <div class="value" id="lastClose">--</div>
- <div class="label" style="margin-top:15px">
-  TOTAL DATA ROWS
- </div>
- <div class="value" id="rows">--</div>
- <div class="label" style="margin-top:15px">
-  DATA PERIOD
- </div>
- <div class="small" id="period">--</div>
+<div class="footer">
+AI GOLD INTELLIGENCE · V4.0 · تحليل وصفي تعليمي للبيانات التاريخية فقط
 </div>
 
-<h2>Research Notes</h2>
-
-<div class="card">
- <div class="value" style="font-size:17px">
-  Educational Analysis
- </div>
- <p class="small" id="notes">
-  Import historical market data to calculate
-  technical indicators.
- </p>
- <div class="warning">
-  النتائج حسابات تاريخية وليست توقعات للأسعار
-  أو توصيات مالية.
- </div>
 </div>
-
-</main>
-
-<footer>
-AI GOLD INTELLIGENCE · V3.0<br>
-Historical Data Analytics Platform
-</footer>
 
 <script>
+"use strict";
 
-function ema(values,period){
- const result=[];
- const k=2/(period+1);
- let current=values[0];
- result.push(current);
+const fileInput = document.getElementById("csvFile");
+const analyzeBtn = document.getElementById("analyzeBtn");
+const statusEl = document.getElementById("status");
 
- for(let i=1;i<values.length;i++){
-  current=values[i]*k+current*(1-k);
-  result.push(current);
- }
- return result;
+let csvText = "";
+
+fileInput.addEventListener("change", async () => {
+
+const file = fileInput.files && fileInput.files[0];
+
+csvText = "";
+analyzeBtn.disabled = true;
+
+if (!file) {
+statusEl.textContent = "لم يتم اختيار ملف.";
+return;
 }
 
-function calculateRSI(values,period=14){
- if(values.length<=period)return null;
+try {
 
- let gains=0,losses=0;
+csvText = await file.text();
 
- for(let i=1;i<=period;i++){
-  const change=values[i]-values[i-1];
-  gains+=Math.max(change,0);
-  losses+=Math.max(-change,0);
- }
+analyzeBtn.disabled = false;
 
- let avgGain=gains/period;
- let avgLoss=losses/period;
+statusEl.textContent =
+`تم تحميل ${file.name} (${file.size.toLocaleString("en-US")} بايت). اضغط بدء الفحص.`;
 
- for(let i=period+1;i<values.length;i++){
-  const change=values[i]-values[i-1];
-  avgGain=(avgGain*(period-1)+Math.max(change,0))/period;
-  avgLoss=(avgLoss*(period-1)+Math.max(-change,0))/period;
- }
+} catch(e) {
 
- if(avgLoss===0)return 100;
+statusEl.textContent =
+"تعذر قراءة الملف. جرّب اختيار الملف مرة أخرى.";
 
- return 100-(100/(1+avgGain/avgLoss));
 }
 
-function calculateATR(data,period=14){
- if(data.length<period+1)return null;
+});
 
- const ranges=[];
+function parseCSV(text) {
 
- for(let i=1;i<data.length;i++){
-  const current=data[i];
-  const previous=data[i-1];
+const lines = text
+.replace(/^\uFEFF/, "")
+.split(/\r?\n/)
+.filter(x => x.trim() !== "");
 
-  ranges.push(Math.max(
-   current.high-current.low,
-   Math.abs(current.high-previous.close),
-   Math.abs(current.low-previous.close)
-  ));
- }
-
- let atr=ranges.slice(0,period)
-  .reduce((a,b)=>a+b,0)/period;
-
- for(let i=period;i<ranges.length;i++){
-  atr=(atr*(period-1)+ranges[i])/period;
- }
-
- return atr;
+if (lines.length < 2) {
+throw Error("الملف لا يحتوي على صفوف بيانات كافية.");
 }
 
-function parseCSV(text){
- const lines=text.trim().split(/\r?\n/);
- if(lines.length<37)throw Error("نحتاج إلى 37 صفاً على الأقل");
+function splitLine(line) {
 
- const headers=lines[0].split(",")
-  .map(x=>x.trim().toLowerCase());
+const out = [];
+let cur = "";
+let quoted = false;
 
- const index={
-  time:headers.indexOf("time"),
-  open:headers.indexOf("open"),
-  high:headers.indexOf("high"),
-  low:headers.indexOf("low"),
-  close:headers.indexOf("close")
- };
+for (let i = 0; i < line.length; i++) {
 
- for(const key of Object.keys(index)){
-  if(index[key]===-1)
-   throw Error("عمود مفقود: "+key);
- }
+const c = line[i];
 
- const data=[];
-
- for(let i=1;i<lines.length;i++){
-  if(!lines[i].trim())continue;
-
-  const row=lines[i].split(",");
-
-  const item={
-   time:row[index.time]?.trim(),
-   open:Number(row[index.open]),
-   high:Number(row[index.high]),
-   low:Number(row[index.low]),
-   close:Number(row[index.close])
-  };
-
-  if(!item.time||
-     !Number.isFinite(item.open)||
-     !Number.isFinite(item.high)||
-     !Number.isFinite(item.low)||
-     !Number.isFinite(item.close)||
-     item.high<item.low||
-     item.high<item.open||
-     item.high<item.close||
-     item.low>item.open||
-     item.low>item.close){
-   throw Error("بيانات غير صحيحة في الصف "+(i+1));
-  }
-
-  data.push(item);
- }
-
- return data;
+if (c === '"' && line[i+1] === '"' && quoted) {
+cur += '"';
+i++;
 }
 
-function analyzeFile(){
- const file=document.getElementById("csvFile").files[0];
- const message=document.getElementById("message");
-
- if(!file){
-  message.textContent="اختر ملف CSV أولاً";
-  return;
- }
-
- const reader=new FileReader();
-
- reader.onload=function(){
-  try{
-   const data=parseCSV(reader.result);
-   const closes=data.map(x=>x.close);
-
-   const rsi=calculateRSI(closes);
-   const ema12=ema(closes,12);
-   const ema26=ema(closes,26);
-
-   const macdValues=ema12.map(
-    (v,i)=>v-ema26[i]
-   );
-
-   const signalValues=ema(macdValues,9);
-
-   const macd=macdValues.at(-1);
-   const signal=signalValues.at(-1);
-   const atr=calculateATR(data);
-
-   document.getElementById("rsi").textContent=
-    rsi.toFixed(2);
-
-   document.getElementById("macd").textContent=
-    macd.toFixed(3);
-
-   document.getElementById("signal").textContent=
-    signal.toFixed(3);
-
-   document.getElementById("atr").textContent=
-    atr.toFixed(3);
-
-   document.getElementById("lastClose").textContent=
-    closes.at(-1).toFixed(3);
-
-   document.getElementById("rows").textContent=
-    data.length;
-
-   document.getElementById("period").textContent=
-    data[0].time+" → "+data.at(-1).time;
-
-   document.getElementById("notes").textContent=
-    "تم حساب RSI وMACD وATR من "+
-    data.length+" صف تاريخي. "+
-    "MACD minus Signal = "+
-    (macd-signal).toFixed(3)+
-    ". هذه إحصائيات تاريخية وليست توقعاً.";
-
-   message.textContent=
-    "Analysis completed successfully";
-
-  }catch(error){
-   message.textContent="Error: "+error.message;
-  }
- };
-
- reader.readAsText(file);
+else if (c === '"') {
+quoted = !quoted;
 }
 
-function updateClock(){
- document.getElementById("clock").textContent=
- "Local time: "+new Date().toLocaleString();
+else if (c === "," && !quoted) {
+out.push(cur.trim());
+cur = "";
 }
 
-updateClock();
-setInterval(updateClock,1000);
+else {
+cur += c;
+}
+
+}
+
+out.push(cur.trim());
+
+return out;
+
+}
+
+const headers = splitLine(lines[0])
+.map(x => x.toLowerCase().trim());
+
+const required = ["time","open","high","low","close"];
+
+const missing = required.filter(x => !headers.includes(x));
+
+if (missing.length) {
+throw Error("الأعمدة المفقودة: " + missing.join(", "));
+}
+
+const rows = [];
+
+let incomplete = 0;
+let invalid = 0;
+
+for (let n = 1; n < lines.length; n++) {
+
+const cells = splitLine(lines[n]);
+
+const raw = {};
+
+headers.forEach((h,i) => {
+raw[h] = cells[i] ?? "";
+});
+
+const time = raw.time;
+
+const nums = {};
+
+for (const k of ["open","high","low","close"]) {
+nums[k] = Number(raw[k]);
+}
+
+const validTime = !!time && !Number.isNaN(Date.parse(time));
+
+const validNums = Object.values(nums)
+.every(Number.isFinite);
+
+if (!validTime || !validNums) {
+incomplete++;
+continue;
+}
+
+if (
+nums.high < nums.low ||
+nums.high < Math.max(nums.open, nums.close) ||
+nums.low > Math.min(nums.open, nums.close)
+) {
+invalid++;
+continue;
+}
+
+rows.push({
+time,
+...nums,
+volume: raw.volume === "" ? null : Number(raw.volume)
+});
+
+}
+
+if (!rows.length) {
+throw Error("لم يتم العثور على صفوف صالحة. تحقق من تنسيق الوقت والأرقام.");
+}
+
+return {
+rows,
+incomplete,
+invalid,
+headers
+};
+
+}
+
+function fmt(n) {
+
+return Number(n).toLocaleString("en-US", {
+maximumFractionDigits: 5
+});
+
+}
+
+function median(a) {
+
+const s = [...a].sort((x,y) => x-y);
+
+const m = Math.floor(s.length/2);
+
+return s.length % 2
+? s[m]
+: (s[m-1] + s[m]) / 2;
+
+}
+
+function set(id,value) {
+
+document.getElementById(id).textContent = value;
+
+}
+
+function drawChart(values) {
+
+const c = document.getElementById("chart");
+const ctx = c.getContext("2d");
+
+const w = c.width;
+const h = c.height;
+
+ctx.clearRect(0,0,w,h);
+
+ctx.strokeStyle = "#263b52";
+ctx.lineWidth = 1;
+
+for (let i = 1; i <= 4; i++) {
+
+let y = i * h / 5;
+
+ctx.beginPath();
+ctx.moveTo(45,y);
+ctx.lineTo(w-15,y);
+ctx.stroke();
+
+}
+
+const min = Math.min(...values);
+const max = Math.max(...values);
+const span = max - min || 1;
+
+ctx.strokeStyle = "#54e0b5";
+ctx.lineWidth = 3;
+ctx.beginPath();
+
+values.forEach((v,i) => {
+
+const x = 45 + i * (w-65) / Math.max(1,values.length-1);
+
+const y = h - 25 - ((v-min)/span) * (h-55);
+
+if (i === 0) {
+ctx.moveTo(x,y);
+} else {
+ctx.lineTo(x,y);
+}
+
+});
+
+ctx.stroke();
+
+ctx.fillStyle = "#9eb0c7";
+ctx.font = "14px Arial";
+
+ctx.fillText("الأدنى: " + fmt(min),48,h-8);
+ctx.fillText("الأعلى: " + fmt(max),w-160,h-8);
+
+}
+
+analyzeBtn.addEventListener("click", () => {
+
+try {
+
+const {
+rows,
+incomplete,
+invalid,
+headers
+} = parseCSV(csvText);
+
+const closes = rows.map(r => r.close);
+const ranges = rows.map(r => r.high-r.low);
+
+const mean =
+closes.reduce((a,b) => a+b,0) / closes.length;
+
+const variance =
+closes.reduce((a,b) => a+(b-mean)**2,0) / closes.length;
+
+const first = rows[0];
+const last = rows[rows.length-1];
+
+const change = last.close-first.close;
+
+const pct = first.close !== 0
+? (change/first.close)*100
+: null;
+
+const duplicates =
+rows.length - new Set(rows.map(r => r.time)).size;
+
+const reversed = rows.some((r,i) =>
+i > 0 && Date.parse(r.time) < Date.parse(rows[i-1].time)
+);
+
+document.getElementById("results").hidden = false;
+
+set("rows",rows.length.toLocaleString("en-US"));
+set("firstDate",first.time);
+set("lastDate",last.time);
+set("badRows",String(incomplete+invalid));
+
+set("firstClose",fmt(first.close));
+set("lastClose",fmt(last.close));
+set("meanClose",fmt(mean));
+set("medianClose",fmt(median(closes)));
+set("maxClose",fmt(Math.max(...closes)));
+set("minClose",fmt(Math.min(...closes)));
+set("stdClose",fmt(Math.sqrt(variance)));
+
+set(
+"avgRange",
+fmt(ranges.reduce((a,b) => a+b,0)/ranges.length)
+);
+
+drawChart(closes);
+
+const direction =
+change > 0 ? "أعلى" :
+change < 0 ? "أقل" :
+"مساوية";
+
+const report = [
+
+"اكتمل الفحص الوصفي بنجاح.",
+
+`تم تحليل ${rows.length} سجلاً صالحاً.`,
+
+`قيمة الإغلاق في آخر سجل ${direction} من أول سجل بمقدار ${fmt(Math.abs(change))}${pct===null?"":" ("+fmt(Math.abs(pct))+"%)"}.`,
+
+`متوسط الإغلاق ${fmt(mean)}، والوسيط ${fmt(median(closes))}.`,
+
+`تراوحت قيم الإغلاق بين ${fmt(Math.min(...closes))} و${fmt(Math.max(...closes))}.`,
+
+`الانحراف المعياري ${fmt(Math.sqrt(variance))}، ومتوسط مدى الشمعة ${fmt(ranges.reduce((a,b)=>a+b,0)/ranges.length)}.`,
+
+"",
+
+"هذه أوصاف حسابية للبيانات المرفوعة فقط؛ لا تستنتج منها حركة مستقبلية أو قراراً مالياً."
+
+].join("\n");
+
+document.getElementById("report").textContent = report;
+
+const quality = [
+
+"الأعمدة الموجودة: " + headers.join(", "),
+
+"صفوف غير مكتملة أو ذات وقت/قيم غير صالحة: " + incomplete,
+
+"صفوف ذات ترتيب OHLC غير منطقي: " + invalid,
+
+"طوابع زمنية مكررة: " + duplicates,
+
+"ترتيب الوقت: " +
+(reversed ? "توجد صفوف خارج الترتيب الزمني" : "مرتب أو غير متراجع"),
+
+"حالة الفحص: " +
+((incomplete+invalid)===0
+? "لم تُكتشف صفوف مرفوضة"
+: "توجد صفوف مستبعدة من الحساب")
+
+].join("\n");
+
+document.getElementById("quality").textContent = quality;
+
+statusEl.textContent =
+"Analysis completed successfully — تمت قراءة الملف وإكمال الفحص.";
+
+} catch(e) {
+
+statusEl.textContent =
+"تعذر إكمال الفحص: " + e.message;
+
+}
+
+});
 
 </script>
- <script>
-function runAIAnalysis() {
-    const output = document.getElementById("ai-report");
 
-    if (!output) {
-        alert("لم يتم العثور على مكان عرض التقرير");
-        return;
-    }
-
-    const rsi = Number(document.getElementById("rsi-value")?.textContent);
-    const macd = Number(document.getElementById("macd-value")?.textContent);
-    const atr = Number(document.getElementById("atr-value")?.textContent);
-
-    if (![rsi, macd, atr].every(Number.isFinite)) {
-        output.textContent =
-          "تعذر التحليل. تأكد من تحميل البيانات وحساب المؤشرات أولاً.";
-        return;
-    }
-
-    let report = [];
-
-    report.push("AI GOLD INTELLIGENCE");
-    report.push("تقرير التحليل الآلي");
-    report.push("--------------------------------");
-
-    report.push("RSI: " + rsi);
-    report.push("MACD: " + macd);
-    report.push("ATR: " + atr);
-
-    report.push("--------------------------------");
-
-    if (rsi >= 70) {
-        report.push("ملاحظة RSI: القيمة مرتفعة مقارنة بالنطاق المعتاد.");
-    } else if (rsi <= 30) {
-        report.push("ملاحظة RSI: القيمة منخفضة مقارنة بالنطاق المعتاد.");
-    } else {
-        report.push("ملاحظة RSI: القيمة ضمن النطاق المتوسط.");
-    }
-
-    report.push(
-      "ملاحظة MACD: " +
-      (macd > 0 ? "القيمة موجبة." :
-       macd < 0 ? "القيمة سالبة." : "القيمة قريبة من الصفر.")
-    );
-
-    report.push("ملاحظة ATR: يقيس هذا المؤشر مدى التذبذب، وليس اتجاه الحركة.");
-
-    report.push("--------------------------------");
-    report.push("هذا تحليل تعليمي للمؤشرات، وليس توقعاً للسعر.");
-
-    output.textContent = report.join("\n");
-}
-</script>
-
-<div id="ai-report"
-     style="background:#101827;color:#00e5a8;padding:20px;
-     margin:20px 0;border-radius:12px;white-space:pre-line;">
-سيظهر التقرير التحليلي هنا.
-</div>
-
-<button onclick="runAIAnalysis()"
-style="padding:14px 22px;background:#00b894;color:white;
-border:0;border-radius:8px;font-weight:bold;">
-START AI ANALYSIS
-</button>
 </body>
 </html>
