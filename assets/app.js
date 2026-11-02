@@ -8,6 +8,84 @@ async function loadIntelligence() {
   const newsList = document.getElementById("news-list");
   const goldNewsList = document.getElementById("gold-news-list");
 
+  const baghdadFormatter = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Asia/Baghdad",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  });
+
+  function baghdadDateKey(date) {
+    const parts = baghdadFormatter.formatToParts(date);
+    const values = {};
+
+    parts.forEach(part => {
+      values[part.type] = part.value;
+    });
+
+    return `${values.year}-${values.month}-${values.day}`;
+  }
+
+  function getYesterdayKey() {
+    const parts = baghdadFormatter.formatToParts(new Date());
+    const values = {};
+
+    parts.forEach(part => {
+      values[part.type] = Number(part.value);
+    });
+
+    const yesterday = new Date(Date.UTC(
+      values.year,
+      values.month - 1,
+      values.day - 1,
+      12
+    ));
+
+    return baghdadDateKey(yesterday);
+  }
+
+  function formatBaghdadDate(value) {
+    const date = new Date(value);
+
+    if (Number.isNaN(date.getTime())) {
+      return "Date unavailable";
+    }
+
+    return new Intl.DateTimeFormat("ar-IQ", {
+      timeZone: "Asia/Baghdad",
+      dateStyle: "medium",
+      timeStyle: "short"
+    }).format(date) + " — بغداد";
+  }
+
+  function createArticle(item) {
+    const article = document.createElement("article");
+    article.className = "news-item";
+
+    const title = document.createElement("a");
+    title.textContent = item.title || "Untitled report";
+
+    if (
+      item.url &&
+      /^https?:\/\//i.test(item.url)
+    ) {
+      title.href = item.url;
+      title.target = "_blank";
+      title.rel = "noopener noreferrer";
+    }
+
+    const description = document.createElement("p");
+
+    description.textContent =
+      (item.source || "Public source") +
+      " · " +
+      formatBaghdadDate(item.published);
+
+    article.append(title, description);
+
+    return article;
+  }
+
   try {
     const response = await fetch(
       "data/latest.json?time=" + Date.now()
@@ -29,16 +107,22 @@ async function loadIntelligence() {
 
     // GENERAL INTELLIGENCE
 
-    updated.textContent =
-      "Last update: " +
-      (data.generated_at || "Not available");
+    if (updated) {
+      updated.textContent =
+        "Last update: " +
+        (data.generated_at || "Not available");
+    }
 
-    newsCount.textContent = news.length;
+    if (newsCount) {
+      newsCount.textContent = news.length;
+    }
 
-    quality.textContent =
-      data.quality?.score != null
-        ? data.quality.score + "%"
-        : "N/A";
+    if (quality) {
+      quality.textContent =
+        data.quality?.score != null
+          ? data.quality.score + "%"
+          : "N/A";
+    }
 
     const gdpData = indicators.find(
       item => item.name === "World GDP Growth"
@@ -48,111 +132,72 @@ async function loadIntelligence() {
       item => item.name === "World Inflation"
     );
 
-    gdp.textContent =
-      gdpData?.value != null
-        ? Number(gdpData.value).toFixed(2) + "%"
-        : "N/A";
+    if (gdp) {
+      gdp.textContent =
+        gdpData?.value != null
+          ? Number(gdpData.value).toFixed(2) + "%"
+          : "N/A";
+    }
 
-    inflation.textContent =
-      inflationData?.value != null
-        ? Number(inflationData.value).toFixed(2) + "%"
-        : "N/A";
+    if (inflation) {
+      inflation.textContent =
+        inflationData?.value != null
+          ? Number(inflationData.value).toFixed(2) + "%"
+          : "N/A";
+    }
 
     // GENERAL NEWS
 
-    newsList.replaceChildren();
+    if (newsList) {
+      newsList.replaceChildren();
 
-    news.slice(0, 20).forEach(item => {
-      const article = document.createElement("article");
-      article.className = "news-item";
-
-      const title = document.createElement("a");
-      title.textContent =
-        item.title || "Untitled report";
-
-      if (
-        item.url &&
-        /^https?:\/\//i.test(item.url)
-      ) {
-        title.href = item.url;
-        title.target = "_blank";
-        title.rel = "noopener noreferrer";
-      }
-
-      const description = document.createElement("p");
-
-      description.textContent =
-        (item.source || "Public source") +
-        " · " +
-        (item.published || "Date unavailable");
-
-      article.append(title, description);
-      newsList.appendChild(article);
-    });
-
-    // GOLD INTELLIGENCE
-
-    const goldKeywords = [
-      "gold",
-      "bullion",
-      "precious metal",
-      "xau",
-      "dollar",
-      "federal reserve",
-      "interest rate",
-      "inflation",
-      "treasury",
-      "central bank",
-      "monetary policy",
-      "real yield"
-    ];
-
-    const goldNews = news.filter(item => {
-      const text = (
-        (item.title || "") +
-        " " +
-        (item.description || "")
-      ).toLowerCase();
-
-      return goldKeywords.some(keyword =>
-        text.includes(keyword)
-      );
-    });
-
-    goldNewsList.replaceChildren();
-
-    if (goldNews.length === 0) {
-      goldNewsList.textContent =
-        "No gold-related news found in collected sources.";
-    } else {
-      goldNews.slice(0, 20).forEach(item => {
-        const article = document.createElement("article");
-        article.className = "news-item";
-
-        const title = document.createElement("a");
-
-        title.textContent =
-          item.title || "Untitled report";
-
-        if (
-          item.url &&
-          /^https?:\/\//i.test(item.url)
-        ) {
-          title.href = item.url;
-          title.target = "_blank";
-          title.rel = "noopener noreferrer";
-        }
-
-        const description = document.createElement("p");
-
-        description.textContent =
-          (item.source || "Public source") +
-          " · " +
-          (item.published || "Date unavailable");
-
-        article.append(title, description);
-        goldNewsList.appendChild(article);
+      news.slice(0, 20).forEach(item => {
+        newsList.appendChild(createArticle(item));
       });
+    }
+
+    // GOLD NEWS: TODAY AND YESTERDAY
+
+    if (goldNewsList) {
+      goldNewsList.replaceChildren();
+
+      const todayKey = baghdadDateKey(new Date());
+      const yesterdayKey = getYesterdayKey();
+
+      const goldNews = Array.isArray(data.gold_news)
+        ? data.gold_news
+        : [];
+
+      const recentGoldNews = goldNews
+        .map(item => ({
+          ...item,
+          parsedDate: new Date(item.published)
+        }))
+        .filter(item => {
+          if (Number.isNaN(item.parsedDate.getTime())) {
+            return false;
+          }
+
+          const dateKey = baghdadDateKey(item.parsedDate);
+
+          return (
+            dateKey === todayKey ||
+            dateKey === yesterdayKey
+          );
+        })
+        .sort((a, b) =>
+          b.parsedDate.getTime() - a.parsedDate.getTime()
+        )
+        .slice(0, 10);
+
+      if (recentGoldNews.length === 0) {
+        goldNewsList.textContent =
+          "No gold news published today or yesterday.";
+      } else {
+        recentGoldNews.forEach(item => {
+          goldNewsList.appendChild(createArticle(item));
+        });
+      }
     }
 
   } catch (error) {
@@ -173,7 +218,5 @@ async function loadIntelligence() {
     }
   }
 }
-
-// START INTELLIGENCE ENGINE
 
 loadIntelligence();
