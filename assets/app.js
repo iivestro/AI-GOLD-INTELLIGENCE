@@ -14,36 +14,40 @@ async function loadIntelligence() {
     }
 
     const data = await response.json();
+    const news = Array.isArray(data.news) ? data.news : [];
+    const indicators = Array.isArray(data.indicators)
+      ? data.indicators
+      : [];
 
     updated.textContent =
-      "Last update: " + (data.updated_at || "Not available");
+      "Last update: " + (data.generated_at || "Not available");
 
-    const news = data.news || [];
     newsCount.textContent = news.length;
 
     quality.textContent =
-      data.data_quality !== undefined
-        ? data.data_quality + "%"
+      data.quality?.score != null
+        ? data.quality.score + "%"
         : "N/A";
 
-    const indicators = data.indicators || {};
+    const gdpData = indicators.find(
+      item => item.name === "World GDP Growth"
+    );
+
+    const inflationData = indicators.find(
+      item => item.name === "World Inflation"
+    );
 
     gdp.textContent =
-      indicators.world_gdp_growth?.value != null
-        ? indicators.world_gdp_growth.value + "%"
+      gdpData?.value != null
+        ? Number(gdpData.value).toFixed(2) + "%"
         : "N/A";
 
     inflation.textContent =
-      indicators.world_inflation?.value != null
-        ? indicators.world_inflation.value + "%"
+      inflationData?.value != null
+        ? Number(inflationData.value).toFixed(2) + "%"
         : "N/A";
 
     newsList.replaceChildren();
-
-    if (news.length === 0) {
-      newsList.textContent = "No news available yet.";
-      return;
-    }
 
     news.slice(0, 20).forEach(item => {
       const article = document.createElement("article");
@@ -52,8 +56,8 @@ async function loadIntelligence() {
       const title = document.createElement("a");
       title.textContent = item.title || "Untitled report";
 
-      if (item.link && /^https?:\/\//i.test(item.link)) {
-        title.href = item.link;
+      if (item.url && /^https?:\/\//i.test(item.url)) {
+        title.href = item.url;
         title.target = "_blank";
         title.rel = "noopener noreferrer";
       }
@@ -66,10 +70,14 @@ async function loadIntelligence() {
       newsList.appendChild(article);
     });
 
+    if (news.length === 0) {
+      newsList.textContent = "No news available yet.";
+    }
+
   } catch (error) {
     updated.textContent = "Data loading error.";
     newsList.textContent =
-      "Could not read the intelligence data. Check latest.json.";
+      "Could not read intelligence data. Check latest.json.";
     console.error(error);
   }
 }
