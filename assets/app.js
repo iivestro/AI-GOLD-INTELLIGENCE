@@ -2,18 +2,24 @@
 const DATA_URL = "data/latest.json";
 const TIME_ZONE = "Asia/Baghdad";
 
-const GOLD_CATEGORIES = {
+const CATEGORY_NAMES = {
   direct_gold: "GOLD PRICE",
   supply_demand: "SUPPLY & DEMAND",
   macro_factors: "MACROECONOMICS",
   other: "OTHER GOLD NEWS"
 };
 
-const GOLD_TERMS =
-  /\b(gold|bullion|xau|precious metals?|gold price|gold market|gold futures|gold etf)\b/i;
+const PATTERNS = {
+  crime: /\b(murder|hanging|arrested|police|crime|criminal|stolen|theft|robbery)\b/i,
 
-const EXCLUDED_TERMS =
-  /\b(murder|hanging|arrested|police|crime|criminal|stolen|theft|robbery)\b/i;
+  price: /\b(gold price|gold prices|spot gold|xau\/?usd|xau|bullion price|gold futures|gold forecast|gold outlook|gold rises|gold falls|gold drops|gold gains)\b/i,
+
+  supply: /\b(gold demand|gold supply|central bank gold|gold reserves|gold etf|gold inflows|gold outflows|gold mining|gold production|gold purchases|gold buying|gold sales|jewellery demand|jewelry demand)\b/i,
+
+  macro: /\b(inflation|interest rates|federal reserve|fed policy|us dollar|usd|bond yields|treasury yields|monetary policy|economic growth|recession|geopolitical risk|central bank policy)\b/i,
+
+  gold: /\b(gold|bullion|xau|precious metals?)\b/i
+};
 
 function normalizeTitle(value) {
   return String(value || "")
@@ -23,41 +29,36 @@ function normalizeTitle(value) {
     .trim();
 }
 
-function getDateKey(value) {
-  if (!value) return "";
+function getPublished(item) {
+  return item.published || item.pubDate || item.date || item.published_at || "";
+}
 
+function parseDate(value) {
+  if (!value) return null;
   const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "";
+  return Number.isNaN(date.getTime()) ? null : date;
+}
 
-  return new Intl.DateTimeFormat("en-CA", {
+function isRecent(value) {
+  const date = parseDate(value);
+  if (!date) return false;
+
+  const key = dateKey => new Intl.DateTimeFormat("en-CA", {
     timeZone: TIME_ZONE,
     year: "numeric",
     month: "2-digit",
     day: "2-digit"
-  }).format(date);
-}
+  }).format(dateKey);
 
-function isRecent(value) {
-  const dateKey = getDateKey(value);
-  if (!dateKey) return false;
+  const today = key(new Date());
+  const yesterday = key(new Date(Date.now() - 86400000));
 
-  const now = new Date();
-  const today = getDateKey(now);
-
-  const yesterdayDate = new Date(
-    now.getTime() - 24 * 60 * 60 * 1000
-  );
-
-  const yesterday = getDateKey(yesterdayDate);
-
-  return dateKey === today || dateKey === yesterday;
+  return key(date) === today || key(date) === yesterday;
 }
 
 function formatDate(value) {
-  if (!value) return "Date unavailable";
-
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "Date unavailable";
+  const date = parseDate(value);
+  if (!date) return "Date unavailable";
 
   return new Intl.DateTimeFormat("ar-IQ", {
     timeZone: TIME_ZONE,
@@ -66,33 +67,83 @@ function formatDate(value) {
   }).format(date) + " — بغداد";
 }
 
-function createElement(tag, className, text) {
+function getSource(item) {
+  return item.source || item.publisher || item.author || "Unknown source";
+}
+
+function getDescription(item) {
+  return `${item.title || ""} ${item.description || ""} ${item.summary || ""}`;
+}
+
+function classifyGold(item) {
+  const text = getDescription(item).toLowerCase();
+
+  // Use collector classification when valid.
+  if (CATEGORY_NAMES[item.category]) {
+    return item.category;
+  }
+
+  if (PATTERNS.crime.test(text)) return null;
+
+  if (!PATTERNS.gold.test(text)) return null;
+
+  // Give specific supply/demand topics priority.
+  if (PATTERNS.supply.test(text)) return "supply_demand";
+
+  // Macro factors must have both gold context and macro context.
+  if (PATTERNS.macro.test(text)) return "macro_factors";
+
+  if (PATTERNS.price.test(text)) return "direct_gold";
+
+  return "other";
+}
+
+function uniqueItems(items) {
+  const map = new Map();
+
+  for (const item of items || []) {
+    const title = normalizeTitle(item.title);
+    if (!title || map.has(title)) continue;
+    map.set(title, item);
+  }
+
+  return [...map.values()];
+}
+
+function prepareGold(items) {
+  const results = [];
+
+  for (const item of uniqueItems(items)) {
+    const category = classifyGold(item);
+    if (!category) continue;
+
+    if (!isRecent(getPublished(item))) continue;
+
+    results.push({ ...item, category });
+  }
+
+  return results.sort((a, b) => {
+    return (parseDate(getPublished(b))?.getTime() || 0) -
+           (parseDate(getPublished(a))?.getTime() || 0);
+  });
+}
+
+function make(tag, className, value) {
   const element = document.createElement(tag);
-
   if (className) element.className = className;
-  if (text !== undefined) element.textContent = text;
-
+  if (value !== undefined) element.textContent = value;
   return element;
 }
 
-function renderNewsItem(item) {
-  const article = createElement("article", "news-item");
+function renderItem(item) {
+  const article = make("article", "news-item");
+  article.append(make("h3", "news-title", item.title || "Untitled"));
 
-  const title = createElement(
-    "h3",
-    "news-title",
-    item.title || "Untitled news"
-  );
-
-  const source = createElement(
+  article.append(make(
     "p",
     "news-meta",
-    `${item.source || item.publisher || "Unknown source"} · ${
-      formatDate(item.published || item.pubDate || item.date)
-    }`
-  );
-
-  article.append(title, source);
+    `${getSource(item)} · ${formatDate(getPublished(item))}`
+  ));
 
   const url = item.url || item.link;
 
@@ -100,281 +151,203 @@ function renderNewsItem(item) {
     try {
       const parsed = new URL(url);
 
-      if (parsed.protocol === "https:" || parsed.protocol === "http:") {
-        const link = createElement("a", "news-link", "Read original source");
+      if (["https:", "http:"].includes(parsed.protocol)) {
+        const link = make("a", "news-link", "Read original source");
         link.href = parsed.href;
         link.target = "_blank";
         link.rel = "noopener noreferrer";
         article.append(link);
       }
-    } catch (_) {
-      // Ignore invalid links.
-    }
+    } catch (_) {}
   }
 
   return article;
 }
 
-function renderEmpty(container, message) {
-  container.replaceChildren(
-    createElement("p", "empty-message", message)
-  );
-}
-
-function prepareGoldNews(items) {
-  const unique = new Map();
-
-  for (const item of items || []) {
-    const title = normalizeTitle(item.title);
-
-    if (!title) continue;
-
-    // Remove obvious non-economic crime stories.
-    const searchable = `${item.title || ""} ${item.description || ""}`;
-
-    if (EXCLUDED_TERMS.test(searchable)) continue;
-
-    // Keep only articles with gold-related context.
-    if (!GOLD_TERMS.test(searchable)) continue;
-
-    // Keep today's and yesterday's articles.
-    const published =
-      item.published || item.pubDate || item.date;
-
-    if (!isRecent(published)) continue;
-
-    if (!unique.has(title)) {
-      unique.set(title, item);
-    }
-  }
-
-  return [...unique.values()].sort((a, b) => {
-    const dateA = new Date(
-      a.published || a.pubDate || a.date || 0
-    ).getTime();
-
-    const dateB = new Date(
-      b.published || b.pubDate || b.date || 0
-    ).getTime();
-
-    return dateB - dateA;
-  });
-}
-
-function classifyGoldNews(item) {
-  // Prefer the category assigned by the collector.
-  const existing = item.category;
-
-  if (existing && GOLD_CATEGORIES[existing]) {
-    return existing;
-  }
-
-  const text = `${item.title || ""} ${item.description || ""}`
-    .toLowerCase();
-
-  if (
-    /\b(etf|futures|bullion|spot gold|gold price|xau|gold prices|gold forecast)\b/i.test(text)
-  ) {
-    return "direct_gold";
-  }
-
-  if (
-    /\b(demand|supply|reserves|central bank|mining|production|jewellery|jewelry)\b/i.test(text)
-  ) {
-    return "supply_demand";
-  }
-
-  if (
-    /\b(inflation|interest rates|federal reserve|dollar|usd|monetary policy|bond yields|treasury)\b/i.test(text)
-  ) {
-    return "macro_factors";
-  }
-
-  return "other";
-}
-
-function renderGoldNews(container, items) {
+function renderGold(container, items) {
   container.replaceChildren();
 
   if (!items.length) {
-    renderEmpty(
-      container,
-      "No qualifying gold news from today or yesterday."
-    );
+    container.append(make("p", "empty-message", "No recent gold news available."));
     return;
   }
 
-  const grouped = {
-    direct_gold: [],
-    supply_demand: [],
-    macro_factors: [],
-    other: []
-  };
+  for (const [category, label] of Object.entries(CATEGORY_NAMES)) {
+    const group = items.filter(item => item.category === category);
+    if (!group.length) continue;
 
-  for (const item of items) {
-    const category = classifyGoldNews(item);
-    grouped[category].push(item);
-  }
-
-  for (const [category, label] of Object.entries(GOLD_CATEGORIES)) {
-    const groupItems = grouped[category];
-
-    if (!groupItems.length) continue;
-
-    const section = createElement("section", "gold-category");
-    const heading = createElement(
+    const section = make("section", "gold-category");
+    section.append(make(
       "h3",
       "gold-category-title",
-      `${label} (${groupItems.length})`
-    );
+      `${label} (${group.length})`
+    ));
 
-    section.append(heading);
-
-    for (const item of groupItems) {
-      section.append(renderNewsItem(item));
+    for (const item of group) {
+      section.append(renderItem(item));
     }
 
     container.append(section);
   }
 }
 
-function renderGlobalNews(container, items, goldItems) {
+function renderGlobal(container, items, goldItems) {
   const goldTitles = new Set(
     goldItems.map(item => normalizeTitle(item.title))
   );
 
-  const unique = new Map();
-
-  for (const item of items || []) {
+  const globalItems = uniqueItems(items).filter(item => {
     const title = normalizeTitle(item.title);
+    if (goldTitles.has(title)) return false;
 
-    if (!title) continue;
-
-    // Remove duplicates already shown in Gold Intelligence.
-    if (goldTitles.has(title)) continue;
-
-    // Remove other gold-related stories from the global list.
-    const searchable = `${item.title || ""} ${item.description || ""}`;
-
-    if (GOLD_TERMS.test(searchable)) continue;
-
-    if (!unique.has(title)) {
-      unique.set(title, item);
-    }
-  }
-
-  const results = [...unique.values()].sort((a, b) => {
-    const dateA = new Date(
-      a.published || a.pubDate || a.date || 0
-    ).getTime();
-
-    const dateB = new Date(
-      b.published || b.pubDate || b.date || 0
-    ).getTime();
-
-    return dateB - dateA;
+    // Exclude gold-related stories from general economic news.
+    return !PATTERNS.gold.test(getDescription(item));
   });
 
   container.replaceChildren();
 
-  if (!results.length) {
-    renderEmpty(container, "No separate global economic news available.");
+  if (!globalItems.length) {
+    container.append(make("p", "empty-message", "No separate global economic news."));
     return;
   }
 
-  for (const item of results) {
-    container.append(renderNewsItem(item));
+  for (const item of globalItems) {
+    container.append(renderItem(item));
   }
+}
+
+// Find indicators across common JSON layouts.
+function findIndicator(data, possibleNames) {
+  const containers = [
+    data.indicators,
+    data.economic_indicators,
+    data.world_indicators,
+    data.metrics,
+    data
+  ];
+
+  for (const container of containers) {
+    if (!container || typeof container !== "object") continue;
+
+    for (const name of possibleNames) {
+      const value = container[name];
+
+      if (value !== undefined && value !== null) {
+        if (typeof value === "object") {
+          const result = value.value ?? value.latest ?? value.current;
+          if (result !== undefined && result !== null) return result;
+        } else {
+          return value;
+        }
+      }
+    }
+  }
+
+  return null;
+}
+
+function displayIndicator(value) {
+  if (value === null || value === undefined || value === "") return "—";
+
+  const number = Number(value);
+  return Number.isFinite(number) ? `${number.toFixed(2)}%` : String(value);
+}
+
+function updateDashboard(data) {
+  const updated =
+    data.generated_at ||
+    data.updated_at ||
+    data.last_update ||
+    data.timestamp;
+
+  const quality =
+    typeof data.quality === "object"
+      ? data.quality.score
+      : data.quality;
+
+  const gdp = findIndicator(data, [
+    "world_gdp_growth",
+    "gdp_growth",
+    "NY.GDP.MKTP.KD.ZG",
+    "GDP"
+  ]);
+
+  const inflation = findIndicator(data, [
+    "world_inflation",
+    "inflation",
+    "FP.CPI.TOTL.ZG",
+    "CPI"
+  ]);
+
+  const newsCount =
+    data.news_count ??
+    data.total_news ??
+    (Array.isArray(data.news) ? data.news.length : "—");
+
+  setText("updated", updated || "Unknown");
+  setText("news", newsCount);
+  setText("quality", quality === undefined ? "—" : `${quality}%`);
+  setText("gdp", displayIndicator(gdp));
+  setText("inflation", displayIndicator(inflation));
 }
 
 function setText(id, value) {
   const element = document.getElementById(id);
-  if (element) element.textContent = value ?? "—";
+  if (element) element.textContent = String(value);
 }
 
 async function loadIntelligence() {
+  const goldContainer = document.getElementById("gold-news-list");
+  const globalContainer = document.getElementById("news-list");
+
   try {
     const response = await fetch(
-      `${DATA_URL}?time=${Date.now()}`,
+      `${DATA_URL}?v=${Date.now()}`,
       { cache: "no-store" }
     );
 
     if (!response.ok) {
-      throw new Error(`Data request failed: ${response.status}`);
+      throw new Error(`HTTP ${response.status}`);
     }
 
     const data = await response.json();
 
-    setText(
-      "updated",
-      data.generated_at || data.updated_at || data.last_update || "Unknown"
-    );
+    updateDashboard(data);
 
-    setText("news", data.news_count ?? (data.news || []).length);
-    setText("quality", `${data.quality?.score ?? data.quality ?? "—"}%`);
-
-    setText(
-      "gdp",
-      data.indicators?.world_gdp_growth?.value !== undefined
-        ? `${data.indicators.world_gdp_growth.value}%`
-        : data.indicators?.gdp_growth ?? "—"
-    );
-
-    setText(
-      "inflation",
-      data.indicators?.world_inflation?.value !== undefined
-        ? `${data.indicators.world_inflation.value}%`
-        : data.indicators?.inflation ?? "—"
-    );
-
-    const goldItems = prepareGoldNews(data.gold_news || []);
-
-    const goldContainer = document.getElementById("gold-news-list");
-    const globalContainer = document.getElementById("news-list");
+    const goldItems = prepareGold(data.gold_news || []);
 
     if (goldContainer) {
-      renderGoldNews(goldContainer, goldItems.slice(0, 30));
+      renderGold(goldContainer, goldItems);
     }
 
     if (globalContainer) {
-      renderGlobalNews(
-        globalContainer,
-        data.news || [],
-        goldItems
-      );
+      renderGlobal(globalContainer, data.news || [], goldItems);
     }
 
-    console.info("AI GOLD INTELLIGENCE loaded", {
-      totalNews: (data.news || []).length,
-      goldNews: goldItems.length,
-      goldCategories: {
-        direct_gold: goldItems.filter(
-          item => classifyGoldNews(item) === "direct_gold"
-        ).length,
-        supply_demand: goldItems.filter(
-          item => classifyGoldNews(item) === "supply_demand"
-        ).length,
-        macro_factors: goldItems.filter(
-          item => classifyGoldNews(item) === "macro_factors"
-        ).length,
-        other: goldItems.filter(
-          item => classifyGoldNews(item) === "other"
-        ).length
+    console.info("AI GOLD INTELLIGENCE V8", {
+      totalNews: data.news?.length || 0,
+      recentGoldNews: goldItems.length,
+      categories: {
+        direct_gold: goldItems.filter(x => x.category === "direct_gold").length,
+        supply_demand: goldItems.filter(x => x.category === "supply_demand").length,
+        macro_factors: goldItems.filter(x => x.category === "macro_factors").length,
+        other: goldItems.filter(x => x.category === "other").length
       }
     });
 
   } catch (error) {
-    console.error("Intelligence loading error:", error);
-
-    const goldContainer = document.getElementById("gold-news-list");
-    const globalContainer = document.getElementById("news-list");
+    console.error("Dashboard error:", error);
 
     if (goldContainer) {
-      renderEmpty(goldContainer, "Unable to load gold intelligence.");
+      goldContainer.replaceChildren(
+        make("p", "error-message", "Unable to load gold intelligence.")
+      );
     }
 
     if (globalContainer) {
-      renderEmpty(globalContainer, "Unable to load global news.");
+      globalContainer.replaceChildren(
+        make("p", "error-message", "Unable to load global news.")
+      );
     }
   }
 }
