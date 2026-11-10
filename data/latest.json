@@ -1,6 +1,6 @@
 {
   "schema_version": "7.0",
-  "generated_at": "2026-11-10T01:07:24.700903+00:00",
+  "generated_at": "2026-11-10T14:14:35.602970+00:00",
   "timezone": "UTC",
   "data_status": "periodic_public_data_not_live",
   "quality": {
@@ -9,6 +9,265 @@
     "score": 75
   },
   "news": [
+    {
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "source": "European Central Bank",
+      "published": "Tue, 10 Nov 2026 15:00:00 +0100",
+      "description": "",
+      "category": "general"
+    },
+    {
+      "title": "Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3g1aTM5eFUwZ3VtSjdpTjV0R1hnM0lMazRGMlF3MGlQTXlFUVc1Z2t1NTFzeTlSMFY1YXlnV1BfamlLb2IyeTdNaElmZDFpd25xdW1EbXhERzlRZ20wbjdPZUZtMEhEUU1YMmZmWURZNjdwNjNYMTdLV3ZiaW5QeXFsVWlSeVBLZFpFdjlxdEM1WkpsMTdLQ3dsU2dIUTdXZU9NbEZEdVRGQWY1YmZ3TV9FUW5TWjRTdW11WkkwV0hWVl95b3RFanQxb0RmdVI1Sno5N0h3cG9qSm5BbG8zeFVEQmFhbklCV0FqYlZRRkx6Zkd0cWhoZXRR0gH_AUFVX3lxTE9HMHlOY2V1eEpxWFJUX0NlVlY0TFh5b1FBbEhaNENJbUo0aTFsN2IwRWZ0Q25FeUNETlRsYTh0M3N4ckVwQk10WU5JY0pZUmdkbFlGYmU4elIwalJuT0RkN3dweGNBQUREMG1XWk5Wakx2czdjT3JJbTBpVDVJVnJMbVJPblhTN0gtTUVHbHhaMDNqVDVIc3Z2NDFrQXBBd1duS3hIRVFrRmVac2lZRjZseW5VY2xhMjdUNHduMWxYbHpoTFZzSHpka3p1TWJrZmlOMUpZbUFfTXdlZEtoM0NhbUl4OHZpdTdtdTNtWDFCSkg3N2VXcUE3TEU4ZTA5TQ?oc=5",
+      "source": "The Economic Times",
+      "published": "Tue, 10 Nov 2026 13:45:56 GMT",
+      "description": "Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook The Economic Times",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "CEO.CA's Inside the Boardroom: West Vault Mining Plans to Fully Leverage Gold Price Leverage - TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3luMmZBQjJvYWRtOUNseXh4cUtlV1Y1VXJ2V1daZ3VjZFB4T1BNbERZQk5LSEh6Y2RBMmFzSXBGd1FVQmdxdHZGWlZjR19BeENSNC1nbmZ3SXU3eVhkWExGMzZxWmNHUWZVOTVtbVJRd0tDemZFSFE3TDRUMFdrRjB1a1BmNHJqbmhlcWRFcWJsM3Y1Qm1OUXJLVE81eVJia2ttNTlsWnBDdGdtZ0d0VzVFMC04bGs4T2t0XzNySWJiOHFqRVJPNG1ncHFBNHc?oc=5",
+      "source": "TMX Newsfile",
+      "published": "Tue, 10 Nov 2026 13:30:00 GMT",
+      "description": "CEO.CA's Inside the Boardroom: West Vault Mining Plans to Fully Leverage Gold Price Leverage TMX Newsfile",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Price Today: Gold Falls 1.56% on November 10, 2026 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVpRYTFITEJ1ak1lN1FFUS1LeUh0eVZjTE1Gb3B5dHFubWk4UndhM2t3bkUzc2swLUc0dHlMalk1YUczNnRhOGI5NEp6RW92cXhOeTYwOThTc2ZmdnpiMUJwTHZ6X1AySUd5REtrUU9MTk9RZHYtaTZRRWpUYlVWYTZNS1JnQmtLYUFWWHQwaFdIZ2NPbUdYSV9za21yclVfOThNdXRPQ3NOeHM?oc=5",
+      "source": "USA Today",
+      "published": "Tue, 10 Nov 2026 13:25:18 GMT",
+      "description": "Gold Price Today: Gold Falls 1.56% on November 10, 2026 USA Today",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold price today, Tuesday, November 10, 2026: Gold opens above $4,100 for the first time in three weeks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTUs2ekJ6eldWUXZyUHlFNndxRGphaG4wSDY4UzdOUHhjbE1sQ1NEelZkdlFTbUsxV0xUZHhTUXRkYXpaRzBUNm55WFdoMGd4V1VaZHN1UFZwa2h4SmhybXVFaVZMRjVELVBaLWs2ZEpVYjhjVnIzcTY5VzBBWWhRUEFteGR5cXBvRl9pMzdFSmVNdFRPSnlFMDE2Q2NJRTlhU3ZCZzhhQjYzbzZGV2F3ZjBoRVRFLTBMN1I3WkZpSnVrVnM2LU9EdExhSlh4ZzVLYkFhOU1pUXpGT0loUTlSQWo1Ny13Ti04YUdkbW1BWXdGVjNQMW1EZ0piQmRWTUFzUmgw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 10 Nov 2026 12:17:34 GMT",
+      "description": "Gold price today, Tuesday, November 10, 2026: Gold opens above $4,100 for the first time in three weeks Yahoo Finance",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Aris Mining reports 28% increase in Segovia gold reserves By Investing.com - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzFMclNqaHFueFpUVFY1SnpJNXRfdmN2ZVVTTXprVXBkNnFZcHowWnEwRmFyTnUyYnIzTXVKdW9wOThBamFhUXo3amRrWWN0VVo1Y1lGVURoeWVXME1ZR1ZjNTFsLURldW9EcDhWSDFlS0p5aWFSUkVKT0lrZHdzQXZid0hnVWFFcmp0cnFuYmxJTkUwbGdOOExxbHJNempuRVU4Y3Nuc0IyYnNlNlhwUnBfem1taE4y?oc=5",
+      "source": "Investing.com Canada",
+      "published": "Tue, 10 Nov 2026 12:11:21 GMT",
+      "description": "Aris Mining reports 28% increase in Segovia gold reserves By Investing.com Investing.com Canada",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzRIZFVEODRmUkIxYnFHT3hoNXJYUk9hM212c1RrSWIzTmJua3RIY2FoWUZrd0pNalFKajVWbTY4N0x5STdVTjB6c1k1alNET2FCeHNxLWRoX2xhbWIxZWZCTEFjWl9fRVFBc2t1TjFhaVJSU1g2RnBmV0xjaDhrMnhwYUl3LXRlUDlSTnFpeXMxUHB1YVh5RUVxcWdVQU9Say1jWE1xS0RkS3ZkWHczUDlVSDBQb29kZXA4V0o3SEw?oc=5",
+      "source": "巴士的報",
+      "published": "Tue, 10 Nov 2026 12:07:33 GMT",
+      "description": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces 巴士的報",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces - The Joplin Globe",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTV95NHJRYU41RWVIcFdBb09TNlduZUxiTC1xaDJVVnJ3eVpiZUN3U0MwMHBuSFNzUG9iZjczbDV4ai12TklVejZUU0xvZUVPZFBmZlBYMEdyc21CNWdKR09IbzJJeWRNdE5yOVVnaThva3lwc0c0Rk5Rck52RlhFZHBwXzFGYXVEaERla0ZYNWtFMnZjYTgzQWNFZ3FMNkxPWXRkWjZGTUNtSnpmLVd1WE1IR2lGTlBWVUZDdFlpSzN2OTVzREs2QjdGOEdISzkyWXoteUNvVXFHYlNjcEtnT1VRWE1BX28wNlFyYTdaaVF6c0Q2S3dLZzZ5djJtTVNMTi1uZA?oc=5",
+      "source": "The Joplin Globe",
+      "published": "Tue, 10 Nov 2026 12:04:17 GMT",
+      "description": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces The Joplin Globe",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining raises Segovia gold reserves 28% to 1.9 million oz - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWItTVFiREVLb2FGUW5DUFQxMWd1U2x5dnBxclhkX1pid0R1b3dNdDFqWWJobWVJWTZNbXFRbTVOcmptaTB6d0NrMUVzSjREWVhpSGhZUlc5MlBJR0sxVldxcEFYSzI1N2pXV2o4NEJTdHR3MWFyNXQ2Zm01S0VSbkMycFMwVnRlV2hhQUlDRWItN3lPbk9YTDZ6d0FFX210a1J4TURUQ3dqcVhPbnNabklIdk5nQUFtMEFfSW0xYjU?oc=5",
+      "source": "StreetInsider",
+      "published": "Tue, 10 Nov 2026 12:03:10 GMT",
+      "description": "Aris Mining raises Segovia gold reserves 28% to 1.9 million oz StreetInsider",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+      "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+      "source": "Bank of England",
+      "published": "Tue, 10 Nov 2026 12:00:00 Z",
+      "description": "Exchange of letters between the Governor and the Chancellor",
+      "category": "general"
+    },
+    {
+      "title": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHRoa3Z5d3F4MzhmSXZnSnR0c09XMzZjT2xFSTh1a0FlaEhiWkc4eDIxSjFHN2hYeFc4eHAyc25pcS02UnpyaXQ1YllWTEhfbmltNzU0MzE4bEp5WV9mOUw3LUtaem9zSHdXakFOUlJkZ25fV0ZIcGp2eE5YcHZPYkoxdEd2b3o4UlNyNUg2ZGFtWjhYNDV1OEhRTkRreUFuWElMY2tuZUVjNVp2RGhreTdlczFNRjVZdGt1ZXFoMzhVTjRjYnRSSmRzNnY?oc=5",
+      "source": "Morningstar",
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "description": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces Morningstar",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Indonesia's Antam Gold Price Rises Rp15,000; Buyback Jumps Rp25,000 per Gram - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QYXBBdWVKU2VmWnVFbmxGT1pVVnFWVGxuek5LQ1dBQ2lxSDJzeklZWENNa3dveDd0bGlVYWlpa2hFa2ZRX2FCbHZRQnZ4akVFaVJrSG9iSjNTNmoxLUp6R0U4c2RMQzJwZnJQMkJnUWppZTNLdGc?oc=5",
+      "source": "BigGo Finance",
+      "published": "Tue, 10 Nov 2026 11:55:00 GMT",
+      "description": "Indonesia's Antam Gold Price Rises Rp15,000; Buyback Jumps Rp25,000 per Gram BigGo Finance",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Silver Prices 10 November: Spot Gold Down 0.61% Before CPI - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEtPSUp0RWN2OVBheF8xSHVaM2FoUEVNOGFiWlNheFQ4UnNXV0Fua2xZNVN1U1Q2bnZFNXFZU2k3N0VzVE9DVUtuWlIxU2NsdVlkUHljUk9YZEQ3UFllMXJyejZWSnBwZXhWNTFmMVBScmpxb2kxamdpaEVsRHhNQkhwX3RxUkNxVlRSV1JsSE11OUc2SnU1U1dkOGllQ0tXRnVRZQ?oc=5",
+      "source": "JournalArta",
+      "published": "Tue, 10 Nov 2026 11:00:08 GMT",
+      "description": "Gold Silver Prices 10 November: Spot Gold Down 0.61% Before CPI JournalArta",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Futures Ease as Inflation Data and Federal Reserve Expectations Take Focus - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUExUQkluTnI5a0NralhaWkpaeXNFYlozakJ4RVhWSkRyN2xPbTNqU3Y4NTY3N1pYX2stbU9PR0ZUVkVaNTJmMTRRMnByMGU5SFl0YjN4TVAwNFhRNzlBS0w2dnNBQUUwQlN3Vl9nczhtVzUyTG9FQ3RQQ3I4YmxTUkVmc2k2N0tVRF9wX2ZsaDdhVVh3b094NzNyMHg2QVByczB1Y09NMHduM1lNZEM3M1NlNjlUYTVYVm5n?oc=5",
+      "source": "Kalkine",
+      "published": "Tue, 10 Nov 2026 10:14:00 GMT",
+      "description": "Gold Futures Ease as Inflation Data and Federal Reserve Expectations Take Focus Kalkine",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Beyond the Gold Price: Risk Management and Growth Opportunities in Australia's Bullion Market - Finance Magnates",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWExBOGlkb0dPZ0JCSEpqeTlMaTNaVlpxaWZiSXFzaHRWWE1ZY2JBQWtPcVpqSmU5X1RpWEFQSXExUmV2MkE3UVV0Z1A5QkxxY1RrVXJfM05ScEwyakVCTnFzY0REWmdVaE1pVUx5TW5XeHNlNDVzaFFYYzNJQ3F5SmkxbTJLRklMOFhmU09TWEZjeTl3bV9QcGJKSFN6Z25iZkhteXJzNk81Q0dRQThtb0pTOG5mcFRPbUZnSjlXNWVqLXY5c2ZIUGMwZ01lUVNQMndRMFFUU0pjVnc?oc=5",
+      "source": "Finance Magnates",
+      "published": "Tue, 10 Nov 2026 10:06:38 GMT",
+      "description": "Beyond the Gold Price: Risk Management and Growth Opportunities in Australia's Bullion Market Finance Magnates",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Miners Remain Resilient Despite Tighter Margins in Q2’26 | Post by Oliver Blagden | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY25PM3BDajlDNTljSnZXbDlFcWZkMm1CMHFXSU5iQk96OGR5SkV3NUxJQmF0VEloa1ZfWXEySlBSSWNJVDVMYXMyVzBmN3laTU5maXJnczBsUk8xX0pCMFRxQTJCcnVXSGVGZ2hZdC12SWstclc2X1dFTUZQWno1THVDSlhkWmtNVWY1SWdjSVMzOXdyU3cwcmJ6bG9ZNHlCNW5tRE5tZWU?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 10 Nov 2026 09:25:37 GMT",
+      "description": "Gold Miners Remain Resilient Despite Tighter Margins in Q2’26 | Post by Oliver Blagden | Insights World Gold Council",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Gold Price Forecast: Can Gold Clear $4,150 After the Nasdaq Rally? - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFhZMHRuSU9yREUxSldBTnlBNXRnUzE5eXdkZURmd0ktSV85T3p2T0p6R19qTEJXRVp0NDFEaUMzM2ZLM0lsbFZCbVIwVGlVYnpMUXdfQmljQkJkLTZJWjRFNzBLRUNnMmVmMkNDSWhmTF9NNl9MTDhEdVhyYXpCWHBFRk82ZkpCYnVvdDI2b3oybGs0VHhGQzdhZnYtaU1aSVJtTEVoTERMNXR6eWRCNkk5UQ?oc=5",
+      "source": "FXEmpire",
+      "published": "Tue, 10 Nov 2026 08:28:44 GMT",
+      "description": "Gold Price Forecast: Can Gold Clear $4,150 After the Nasdaq Rally? FXEmpire",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Nasdaq, Dow Jones rollercoaster – Four reasons for the rebound, XAU/USD in ascending triangle [Video] - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTE5WUGhTQ1d3UF8xYkdZRnNDV1FUeGpnMjhxSl8zeHJHZnl1TFlCN3U1bUhqeDktdjFhVHBzM2hVSG45dGdnVmlDd1hFbWUzUXpYenNPdnZKQ3Z0Y2xCd0pTaEhvOWhCRjlhdjJqcjIxdHZKM19lQ1hITGhLd1NldFJ3UEF4a3czSS1tWjYycVNqbFpEalNLVGVlcWJnRGNyN3F1SXRna0FWLXEzVEwtcF9PcnIxYlNCMm9qaFA5V081bGppcFRxR3dReDlCMUtTNnVWcS1ybWp1QQ?oc=5",
+      "source": "FXStreet",
+      "published": "Tue, 10 Nov 2026 08:03:20 GMT",
+      "description": "Nasdaq, Dow Jones rollercoaster – Four reasons for the rebound, XAU/USD in ascending triangle [Video] FXStreet",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "XAU/USD price outlook: Gold faces rejection at 0.786 Arc – Awaiting directional confirmation - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmwzaGxhdC1Gb1V0WFZlX1Zsc0FWV2hma2RkMEVkdWZSQWZpMzFLbGtrRkhQeGpOUTBGMk5VUExId3hnRXh0SEtIZmdYUkg0N1F5Z1FsT1c2Mk00dHBjNXk0cTRoQlJBMkpWLTBiZXJQa1FTNzFjNjhjSDdOeUxpSFhiVjF5TGJkazVPeVhLbnVJWWlHYUh1bXhCUHRPNzcwVDNNOWJrbU9WaHQ0bXFGYnFRNzBIbDJ1V2xnRVVNbGR1aE0xckpTY2lPQVZGNVQ1?oc=5",
+      "source": "FXStreet",
+      "published": "Tue, 10 Nov 2026 07:15:31 GMT",
+      "description": "XAU/USD price outlook: Gold faces rejection at 0.786 Arc – Awaiting directional confirmation FXStreet",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Rate Hikes vs Safe Havens: Gold’s 2027–2028 Price Outlook - deVere Group",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDd6Sm9kcmNkd3hRSVBoNzBCT2RpVkF3bFRrTUJqeF8ySnVlRTJrXzRwaGZFX3gwRnZsNzA4NUNWUWJCQVJHcnJpMkRqN1d2Z3J3dFVvUDdNUkNYWDI0UVBFb3NqWXlZMnR1SzJYV19QMzdGWHZPSU1XbmlyMlRMWTdFUnJLNzBOMHREOS02b1BSdEZEQkNOWl9XODU4MER5N2pWMDVvTExoY054MS1Z?oc=5",
+      "source": "deVere Group",
+      "published": "Tue, 10 Nov 2026 06:47:28 GMT",
+      "description": "Rate Hikes vs Safe Havens: Gold’s 2027–2028 Price Outlook deVere Group",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "Singapore opens national currency vault to foreign central banks for gold reserves - The Star",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2szaEN3bVdtbHRPNkNLS0JRV3JDdjM3NkZyS2Fud01LdUVjdWF4UkktNUxTREZqLWtoOGc0ZjVmQVY1ZGhIWkFHbDZZdW9fTHI1eXJIY1p3T29STVFMR0FTenRkb3ZBNGdIQl90dFlRQmpSNGNaQXExc2dNVjQwb2xLalEwS25xWTFiSjdBSzczUnZ5eG1pSEZVS0NIbkpySVhOYzlqYmFMUjN0QVVGcDBkQVFiTWdqZU1IcFBJa3l0LVhPYWNEZmN3ZE01QU9qRDhQWTdGaUZ1TzdBZ2c?oc=5",
+      "source": "The Star",
+      "published": "Tue, 10 Nov 2026 06:43:00 GMT",
+      "description": "Singapore opens national currency vault to foreign central banks for gold reserves The Star",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Singapore adds lustre to bullion hub with gold vault service for central banks - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMm5xeFpidGsxRHRRZzJ2ZlEwTjNoUFFqaXJ1ZlpnMWE5cHNINW5KdlpBY2pUUWxBYjJ5NmN1bnc5MUhhUXpWdi16a1dhOXpIR3RabUhrSV9xWGtUQkxJUjg2Sjh3Z25TbVV4c3pHT0RKT1hPX2kxbkkzWjk1ejNnRlV1TC1Bdk5pYzlDVkl3d1U0WUVidzRRVjAwSGIxVlRpTVlqbWdXcnBjN3hYZnZfdXFFZkU2Tk1pbzNVeG56ODhTaTBHSm530gHHAUFVX3lxTFAtRGltV1RtR0swVkdCYzBiRzFsM3JETXZXem94RkVBZTZNVEtvNExHeE54OGJ3V25qcnlXeWVaUlBxVDZKNVFJTDBnbnhKODBMSnJDOEVLWUt0RkszSXcxZjh2Y0lrWWUwNlRsc1FtZjVWU1ZVYmFqMEhDZGVHSlF0VmgzVld1R2kzMUtDbFJjUVFneFVBb3lHQzFSWXFwQzZLeWZSdjdGemE4UXF0N1Y3SUp1WWp0UGMyVXVsbklScmtId1F0WWc?oc=5",
+      "source": "South China Morning Post",
+      "published": "Tue, 10 Nov 2026 06:16:42 GMT",
+      "description": "Singapore adds lustre to bullion hub with gold vault service for central banks South China Morning Post",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "More central banks expected to shift gold reserves out of the US - TheBanker.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92MTRxWTUzdm04VlEzcDVBZmU1R25fT3pibG5GODFOOExRYUo5UlFaTjJXZHJxc1lqSWNGbE9iUVhOQ29uLU1fSHUzUU5ENVZTb0E4ZjREam8xTndHMUNwcmRzLXpvZFAtVVZxVTNIWXVXSmJxd1NVM0pB?oc=5",
+      "source": "TheBanker.com",
+      "published": "Tue, 10 Nov 2026 06:13:08 GMT",
+      "description": "More central banks expected to shift gold reserves out of the US TheBanker.com",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Singapore to launch gold vaulting service for foreign central banks, ease taxes to boost bullion trad - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcFdCWUNmRWdkX3B6SFNrTV9nWlYxYmFkbmc2NTNOS3N6ZHlKdDdQY2JUUVlWbElKZWJNYmVRaktudFE2RkF1LXZLVmEzQVJuM2pybHVqLWJtUFNjRzI1S0c1cTFfNDZYMENTNVpJNWdfZVZVOXN2eGxCNnc2TXdndmNzZldoX3J6cUh2aE9XMlh4dW9QZ2loMUdwSXNUOVVwU1lSZjE2RG02RmdMbHU1eVVSQ1M2OHhkNmtabjhJWlhod085aHZ3R0o4b0hYeHRvaVpjQkxNc1N6RXROWHd6Qjg3QW9sc25ZNklBZUo0c3RKd3IzY3pzQ1RLNjNOOE9ZTm1rU1VqdDPSAY4CQVVfeXFMTWhKVUN0dGhYUDladzhncVFqQ2w1TlRSSnJiRXRnb0FxV0o0T01MVXhZclk2S3NnempESUp4Xzh6MzU5QkFHLVluZ1RjOUhkZGlCb1VreDI2ZTIzRkQtMmNqNGFDdlQyNTFORTFLdmVnRl9UbVdQWERoTFYxdVI5XzVfU2lDNDY3X1hXbV9FSFdVdXRPcXZLMExNZVQzOUVJc3RYMXV6blRmdzAtSHczZ2RfMnZlNDRJWU1YVWZjU25BWEtyM3QzVnZ2V1VlLXVWQUtyZGZCVDJZWkVVdHhubnpxc3hpTmRobkpqNUw0Q3RZRWwxOFB1ZG9XRVZlRlFHcGtMLUFpLVZkdk5YNHdn?oc=5",
+      "source": "The Economic Times",
+      "published": "Tue, 10 Nov 2026 06:01:39 GMT",
+      "description": "Singapore to launch gold vaulting service for foreign central banks, ease taxes to boost bullion trad The Economic Times",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "India Gold price today: FXStreet data point to lower prices - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmZGS0N1ZmdiNUJ6ZFNvdldBOG16Z052aFF0MFd1dzR0RV84NXZkd2hJUHozcVJtLUR5V0tBTzdiY0RHLWphVHhIVVNXTjJaMzl3OTJuNlVyUEd1MFBVT1c0ejRfTXBGY2dyVkFjT3c3RjBOSk84S0J0aFZOT0pRWHBxX0JpaWFsS0N5RUNINEpfeWg0N3dOcWdrUmpEekJxNkNSa2xYeGJEa0NjaV84dUFZZVdKN19wQmtYOGtYMF80QXV5LVE?oc=5",
+      "source": "www.tmgm.com",
+      "published": "Tue, 10 Nov 2026 05:18:36 GMT",
+      "description": "India Gold price today: FXStreet data point to lower prices www.tmgm.com",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Singapore Opens 500-Metric-Ton National Vault to Custody Gold Reserves for Foreign Central Banks - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yZ21BOWlMNDBUNWZSeGl2cThPQnBYcFZMUTJQMkNQSnByMktkamd1VDRpeTVxV2YtNk5tUkpwSDljWGlOeXdNWjJjWXVQeDR2bHhYdGxIQVpNNi00RWlnU0xaNVc2NmMyNzB2ZTc4d1RnQlFSNkE?oc=5",
+      "source": "BigGo Finance",
+      "published": "Tue, 10 Nov 2026 04:35:00 GMT",
+      "description": "Singapore Opens 500-Metric-Ton National Vault to Custody Gold Reserves for Foreign Central Banks BigGo Finance",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Gold Price Forecast: US Inflation Expected to Slow, October CPI May Support Gold Breaking Above $4,200 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUdLdzlwUDlOQWlSQjN4VXdzNUtPWjdrLURkdkRIajhiYkltWUZJc0hDNk1zSms2RXVaczctckVGVzhYcmRHcGxkS2ZOWFZyTEd3aHpsV0ZhTGxSTGdNdjlENDN6QjdMT2pna0pWSVQxc2xmd2p6ZGtQbzdEeHhQcWxxTmNlVzRhemRULVBrMWJMMWdRZmx5QlNPX2t2WU9va3pEcnFlYzB2OXlLTExtSVBkd3JSYUJvdTFvZWVBZUlhTzgxVFl0Y2p5ajdOUQ?oc=5",
+      "source": "TradingKey",
+      "published": "Tue, 10 Nov 2026 03:54:55 GMT",
+      "description": "Gold Price Forecast: US Inflation Expected to Slow, October CPI May Support Gold Breaking Above $4,200 TradingKey",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Spot gold biased to retrace toward $4,033 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEJfdWxvc0lKNFNrZXpiVElidVFEelp3Q0tSclhydDhrLXJtcGZiYjE1bXkyWkJGeUNvTURHYW5KZ1l4LS1ocVFOalJxY2JuaDZELWdyc0hUMVJJZVR1akRza0RiZnQyWlcySnRWaURfWVJkb0hITWVvRE55VGlMSzhWVWVzOUhyUHdkVGptVDVDUUFQbFdpWjZQdXlyVmlzcVlIOWVNMmZpUUF2TzJn?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 10 Nov 2026 03:50:00 GMT",
+      "description": "Spot gold biased to retrace toward $4,033 TradingView",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Precious Metals StoneX Bullion weekly round-up 110926; Congressional gridlock; oil, yields, dollar down - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2l4emNNUFp0Q2JSRmVfN1lyOHBUTlVJd1hubG5hTjZKR2JMWDEtdzd2SnlYem9LNktGZ05FVjhIQlVOdVZ3NGZycjZxUDdmRkJIZkJjNE1sdDdESHhLdkxWNHpweHdsRHFoNFlPTWQ3dllteUc1M241Qy16MFUtREc4V1VNTDUtbWo1b3VzMlBFcVZmMWdXZTZ0Q2dKeXRtMER1S1E5MHROem5SR0tDbms1VG9aVWEtZW5ZQngyZVlXUmF3OGRpRGRVZkVsQWVVaUhuNGpTVFFIbFRhU0N1TVl4dTRDZUJD?oc=5",
+      "source": "StoneX",
+      "published": "Tue, 10 Nov 2026 02:37:14 GMT",
+      "description": "Precious Metals StoneX Bullion weekly round-up 110926; Congressional gridlock; oil, yields, dollar down StoneX",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
     {
       "title": "Shafaq News..Iraq holds third spot in Arab Gold reserves - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwdUtfNDJNUVMwOU1rNGFiT01yNWVvTG9EcUQwMW9CREdDYUxaaGZlTC1zT2wyTV9xYlhzZnM2NVE2RTFNZWg2NnM1MC1Fd3hlM052TnZyOXprTFpfMDNlU1pxT0ViMGpTM1NLNURUaEhiM012Y3M0X1BNNi05Zw?oc=5",
@@ -25,15 +284,6 @@
       "published": "Mon, 9 Nov 2026 21:00:00 GMT",
       "description": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "category": "general"
-    },
-    {
-      "title": "Gold price rebounds as oil and dollar retreat - Mining.com.au",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUkFOWVo0Tmk1aVRNNlVHTW5iQW9OblZ6d2J6aGpWVW9ya2l2MXpFWFNvQ1BIRFJ4Qjlhd0ZScU10bTAtb0ZiWGtzbTJKZ2xzT1Q4N3FQR3VLcUlEMEZaeWRWeDZnaVA3TFl6RWhvdG1fMVVmR2lB?oc=5",
-      "source": "Mining.com.au",
-      "published": "Mon, 09 Nov 2026 20:48:45 GMT",
-      "description": "Gold price rebounds as oil and dollar retreat Mining.com.au",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold Forecast: XAU/USD Holds Firm Ahead of U.S. CPI Data - FOREX.com",
@@ -54,24 +304,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Jewellery stocks outshine Nifty as festive gold demand fuels optimism - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYVZtZThiWUNhd1BvYUdUekNUcUlGM3VNZjc4UGJnTUwyS1lKY2JRemhSMmU1cHR0b3RWZ2I1blFwck5Vci00QnAxajFQcTRxc3JVU080U3FPV09YZ1Jfd0dtMWVGQnF0c1dwUzEzNjBSUklMNi15MlRSVENidWFMOWJhTUo5Nl9lYzBJLS0xM1RTclRxU2dPbDVfUjlQOGpxd0I1TEFoQmpxSUVZOEJZZ1dlM0VQYUtjQWRYUE92X0Z3aWJraWNNenNEcFRwZGVqMkHSAdcBQVVfeXFMUGR6VmQ4V0NiMmFSOTI0V3I1V2xFV2lYckdxN2NpUFNMb3Nnak5SZXIycW1xYmxEbzhreU5kTW9rMjB0VV9lVGlwVWJiOUJubWFQOVBuY2w0bkdOYmVNS0pTV2RCT3JBZVY1ZkNjcjY4NGFBU0FmVEgtLWNGR2FWQ1k0OFQ0MFlvRHVNRk0tNmNMWjNaRjE2RGg5QjRSMmxNMi1vR1gtME44S1B4ZzJacXVoOWRTbnhuX19qcUxHMVpFallPRXlGd3pxdDNGU3ozdnF2WDlLbk0?oc=5",
-      "source": "Business Standard",
-      "published": "Mon, 09 Nov 2026 18:02:56 GMT",
-      "description": "Jewellery stocks outshine Nifty as festive gold demand fuels optimism Business Standard",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaWhBU3pzNEJxVGFGRHFvLXFqeWVZU3BIbURsdGhLQ3kzWmZSaGlMS2xaOGxvVTlweVktS21uUE9lbTdOZldWU3VNTGtkWC1XRGQ5dzNyd3ZpUnlXQUtsVjlLMXZ1S05BcnV0eEZyYUFRblNTU2JOS1JNb0trRHhHaThYV2pxX3U1VVRqXy1KUDhQQzlNd25zMkUtcWlkdGY5V0NvMDVCbDJSUzA4ZG1XTVlpbkJDSGpLWVFQdFNueUJoWm9MNy1fajJQOVRUdWtVdDMzc2JoRFBmSkNkQlgtQVdyc2xWRndLanJtaA?oc=5",
-      "source": "StoneX",
-      "published": "Mon, 09 Nov 2026 18:00:23 GMT",
-      "description": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting StoneX",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Egypt Gold Market Moves to Curb Stolen Goods Trade - Global Arab Network",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkk0TFpTa29PcDI3NUY0X3JUbUxqOTZfeUt1dGh5VlJYTkNCTDl4ckpCQXlhaW0tSXhCU1JwWGdNVnNCSEs4bndUaGhrTjdZcXQtN1ZpZzhJNTJYNXNrTl96YVdScWo0SU1OTnFVYjlMR2tibFhBMWtteDhYTjJvZms5aFJDRUVIdFhRZzRKTTMzRlNYenpJVGJRRnpFY0xlb1E?oc=5",
       "source": "Global Arab Network",
@@ -81,20 +313,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Price Today on November 09, 2026 - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3FUeVlPXzNkalUxT0psazBGZ3FVRUNfTFc1b1Z4d0dyZDRjZjhsM2pKUkpmR2dZRldmZTJRR2IydkhrWGFyT3JUNVFiSVpsTzRERWwwOGZQLThmUHYxTzNGSUt1YXlYeWZVa2wzR2xXeEZUemN2ZmZjc19hajRMZW5Oc1hnczZlRndTR29ONERXaF90RjQ2eEI1aUE3alVqQk9BYXBGc2c0X0E?oc=5",
-      "source": "USA Today",
-      "published": "Mon, 09 Nov 2026 17:14:00 GMT",
-      "description": "Gold Price Today on November 09, 2026 USA Today",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Solomon Global Offers Exclusive Signed Una and the Lion 2027 Gold Bullion Coins - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcTFMWm51dGhtWERPUlBxUlJOeFZSYkMzbVZsMWxhUlptbW5DY0NXcGxFWTQzRHFIdW90QjRKMkN0TVROcDdPcmc0X2M3YjBnWGVrTlp2eFFMbUkwbWVtOGxfM2tCMHcxeDBLZkpDTEJQb015MGRxakJEUUR3UE1kSklYVVBjZVZqOTNDNnQ0X3AyanRhNTMxYWszUHRTa0R3OG1QMGR3bTNKeEFJcUxsa2dnckVCVXBzM21KRUhwdVZzWDktOUR4M293NGNxQmJMbktaQkVOa3YtNlJRNldrbXdDSkRaVllu0gHuAUFVX3lxTE04bGc5MkNhZm83c0tHTC00UlNjLVE5UDB3RWtBUFJpUEt3TkFNNDJHelV0OGkydG1CUnpIQWZjcWFqdXYwZG1uQlNNc1hjNnEyb1lzZFFuejh0NmZ1OU41QzctNmV0S3VjS0tvR3puME1wMl9xQkhSNXZURHpOZ3FmRC0xNWRaYTd1QUx5Y2ZQcHZ3RGlsbWtKdThDX0xKemktaWw0NFRSNzFSaXdLenJpVEd3SE8wZzRMbzduY1NaMmREMm5vMnllVFpFUWc3VjBnMl9uZ3Y3MF9TN3NkMDFRNjhQbmZQTmNBZXF2c1E?oc=5",
-      "source": "The Manila Times",
-      "published": "Mon, 09 Nov 2026 15:40:47 GMT",
-      "description": "Solomon Global Offers Exclusive Signed Una and the Lion 2027 Gold Bullion Coins The Manila Times",
+      "title": "$4,100 area: Gold price forecast as XAU/USD maintains gains while risk appetite weighs on USD - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRXdPSjVrdjZxTnRjaVBOVUcyS0s5MVFaN1lPdzNoMVJFcUNCRTlEZEE4TjhXSGtWQmRCUkI4WFNCWkNuMVZGcU56cGlERWhoTjh6djdyT0JuZUs0SGRjUEJMa0pmaXhQdjR5RF9QempDWG5RZGg5dzB0WGhHRXF0ZDcyV1JFd2wtcTlZeWZuZUNmQjVIdHMtUGFrMmdXTDRRdUhpcFJ5X2JlblRhX3FySHVhVFpUMGJ6Y2NsVjNWTXBOdDg1UElQR1lUVzhBQ0RvU1p5MFlrTC11elNxczFRSw?oc=5",
+      "source": "www.tmgm.com",
+      "published": "Mon, 09 Nov 2026 17:10:30 GMT",
+      "description": "$4,100 area: Gold price forecast as XAU/USD maintains gains while risk appetite weighs on USD www.tmgm.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -135,33 +358,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Why is Bitcoin down but Gold rallying? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2JLS2t0RVdkSGlDdnBZbFRDd3ZiM0VPZTV4VV9qdzE2TWxaUmhFd3VOMWRPX0ZpSjg3THBoVW9QNlA1RXFfUWVidXBYczlzcTdoQ256cmZxV2RBZG56YlZNRlVlM0RGcExxMVNoYTVhTVVrRi15NVZicHA0dVF2T0RhT1BpS010N0pWRDZmZ1BvQUtzR1FST2pHUTVmNTVSY3BvWTBmaFBiaG92NWFjZVRZT0QwV25Lc1l0RjYxNzVVcGlseDZYVjJ6YjQ2ZHh6dHk3V3d2WEMzRTJzNzFrLU1tM1hDc0paT2c?oc=5",
-      "source": "FXStreet",
-      "published": "Mon, 09 Nov 2026 13:41:21 GMT",
-      "description": "Why is Bitcoin down but Gold rallying? FXStreet",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Decline in gold price pushes jewellery sales on Dhanteras - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGtoY2Q0am41OGRrel90czQtVXdmNDYxZGlXajJFeERiQm1CWXpZejNZeWhnTHFyTGk2RnBzUnktOWpNVDg2MEduUGhnVllMZkRabnh2dS1pMms1dnRSaUFRMUo5UUE0WXpjMG9neUI5OUt4bXNXXzlCUWo3a01sYXpTM3E1dElMdExVSV9RZ3BsQ2FnODRkOUZSSi1BcnVpWFN3a3Zoa1l4Q3pNMW1MSnFXeU4yR2tJR24xMDdlRm53RFI4aWJCd3pxaVc1Uzk4SFJwdXhaNjVpbTDSAeABQVVfeXFMUHY3MjBFTGMzZ1FlOTdZeGllOERsVUZPQkVpamg2Vl9Wc21jR05KRmFrbmEtM3FfN0VMa2hZS25iTGdvdW5lc29mUnBxMFBxR2RVOWZuUEN3TndMcm9Wd01FZWNGR053ZU5JVHd1Y1cyRUozY0I5d0NYdkxYT2ZqLU5aOVhZbEMyVGpPYkJodEhGakdtUWUxODBYakRHRnoyUkdsU0FBaEtyeVZTVDh5QVNSYzFsSVU2cXdHMmFsMXA1c0NDQ29VVGNvWjFpZkhFLVlSbE0zX1JRc3ZfYlNnNkM?oc=5",
-      "source": "The Times of India",
-      "published": "Mon, 09 Nov 2026 13:08:00 GMT",
-      "description": "Decline in gold price pushes jewellery sales on Dhanteras The Times of India",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold Price Forecast: Easing Energy Pressures Meet Persistent Fed Tightening Risk - FXLeaders",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFVMNmstWDBuX3U3X05yMTFmVE1XY0Z6RVNYaXBNc0pmQWpXZDB2YmdKVGZaWDR3Ry05YzJoYmRiRzZya1FTbW1BZDRjYl9nNVRUOEVTTks3cElnaC12QmZRWHYwdThCYXdHZmM2SXIzSjFoRnJYZk92a0w0am52VGItamlnZDh0MldaaC1KLWtQdXViNlM3RHJ4TjM4Uk9lOXNlZ1lSa1daR1RFdWNoMWhPbDhnMnFSX3hqbjlyaw?oc=5",
-      "source": "FXLeaders",
-      "published": "Mon, 09 Nov 2026 12:45:57 GMT",
-      "description": "Gold Price Forecast: Easing Energy Pressures Meet Persistent Fed Tightening Risk FXLeaders",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "India Gold price today: FXStreet data shows Gold prices rising - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlJlNE04bkxLZGVweXRuQWYtMTNibmRsUS1raVJTcGN3UGtGVkZkMjlEbU5pNGZudDRxeWRTNzZ4WkFzLURXNDdpMnVxUlFYbDVpNHlpd1JhT0xBeTBkbGI2T1p1S25iNTBxbG1Ha3NUWkNnQnNUUmlHMkhtcTlieXg2ajd4U3JqNjRIeDV3R0ZJeUJVNkFfN1pjZ0tuMGFQdGNiVXh6QUJFVG1VejF3Y0VpRGx3S3daOG1DR1FqN3dFYURpRTlzOQ?oc=5",
       "source": "www.tmgm.com",
@@ -178,15 +374,6 @@
       "description": "Gold Price Forecast: Risk appetite weighs on USD as XAU/USD maintains gains near $4,100 www.tmgm.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Forget the ETF Outflows: Gold Miners Offer 3X Leverage As Cash Flow Surges - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTRsZWdtQWtoQmUybW0tdHIxZHZOUzQ0MnlEVGZDUWRQRE5oMWhTS3NvWDhyVVBxMklsRGZRQ2hxQkw1NTM2ekJ5Wm04ODUyZWFtemhkZklJMTEtT3czNnNVa19qUGV2ZUtpa1lqb3JUcFFGY1g2dGpLR2YtbHp0OFY3ajFKenlRRmZFLVRhT3hXTmNCY1pacFVqVkpEaEtFUDlWcUZwWmlKZnY5MGctam53VGxvdGpkenl0ZEtlMkxpNUtldTNRUm4yZGU?oc=5",
-      "source": "TradingView",
-      "published": "Mon, 09 Nov 2026 12:00:26 GMT",
-      "description": "Forget the ETF Outflows: Gold Miners Offer 3X Leverage As Cash Flow Surges TradingView",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
     },
     {
       "title": "Gold Price Prediction For Next 10 Days: Three Dates That Will Decide The Direction - NDTV Profit",
@@ -225,24 +412,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold prices are rising in the global market, Spot Gold Hits $4,129 per Ounce - https://www.businesstimes-bd.com/",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KYk5aTjlWRnFZSVdmemhmSUp6Qkk2UUQ3ZGFxQUx6c0VzU2hqcGZ4Ti1IdWlCOUlqZDdtY1hxT1VkX2FMMm90bVJ2MFRMblpLNWs3aDhxTEI2TDg?oc=5",
-      "source": "https://www.businesstimes-bd.com/",
-      "published": "Mon, 09 Nov 2026 06:49:57 GMT",
-      "description": "Gold prices are rising in the global market, Spot Gold Hits $4,129 per Ounce https://www.businesstimes-bd.com/",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold, silver extend gains as softer oil prices ease inflation concerns - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc053cHNiTTd6N0VYamdSTHZFYmJBa0QzcTJEV1NBa2l0MkVJTDVVYnZnWlNFNnFWbF9kbGVsdkdHeXlFR2NRX3haNFpkUzBLcjBwdExIZXc1Q3p0bXJ0cU9aYWpzeXJnUW9FOHJKeDJWSlc5Y2RxQ3NkcjVCZl9HU2pGNndwRHpRaS1kRzUwcjdmaUZuUXE3SEJCYzBhUE9fN0dJc1U3aU14Zk84ejVlczJRTXpVN1ZJd0EzN2hJbF9OSFczVFlYbmpwajZmd3BNazMzVmVwRllCUG_SAeABQVVfeXFMUGwxaVZMbU41MWs5clNoUlVoNnZWU0FEeFF6UFYzS3c3NzBzZkpjd195a25jTnZuaC05YVhXaHVzV0dJWUFtN2ljR0VXeS1QQmtkbUNjS2p6eDkwcUlKdDdNRHI2YnhYRmNKa0ZDd1lOd19lVWd1eW9uOGVpdm5pREpWYXZkRnl2M0ZvM1hRcWt1YUhpWWxfYWZ3alFDYnFrMi1JbklpRjVrc1l0SEd0VjZRUHp0R0lnNnd5U0MxcmMyVE5jS1VMb3hzSXowT014cmpoSDVKanFGVTEya2NQRjU?oc=5",
-      "source": "Business Standard",
-      "published": "Mon, 09 Nov 2026 06:40:43 GMT",
-      "description": "Gold, silver extend gains as softer oil prices ease inflation concerns Business Standard",
-      "category": "macro_factors",
-      "classification": "Gold-Related Economic Factors"
-    },
-    {
       "title": "Gold Futures Rise To Rs 1.44 Lakh/10 Gm On Firm Spot Demand; Silver Futures Rise To Rs 1.88 Lakh Per Kg - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmNMWXVqNEg2S0t0Q0NhWjZaMHBCUVlxM3JpcS1hT2FXU2paak9VMDZkS0JKY25DNmo2engxck8wR1BTTkh0RGp3QWQ0QWxqVE5UMmI2LUFDR1BwYmhZY04ySGNFRnlheEdVNEZsdHlJUE0zMXdMTUxOUExaeXB0WDlnMlMtOHJYVHJVVVhreGVrTkZw0gGaAUFVX3lxTE9xdDZRMFRVX1J2MmI2eF9raTlEZ0dWS090V1V5YjJ1UndPLUZaT1R0Z1BEY041WHgxVE5uUUpfRlVqMlJNbG1XS21FNEdpd3NidUQwbE15aTNsNUcxRDVDNFp0aEptSUNrMjNqdjVSaVN1cVVRdTgwZHo0c1ZubnBaQXgtczRlcndyTFBKUWhPQllMWkRiZVdXa1E?oc=5",
       "source": "ETV Bharat",
@@ -252,11 +421,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Futures Rise to Rs 1.44 Lakh/10 gm on Strong Demand - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlh1NGswREFiczREVkJVdnJQbzNEUjBSZElxbkZkYUdFUmpFR1NGSjQwcVdKcEttT2RaNnd4eFJ4WW1uUjdiaTJQRjNYdi05Vkc2V2JxQVlCR2VkYkdKVGRkZUI3OS1wNGtmYXo2S3E4OF9jSk4ydWRtV3VwOC1URVh3LVRCNDkwVzA3SXZCWU4zeTdKYmlta0ZkZmZUNWEtOEZnd2tvTmZ6M1NR0gGyAUFVX3lxTE9lN3lXQ0ptVzhpS29nVlJyajExRWgxVk53Rkt1dG5pUU5WelJvTWxzeV9tTE4xU1ZKV2xRby14SzNYVENkak5GYS0wVGtVeHFBU0c1QnNOekM2dk8yTVFUZlhkYmVjOWx2MzB6Q2RlODhIUXVsblFuelp1NWcwZUcySGFlSDVZZnktV3lkbC1nV1pwUmxGUlUzdGZiQjdVbTMyLTg5WEhaTVFpQy1MUVJhenc?oc=5",
-      "source": "Rediff MoneyWiz",
-      "published": "Mon, 09 Nov 2026 05:56:46 GMT",
-      "description": "Gold Futures Rise to Rs 1.44 Lakh/10 gm on Strong Demand Rediff MoneyWiz",
+      "title": "Gold Futures Rise Rs 1,801 To Rs 1.44 Lakh Per 10 Grams - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmdpLW9jaDktcklvdHlIZEJPdzJ5Ny1Hd21VZlVIbmFfeXhUNGlrc1lFdTJwakF3NjJFenpiRjM5UVJTUWdkenRUcWFORlFuSHl6bkpfVHJTTjctR1FiSWhfbTZNNHA0cVRxQThpVXZNZXBCdnZ3VkRCaEoxNjlHNFR1dDFuT3ZRNXdKWGlEc2k4LXVBZl9lZ2NJdkExejBwTDBieE5FT0ljS1ZsNnNMQVln0gG3AUFVX3lxTFBRQndrV19qQ0V1T2NodmtFUHYwc1hMNjRUMXctb3MtOXBScDRqSGxoN1pEd2ZxNXZQSUdfM3pWdEdyZDRTcEhVWm1uTU5YbkY0ZGxEM2hNMmQ5NzFvLWlQSDBaRWUzNVNXVmx4aVVlSFNsRURfSm1acTFSb3IxYzNhUlIyd01sSnllN2tkRGlLTVFJR3lkQ1dRbUJRdnRrcm9TRDVxZnJZYmlNZkdxNmN1d1RLdnZPZw?oc=5",
+      "source": "Deccan Chronicle",
+      "published": "Mon, 09 Nov 2026 06:00:18 GMT",
+      "description": "Gold Futures Rise Rs 1,801 To Rs 1.44 Lakh Per 10 Grams Deccan Chronicle",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -306,15 +475,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Futures Expected To Trade Lower Next Week Amid Volatility In Global Markets - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLRjhWWjktZTdnRTJQUFBkbjVqQTZMYVFvLVBPNVJIUXZiVUExV09zUmFSNXloNHVXazlOVUFmRkdCQzlRWjdsdTdqTDNMY3hkR2hfakZxV3lNOHY1NEEtWHVaUQ?oc=5",
-      "source": "Bernama",
-      "published": "Sun, 08 Nov 2026 06:55:38 GMT",
-      "description": "Gold Futures Expected To Trade Lower Next Week Amid Volatility In Global Markets Bernama",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Central bank buying and ETF inflows support gold demand in Q3 2026 - Prop News Time",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmlIYlJRMGtZbGlLMFFEMExtN3NQeDg2MEJpeVNxQlM4bnhxSkZBWEhjN1lTeFJjTVNvdGJlekNxUnpMYl9DdlBvY2s0cy1KZVNyUjhmSG5DTU1RY3NUemR4YjhIdV84OHlCQ2dHZ3lEMnprYThRaUtxbEhqVTIycmVSaGd3VXB1MkdEV1JFQU9sZENWYXp2NW9ROEVJV2w5SVlrak9sN09VdUtlLWNudWNCbllicnpnU1E?oc=5",
       "source": "Prop News Time",
@@ -348,15 +508,6 @@
       "description": "China Boosts Gold Reserves as Prices Fall Briefs Finance",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcU1ZMFpnVFpmTFRyMnBBdWo4cFZOY25kaGFiODEyR21JYUdEeElhVjd1MFBBUlV5UGlSRHVmSGk3d1ZrYm5WenNtQzlfRlBPRmhuNEhsaWFRODBOa3lwOFNwb0VuTXFaVEluRVg3eHBYRjBMdTNOcFhqT3lfcUcxZEROTnAtMW9VMlZOVE9fNlhMN1k2cGdxM0diM0J4Y2FaX1lHdGRqQVZPaGpFck5zZW9zUWtWMTJJbERpSmVqX2g?oc=5",
-      "source": "FXEmpire",
-      "published": "Sat, 07 Nov 2026 06:26:00 GMT",
-      "description": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction FXEmpire",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments - Livemint",
@@ -420,15 +571,6 @@
       "description": "Kazakhstan Boosts Gold Reserves With Five-Ton Purchase Caspian Post",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Kitco Commentary: Why Gold Price Charts Don't Tell the Whole Physical Market Story - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1dfTFdTbktSN2lqaVpMTF90a3MtVzFJUENidDdfTTZiOERQNUJsekVaV2R5bjNPVlhuVWpVR2RDR2w1bmNBR09pNll5QlhSLVIzVHRjRDhSYnM1NzdOMEt5UGZ6cTVYRFdXUE9panFUUE1NVUpsYmp6OXpHdzNaby1MaTAxbUpRM3Zxa3JfVkhQMUsxLV90WFVlc1lRQQ?oc=5",
-      "source": "IndexBox",
-      "published": "Fri, 06 Nov 2026 15:44:04 GMT",
-      "description": "Kitco Commentary: Why Gold Price Charts Don't Tell the Whole Physical Market Story - News and Statistics IndexBox",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold Market Commentary: Where Floor Art Thou? - Seeking Alpha",
@@ -538,29 +680,11 @@
       "category": "general"
     },
     {
-      "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
-      "source": "Investing.com",
-      "published": "Fri, 06 Nov 2026 08:36:57 GMT",
-      "description": "Goldman lowers year-end gold price forecast on hawkish Fed shift Investing.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - StoneX",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjh1ZjVRc3RrcFdLOFhucHZmSERybE5lU3lqdG11SjYwd2ZPRmsxYk1MRlFhbmNtWFhSVXMzTnQ3aW0xTnFxdXFzeUZxcG5NVmxVeXh1RWdrd2VreUdRbS1Mak1vQzdwd3k1Q3FRY1BGaTdWZS02dThNakJpYUNuU0RLN080dTFCUGVhWWg0OFhmYmEyaG45WHFXakcyZTlSa2dLdHAtX2dIR3BpOTVOQ2syN1lRVkxHT2RpWDEzazM1VmJkSkJHX3JIcVY?oc=5",
       "source": "StoneX",
       "published": "Fri, 06 Nov 2026 08:00:00 GMT",
       "description": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data StoneX",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Dhanteras 2026: A 12% demand surge awaits Indian gold market even as prices hit two-week high - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNXBsQUh6bUJ6cldRMFdqeXFnSDZZaFRSdThWc2VGeEVUYnNwMzBHbTlzMHg0TV8xM2lWQk03Y2hXb216U19tbW5BaVpOQ0dQV3BqWDZnMzFHZGo0YnUxWnRYdWVtU0NxS1lKcVNMaVhZTTRKUExmcm90TTNIRVdmTW01THYxeTdRTWhyRVBVNURIOUpQYTBodklxZ0F6V3VRa2d2R3JDNjZaSnFXRFZkb3hscTRXclJOa1d3Wk1LUWZGLUpwalhIWklFWl9VRkJsOHpGeXpFeU5qVFhLdnRrV3BTT0FVbjZuU2lPSTJrdjBWTHVTM2MtMW9PbzJRa0p3aVNPODRUVVRzNTBvZkF3RWdlMWtLNVVtZXFDSW9QUzlZSFJZaVZV0gGsAkFVX3lxTE5zWjBaN2Y3YV90d0pwYjdJV0ttSWw0Y2NCUG1yVXh2SnBIc0dPU0ZBWUhFamstY2dsVFpUWkF6bXFCTlRmU1NXOVJsMUZFdXh5dXRmeERNT2JvNW1vVHd5ZGFEMzRLNkdJZXNXLWlJcjdIWVBMcHRFZFN3aGlrTkNWTFVYOWRraWloZDBFcnZIel9Fa29xeWF0MFJqSE5RZWhva0ZUdUVSbTV0UXpaMU1IYmc1Z2JtQnBqa3JOZTJ2eUdkUXExX1JBeDA4MjkyNGFreXhLT2p1aWdNNkpkeWtBb180NFpnQlhTSGFrZEFfOTFzUndQamtZR0FZWUc4VzBldFcyeDNZZ2pBMFhpUGZlY2ZMT0hxS3B6a0hPV21YZ1JTdG95a0tDNVA1TQ?oc=5",
-      "source": "The Economic Times",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "description": "Dhanteras 2026: A 12% demand surge awaits Indian gold market even as prices hit two-week high The Economic Times",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -583,15 +707,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "ZAWYA: Egypt's gold prices rally as global bullion hits two-week high - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkZaRXpQNWJVT2lmazJkRnpvdlRiQmx2M0NubF9jWlB0UEZWaUctVnRCNm5lWFNhUmlZS0llbHVlNnVCM1NybXIwX0hTT0liWkdONk9Wb0RtVTQzTjhRNnlINVhTcnhrVTNwNWk0NkZYTEdKaXVNbnJpMWc0X2RHN2w2eWhTclFCcTFfZGIxSThQTFRxRWY0eXIwWDZ0bHV2VFFfSk1tazg1bTFhQWw3M1A2bmdVRmlnaU9XY01heThnNzd1YU4xbW5TQktxZjUtUjIzb3lOd1Y4X0hX?oc=5",
-      "source": "TradingView",
-      "published": "Fri, 06 Nov 2026 06:24:00 GMT",
-      "description": "ZAWYA: Egypt's gold prices rally as global bullion hits two-week high TradingView",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "India Gold Demand Gets Festive Boost After Price Pullback - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFBoUTVNMERxc1FZRjZJYUZJVkl6UFYtLUtLNzRPZG1TcHZuemppWmxCZ2VjV2dBMEdKZ1ZqbVg1YnV2R2pzZWJ1MjJKeWZvbVZZSXB4dXBxTUpBZlNZTG53MHVCeEcxa2dfWGZ4UVowS1hCaVpodXJxSXVaMXplVHA5Z19PYXJrYmJINXkzcnRmcFozajQwak5BSzJqWDhCWTdpZDgzaVJxdUJp?oc=5",
       "source": "Bloomberg.com",
@@ -599,15 +714,6 @@
       "description": "India Gold Demand Gets Festive Boost After Price Pullback Bloomberg.com",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD corrects to near $4,060 amid caution ahead of US NFP data - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGhTWnFEQkJ2TS1VT2JlTUFoeXhhNEhlMjNockhnVHNwOFhmOTl0X1ppa1BkdjNqWnowdGgzeG9rNG1kLThiMHI4a1dXemE2M3AwYWRKR1ZLYTRuV0dfTngzVlhIRFdQbnZERW9ZWUtJSHlCeXVwNFBnbW0yYjZBWjJKZHl5VzAyNXJUSDUwMFhRa3pSd0VPTEE5ZGNKa281MlMwVENJV3RFZUNZU0s1NE80aE5NTk9lU24xdUh3NTNMRExuOWF1M280RQ?oc=5",
-      "source": "FXStreet",
-      "published": "Fri, 06 Nov 2026 03:39:10 GMT",
-      "description": "Gold Price Forecast: XAU/USD corrects to near $4,060 amid caution ahead of US NFP data FXStreet",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold demand in India may fall to a six-year low — Channel NewsAsia - UA.NEWS",
@@ -635,15 +741,6 @@
       "description": "World Gold Council: Gold nears potential floor as recovery signals build Proactive financial news",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold price surges back above $4,000 - Start of a much bigger rally? [Video] - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzJRRzB3WG5YUDFTS0NZSnlXdUdOY2oxMUFycXVnZWhUUE1ZWmt6djBISGpBMlVOTmIwU292Y3c0RGlmNjRXMmxIMHUtSG1tVkIzaXJGZmZxLXA0LXFoREVMQjBnZy16dGRheFkxSVlZdVNTMW1pMnVERm05eWVYckM1WnpBOVFWc0tJd2h0QnppRG52QXVFaFR0TXVnQUd3cmNIUFd3SF9TQ2p6S0ZuMUg2cEhCcTQ?oc=5",
-      "source": "FXStreet",
-      "published": "Thu, 05 Nov 2026 22:02:12 GMT",
-      "description": "Gold price surges back above $4,000 - Start of a much bigger rally? [Video] FXStreet",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "September central bank Gold buying hit highest monthly total of the year - FXStreet",
@@ -681,11 +778,11 @@
       "category": "general"
     },
     {
-      "title": "Gold Price Today: November 6, 2026 - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5",
-      "source": "Forbes",
-      "published": "Thu, 05 Nov 2026 13:05:00 GMT",
-      "description": "Gold Price Today: November 6, 2026 Forbes",
+      "title": "Gold Futures Rebound, Could Break US$4,100 Barrier - BusinessToday Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblBZS1gyQ2FVM2ZLVEt4OWI4LWZpanhIYmR0T1l0bG82T2s0aVJrTllMa3JmZUM3bDJyWXpyTFNJZjBTczBZX3JpaTI1b2p0YlBZQXQ4MGRMUmhRWFFFWnlZeEM0RTZNeXpRNXYwNEl0RmFjdGpQX1V1ODZsZFpOWEpDUzF2RWNHeUswSGctY3JreF92SWRz?oc=5",
+      "source": "BusinessToday Malaysia",
+      "published": "Thu, 05 Nov 2026 14:32:51 GMT",
+      "description": "Gold Futures Rebound, Could Break US$4,100 Barrier BusinessToday Malaysia",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -750,6 +847,15 @@
       "category": "general"
     },
     {
+      "title": "Gold Futures Rise To Rs 1.45 Lakh/10 Gm On Firm Spot Demand; Silver Futures Decline - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXVzajZDZEdZam1wdXd4aDhXNThwSndpYnVOTUVoLTB4TjM5V3JlQmsxQzF2TnZyZVdhc3h1VlpVZldyREkxTHhYVFFEV2NCV1Q5ZnVKM1NnNVE3V0VjS0NTZHI2OGxza3JrVnFvMGVmQUViQkFRdmZSc2NCOTlNSFR4RzFIOF82TF9scW5IZGdOdkEyUVEwX09kejZpeEpPU3pZQ0FWWGhIUkpySkVjRGRKOWNpOHViSnJjcS1oNEVwYUpEV2h4VmRoMVZpVEVGWTJOOVNvc3kwcVNrR2fSAeMBQVVfeXFMT0JrbVR1YTRzMzByckFFNG5rYjNLSFBLNTdTQzRuc2VPRTFfaU9LRWJjSkNsV1o3Z2QweXlYMFlqV3ZGckZKU2JiSkNPSnloX0lZSVNRaHk0ZEtiSEZiTWtaUWJJWHNVN01Ra2NlQ2lxRnJfeFBwZ19ub201RXdKRkphT0VkdmpyZUVSWTRBZm5CVl9qVnFISzFEWXNtM3BIUGpNaUlubUdrdkpxQTVUdzNuZWhGSUw4R0xpamdTUmdQZU8wUXlrSEl3ZnQ2QjFQZmp2VmJfZ2ppSkpNZ29UYTMycm8?oc=5",
+      "source": "ETV Bharat",
+      "published": "Thu, 05 Nov 2026 06:52:38 GMT",
+      "description": "Gold Futures Rise To Rs 1.45 Lakh/10 Gm On Firm Spot Demand; Silver Futures Decline ETV Bharat",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold futures jump 3% as Treasury yields slide and dollar retreats. - CME Group",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUxVNUsxT3hFTjlCTmVUTnp1d2pBeHY3T2psU2NnXzVfZEtuaFBQUFB1THdyMl9feFk1dWZYR3IxNlhtbGVSOEJZMnJMalNtbFZMZC0wYjdFX1BPTG9DMG5zdW5MWVNxYjRtaXhCNkxzS3k5WjZBQUZIcjllbEtjcW9MbWpHZjgwOUNvWEREcVU0LW8yS0U0VWU1UFNDQW9VYXpwUDlhLUI1QmFtRjRBTw?oc=5",
       "source": "CME Group",
@@ -764,15 +870,6 @@
       "source": "www.tokenpost.com",
       "published": "Thu, 05 Nov 2026 04:01:00 GMT",
       "description": "Spot Gold Posts 2% Intraday Gain at $4,141.23 Per Ounce www.tokenpost.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Spot gold may extend gains into $4,188-$4,285 range - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVRHaF9aRFRGMHdDRnFWNEp0NjBpRDA5MnBPdC11MllUZElRTkFWN25QQzd3b05TSGF6UWZXYUV3WXhCOXpSdHFZZEdydzFfVU84aTFfUzYyNWcyUThLRGtITXV4eHVxZlotcV9YTC1nSnZZQTBrOUl3Tm5ybkg1X1IyZXc2TFQ4TUo1em5XT1ZRRXpJWWh3RllDaFI0X3ZpUW04SV9jS1ZEY3IwdWQwb3p1MEtyQjRtV3E4?oc=5",
-      "source": "TradingView",
-      "published": "Thu, 05 Nov 2026 03:08:00 GMT",
-      "description": "Spot gold may extend gains into $4,188-$4,285 range TradingView",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -812,15 +909,6 @@
       "category": "general"
     },
     {
-      "title": "DC Edit | Gold Demand To Hit Multi-Year Low - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3FQT2M1d0NsSnhOak5HcS1WczhVcHU3eXNhc0ZvYmZic0dTcGFYMXlXT0MxdXBOVGR2NTNROU5Tb2tsQUE1VHVfV0RNWnd3WmF2VXdKejBnUF9wd25vZFczVE9WdV9HdG9CTmw1NVJ5S1YwMUZrVlduWVEwdXZ0N1ZrSXhGel8wVDJPd1UyRHc3dTE5Mmt1QW5NZ19pOHEzTFHSAacBQVVfeXFMT1oyV1VSZGJxbkJYem82bVZDazRUb3hBcnpFa0Mzb3oyWkgwRWp0a25aNzBWWUc0d3JvOEtJM0ZVLXFybXc2UnlLeGtHSW94S0V1dURTaFo3UEIyX2VyaUdtRTA3OFJIUlBDdHRUUnFHb3laTGQ1SkVmd21icVNBbEw3bmJVbi03R05YX2RMZmNqTnJmSkNqS21CeF9XTWd3N1M4WV9YYUk?oc=5",
-      "source": "Deccan Chronicle",
-      "published": "Wed, 04 Nov 2026 14:46:13 GMT",
-      "description": "DC Edit | Gold Demand To Hit Multi-Year Low Deccan Chronicle",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
       "title": "Global Central Banks Are Buying Gold. Russia Is Selling More Than Anyone to Cover Its Budget Deficit - UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnpFWXBQLWQtSGk1VlZMdnhyNktWdXhrM0dTVXFZQzBEWldJR3RhVHNhRTRVeWR0b19nRUdMXzk0V2IyTGRscFY5dWd6bFNQM3Y3aWpDV1Z1Z1BibV81ZkJKX0JnUnRxSVN6QnJ5YVN0MHozU1ItcGYtRG5ieUtmLVctVkJwci1IV25YZEZTRjNMckZmQnFBTG81OENib2RDRENTTTA3YTVvNEFuaXA0NnQxMG9ZMmJ0MHRDamRZV0pET2ZqOTNxaU5DeExVZUZPTUJR?oc=5",
       "source": "UNITED24 Media",
@@ -828,6 +916,15 @@
       "description": "Global Central Banks Are Buying Gold. Russia Is Selling More Than Anyone to Cover Its Budget Deficit UNITED24 Media",
       "category": "macro_factors",
       "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "Central-bank buying and gold ETF inflows support demand in third quarter - thenational.co.za",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1ZFbmhiaGdCSXQwTnJITUdGUUtjSzVEUjFQZlRUdnZYT253UzUyeGc2a3ZxeXJRUTFhcWRPVi13OUNudnFVQnlEUjNmVkJlT3lqQy1reURnWEViQ2h2Z2RrbEFMQTFZbnhFT2FiMWN2dzdlQndHZEpZdVV6N3duS2NUOVl2U1hBOG5SWXBLRElPb2RseFFaLWRRaURveGh4OTZrQVdkdXRDMk4wb3NFcEc3azBPdw?oc=5",
+      "source": "thenational.co.za",
+      "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+      "description": "Central-bank buying and gold ETF inflows support demand in third quarter thenational.co.za",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
     },
     {
       "title": "Spot Gold Surges Past $4,000 Amid U.S. Midterm Election Impact; GOLD Stock Dividend Profile in Focus - GuruFocus",
@@ -928,15 +1025,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold Market Primer: Market size and structure - World Gold Council",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUc5VjlWZ19IbEFRR09VV0hXUTRsdDRReGtuc0I2c1JlMFpPSkY4ZEF1QUpuckVGTWE0NUFFZWwydDd3TU9HWFF5ZFdxSzAtWDdvSEVRMHYzc0t4OVp4Zlh1LVNHeVdkSUdEb1ZVb3dWcnJsRjNoenBmcUVVdFBLYl94TFVSd0g5eXFIakh0RG8wVk1BQm9aVkFfSWQ?oc=5",
-      "source": "World Gold Council",
-      "published": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "description": "Gold Market Primer: Market size and structure World Gold Council",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Demand Trends: Q3 2026 - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1dpTkVIeDJNeExyczdrWG5IVjFYZUtTdmNoNWdvVkIzcnVJT0V4RDZfOFc4YXc4bGs1N0hSWUNOTENBTmdFRVM1WWYxX0h5d2NrX3pEUkxBN0NKNmNLYmVrdjc0Wl93V2NCTG1jeGN2SWM1eWYyU0szUXBQYkQtdzNYZEhhMmI3MjBn?oc=5",
       "source": "World Gold Council",
@@ -944,6 +1032,15 @@
       "description": "Gold Demand Trends: Q3 2026 World Gold Council",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Gold Market Primer: Market size and structure - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUc5VjlWZ19IbEFRR09VV0hXUTRsdDRReGtuc0I2c1JlMFpPSkY4ZEF1QUpuckVGTWE0NUFFZWwydDd3TU9HWFF5ZFdxSzAtWDdvSEVRMHYzc0t4OVp4Zlh1LVNHeVdkSUdEb1ZVb3dWcnJsRjNoenBmcUVVdFBLYl94TFVSd0g5eXFIakh0RG8wVk1BQm9aVkFfSWQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "description": "Gold Market Primer: Market size and structure World Gold Council",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold Demand Trends: India Focus Q3 2026 - World Gold Council",
@@ -982,30 +1079,12 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "SLV Crashes To Near 52-Week Lows, GLD Falls Pre-Market – World Gold Council Cuts 2026 Gold Investment Forecast By Half - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVldfSWVRN3o5T0NJdHp1cHhvWEZlcWxWZTVhNkozUWx4NmV2VjBJdUVhTmtGR2tJcWRzLTRLQ2w5QWxyVmpnRlVKYmpyUlc1NHNhQ3d1ZXpadEdBdV9EVTFhTGoxWEc2TXhNbmVQSUUtVExsQWo0T0pQYkU5eEhnSmF0R2JkUFpLVXVUQnVFcXNkU0x4YzA3bF9R?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 03 Nov 2026 11:41:50 GMT",
-      "description": "SLV Crashes To Near 52-Week Lows, GLD Falls Pre-Market – World Gold Council Cuts 2026 Gold Investment Forecast By Half Yahoo Finance",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
       "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
       "source": "Bank of England",
       "published": "Tue, 03 Nov 2026 10:00:00 Z",
       "description": "Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.",
       "category": "general"
-    },
-    {
-      "title": "Global gold demand virtually matches historic high in January-September: Report - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVAwdWtwSnpLRTVXbk1LVmZMNFpIOHFudm9Nck40R2QxQVIzb3RKeFIxUENuUUNoNjJHQXNXYWZYTlhfUy01aTZENk11Sjl5WXZYd1BwMW5zNUlzZ2szSlpGeERZdU9MMjdMU0h0YmlDWjhaRnl2ZzBPU2pkMVdzN3JBWnZoUk5FTkdDYVRwX0FsRWNWLUIyWEpXRWxHNElWek1WYnVJbFcwekRkbFNSUkMzLUpXWTBXcV9Z?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "Tue, 03 Nov 2026 07:46:51 GMT",
-      "description": "Global gold demand virtually matches historic high in January-September: Report Anadolu Ajansı",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
     },
     {
       "title": "Gold Futures: Market Correction, Cycle Analysis and Potential Reversal Zones - Investing.com",
@@ -1032,15 +1111,6 @@
       "published": "Mon, 02 Nov 2026 10:30:00 +0100",
       "description": "",
       "category": "general"
-    },
-    {
-      "title": "Gold Futures: A Major Correction or the Final Washout Before Reversal - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2NIZjFFaVVjYWE4V0tWNkVUNldVQWNTM3lHY1N0TERDMHdYekFUOEh1SHpCYkJyQlMtc1dWOGw1b0VDc0FrLUZXSEwzWllFY09aQVliRmJ3anZRYVdZOFp6S0tZbDJKd1lDSnJDRVBJSnJjYWV3WHJpdjhaQjVxdGJ5Q243bkx4S0g3Nk4tQkttSWZaR3JIcGg0Vk9NV1pFdm41ZzVYcUdjMWxIRlRaaWJwMA?oc=5",
-      "source": "Investing.com",
-      "published": "Mon, 02 Nov 2026 07:19:14 GMT",
-      "description": "Gold Futures: A Major Correction or the Final Washout Before Reversal Investing.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Philip R. Lane: AI adoption in Europe",
@@ -1152,14 +1222,6 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
       "source": "European Central Bank",
       "published": "Tue, 27 Oct 2026 01:00:00 +0100",
-      "description": "",
-      "category": "general"
-    },
-    {
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "source": "European Central Bank",
-      "published": "Mon, 26 Oct 2026 10:00:00 +0100",
       "description": "",
       "category": "general"
     },
@@ -1344,6 +1406,15 @@
       "category": "general"
     },
     {
+      "title": "Intercontinental Exchange launches trading in gold futures in London - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFVJMXhkdnc1S1gwc2IxcHRVbUJWRDRVVWxQeGxMZEhEMjVNTFpsaDltd1pUR2ZMVENlZko5MDB3dVYzc3NRYVc2VmhaeHFIWFFsZmJYWUtUcjViell0RW5FNWZoTWtHLW1ST194b2gyR1g1NkJDXzJsWmY4SFZVMzB5ZEQ?oc=5",
+      "source": "Financial Times",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "description": "Intercontinental Exchange launches trading in gold futures in London Financial Times",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
       "source": "World Gold Council",
@@ -1359,15 +1430,6 @@
       "published": "Mon, 5 Oct 2026 20:30:00 GMT",
       "description": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
       "category": "general"
-    },
-    {
-      "title": "Intercontinental Exchange launches trading in gold futures in London - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFVJMXhkdnc1S1gwc2IxcHRVbUJWRDRVVWxQeGxMZEhEMjVNTFpsaDltd1pUR2ZMVENlZko5MDB3dVYzc3NRYVc2VmhaeHFIWFFsZmJYWUtUcjViell0RW5FNWZoTWtHLW1ST194b2gyR1g1NkJDXzJsWmY4SFZVMzB5ZEQ?oc=5",
-      "source": "Financial Times",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "description": "Intercontinental Exchange launches trading in gold futures in London Financial Times",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -1656,15 +1718,6 @@
       "category": "general"
     },
     {
-      "title": "Gold futures rebounded after testing 200-day moving average. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGxfU0d4cjBRdjlJY19kS1llWW1LQ2Vnc1U3S3dvbTRtcUJ5cjRYWC1ndFFmdzJjdklEMllmdHdGeWhvU2N0V3dCR01YWkNSMjl6MTRDbG9wUkZKSFZZTVJOQU02YXM2Y09sQnhQTFBtUmtLSHFFT2dGQU9TV1BIX0FzdVd5QnVrQ0JsLXBuLUI2RFplVzBIOFBZMHFwQVFxa0ZCai1GWWNRdllnS0dEXw?oc=5",
-      "source": "CME Group",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "description": "Gold futures rebounded after testing 200-day moving average. CME Group",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0diX0NXMU9LM2thenJRM2g2VTN6OF91b2FieHhmWTVpaUZoaWplalc3RmtfR2tjeExNWmVwdGlrNGJ6VDFhYVBLS2NmRGJwSVVLajIxQlRoTG5qSUphMm45UDZ2d0FGSHdfdUVQNEZWNGtSX2NFWXJnUm5uN3dVZjhscWlNRGJrM3dQd1ZXT1VSQTBfQU9YMDA2OWJCUlhFQmtESUFjOG93SFE?oc=5",
       "source": "World Gold Council",
@@ -1682,28 +1735,11 @@
       "category": "general"
     },
     {
-      "title": "Green notice 2026/02",
-      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
-      "source": "Bank of England",
-      "published": "Thu, 06 Aug 2026 12:00:00 +0100",
-      "description": "Green notices cover significant and/or significant proposals for Bank of England reporting. If any of these proposals are finalised and are to be implemented, they will appear in a statistical notice.",
-      "category": "general"
-    },
-    {
       "title": "Europe's golden heatwave - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RT0ZOOUZqUEFwQi11QVZGVU9qMHJrWWp2dDJsSDhUMUFiR1dKRDBIRjBWRkY1eVpiRmtXbzBSLU9qbDJLbzZHdDIwSnBVb2lRTlp3QVFzT1dNLXhIOFZ1NkJsX21jSWRUWW1SYUVjWEttVHpfcjVmeVRoVjItNjA?oc=5",
       "source": "World Gold Council",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
       "description": "Europe's golden heatwave World Gold Council",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold Demand Trends: India Focus Q2 2026 - World Gold Council",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVKWUV3OW1vdkV6TGxiR1BfbjBYMzBmVnI1dDNSdGJhSmQ0dGpiR0I5OXFzMjVpbl9CQ1pkV2Q1Q20wLVBPSnBDY0NCbTFSc1dHX1BxOTlqdG1vZG1haU9SRkhyX0hRZ21iWHFwTlUtRnU2NUN2QzVLSTU4YThsZ1lqWjNQWUd0ZEFMcXN5clFjRElITjl4eXFtRQ?oc=5",
-      "source": "World Gold Council",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "description": "Gold Demand Trends: India Focus Q2 2026 World Gold Council",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
     },
@@ -1715,6 +1751,15 @@
       "description": "Gold market shows resilience as price momentum cools in Q2 World Gold Council",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Demand Trends: India Focus Q2 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVKWUV3OW1vdkV6TGxiR1BfbjBYMzBmVnI1dDNSdGJhSmQ0dGpiR0I5OXFzMjVpbl9CQ1pkV2Q1Q20wLVBPSnBDY0NCbTFSc1dHX1BxOTlqdG1vZG1haU9SRkhyX0hRZ21iWHFwTlUtRnU2NUN2QzVLSTU4YThsZ1lqWjNQWUd0ZEFMcXN5clFjRElITjl4eXFtRQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: India Focus Q2 2026 World Gold Council",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
     },
     {
       "title": "China gold market update: June concludes a divided H1 | Post by Ray Jia | Insights - World Gold Council",
@@ -1789,15 +1834,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights - World Gold Council",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUExajAwZWY2SkxlbThXWE9xOVdMaE0ySDM5bXJBbzQzUXRQeUpPb09YSFpUcnVyOWUweWtDelBlLUJEUi1hOEw5WGxQTkRjV3VlcG9HaGtRODQ0UnZjV2d1ZjdrWEc5Z3k4NkxxeHI4VnMyWGkxcTg5MVc4QUlvbWU5N2ZERzB1YV94VWFMeUZqRVNKOUFhVmNPeUhqQkNP?oc=5",
-      "source": "World Gold Council",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "description": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights World Gold Council",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
       "source": "World Gold Council",
@@ -1818,6 +1854,249 @@
   ],
   "gold_news": [
     {
+      "title": "Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3g1aTM5eFUwZ3VtSjdpTjV0R1hnM0lMazRGMlF3MGlQTXlFUVc1Z2t1NTFzeTlSMFY1YXlnV1BfamlLb2IyeTdNaElmZDFpd25xdW1EbXhERzlRZ20wbjdPZUZtMEhEUU1YMmZmWURZNjdwNjNYMTdLV3ZiaW5QeXFsVWlSeVBLZFpFdjlxdEM1WkpsMTdLQ3dsU2dIUTdXZU9NbEZEdVRGQWY1YmZ3TV9FUW5TWjRTdW11WkkwV0hWVl95b3RFanQxb0RmdVI1Sno5N0h3cG9qSm5BbG8zeFVEQmFhbklCV0FqYlZRRkx6Zkd0cWhoZXRR0gH_AUFVX3lxTE9HMHlOY2V1eEpxWFJUX0NlVlY0TFh5b1FBbEhaNENJbUo0aTFsN2IwRWZ0Q25FeUNETlRsYTh0M3N4ckVwQk10WU5JY0pZUmdkbFlGYmU4elIwalJuT0RkN3dweGNBQUREMG1XWk5Wakx2czdjT3JJbTBpVDVJVnJMbVJPblhTN0gtTUVHbHhaMDNqVDVIc3Z2NDFrQXBBd1duS3hIRVFrRmVac2lZRjZseW5VY2xhMjdUNHduMWxYbHpoTFZzSHpka3p1TWJrZmlOMUpZbUFfTXdlZEtoM0NhbUl4OHZpdTdtdTNtWDFCSkg3N2VXcUE3TEU4ZTA5TQ?oc=5",
+      "source": "The Economic Times",
+      "published": "Tue, 10 Nov 2026 13:45:56 GMT",
+      "description": "Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook The Economic Times",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "CEO.CA's Inside the Boardroom: West Vault Mining Plans to Fully Leverage Gold Price Leverage - TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3luMmZBQjJvYWRtOUNseXh4cUtlV1Y1VXJ2V1daZ3VjZFB4T1BNbERZQk5LSEh6Y2RBMmFzSXBGd1FVQmdxdHZGWlZjR19BeENSNC1nbmZ3SXU3eVhkWExGMzZxWmNHUWZVOTVtbVJRd0tDemZFSFE3TDRUMFdrRjB1a1BmNHJqbmhlcWRFcWJsM3Y1Qm1OUXJLVE81eVJia2ttNTlsWnBDdGdtZ0d0VzVFMC04bGs4T2t0XzNySWJiOHFqRVJPNG1ncHFBNHc?oc=5",
+      "source": "TMX Newsfile",
+      "published": "Tue, 10 Nov 2026 13:30:00 GMT",
+      "description": "CEO.CA's Inside the Boardroom: West Vault Mining Plans to Fully Leverage Gold Price Leverage TMX Newsfile",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Price Today: Gold Falls 1.56% on November 10, 2026 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVpRYTFITEJ1ak1lN1FFUS1LeUh0eVZjTE1Gb3B5dHFubWk4UndhM2t3bkUzc2swLUc0dHlMalk1YUczNnRhOGI5NEp6RW92cXhOeTYwOThTc2ZmdnpiMUJwTHZ6X1AySUd5REtrUU9MTk9RZHYtaTZRRWpUYlVWYTZNS1JnQmtLYUFWWHQwaFdIZ2NPbUdYSV9za21yclVfOThNdXRPQ3NOeHM?oc=5",
+      "source": "USA Today",
+      "published": "Tue, 10 Nov 2026 13:25:18 GMT",
+      "description": "Gold Price Today: Gold Falls 1.56% on November 10, 2026 USA Today",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold price today, Tuesday, November 10, 2026: Gold opens above $4,100 for the first time in three weeks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTUs2ekJ6eldWUXZyUHlFNndxRGphaG4wSDY4UzdOUHhjbE1sQ1NEelZkdlFTbUsxV0xUZHhTUXRkYXpaRzBUNm55WFdoMGd4V1VaZHN1UFZwa2h4SmhybXVFaVZMRjVELVBaLWs2ZEpVYjhjVnIzcTY5VzBBWWhRUEFteGR5cXBvRl9pMzdFSmVNdFRPSnlFMDE2Q2NJRTlhU3ZCZzhhQjYzbzZGV2F3ZjBoRVRFLTBMN1I3WkZpSnVrVnM2LU9EdExhSlh4ZzVLYkFhOU1pUXpGT0loUTlSQWo1Ny13Ti04YUdkbW1BWXdGVjNQMW1EZ0piQmRWTUFzUmgw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 10 Nov 2026 12:17:34 GMT",
+      "description": "Gold price today, Tuesday, November 10, 2026: Gold opens above $4,100 for the first time in three weeks Yahoo Finance",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Aris Mining reports 28% increase in Segovia gold reserves By Investing.com - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzFMclNqaHFueFpUVFY1SnpJNXRfdmN2ZVVTTXprVXBkNnFZcHowWnEwRmFyTnUyYnIzTXVKdW9wOThBamFhUXo3amRrWWN0VVo1Y1lGVURoeWVXME1ZR1ZjNTFsLURldW9EcDhWSDFlS0p5aWFSUkVKT0lrZHdzQXZid0hnVWFFcmp0cnFuYmxJTkUwbGdOOExxbHJNempuRVU4Y3Nuc0IyYnNlNlhwUnBfem1taE4y?oc=5",
+      "source": "Investing.com Canada",
+      "published": "Tue, 10 Nov 2026 12:11:21 GMT",
+      "description": "Aris Mining reports 28% increase in Segovia gold reserves By Investing.com Investing.com Canada",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzRIZFVEODRmUkIxYnFHT3hoNXJYUk9hM212c1RrSWIzTmJua3RIY2FoWUZrd0pNalFKajVWbTY4N0x5STdVTjB6c1k1alNET2FCeHNxLWRoX2xhbWIxZWZCTEFjWl9fRVFBc2t1TjFhaVJSU1g2RnBmV0xjaDhrMnhwYUl3LXRlUDlSTnFpeXMxUHB1YVh5RUVxcWdVQU9Say1jWE1xS0RkS3ZkWHczUDlVSDBQb29kZXA4V0o3SEw?oc=5",
+      "source": "巴士的報",
+      "published": "Tue, 10 Nov 2026 12:07:33 GMT",
+      "description": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces 巴士的報",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces - The Joplin Globe",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTV95NHJRYU41RWVIcFdBb09TNlduZUxiTC1xaDJVVnJ3eVpiZUN3U0MwMHBuSFNzUG9iZjczbDV4ai12TklVejZUU0xvZUVPZFBmZlBYMEdyc21CNWdKR09IbzJJeWRNdE5yOVVnaThva3lwc0c0Rk5Rck52RlhFZHBwXzFGYXVEaERla0ZYNWtFMnZjYTgzQWNFZ3FMNkxPWXRkWjZGTUNtSnpmLVd1WE1IR2lGTlBWVUZDdFlpSzN2OTVzREs2QjdGOEdISzkyWXoteUNvVXFHYlNjcEtnT1VRWE1BX28wNlFyYTdaaVF6c0Q2S3dLZzZ5djJtTVNMTi1uZA?oc=5",
+      "source": "The Joplin Globe",
+      "published": "Tue, 10 Nov 2026 12:04:17 GMT",
+      "description": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces The Joplin Globe",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining raises Segovia gold reserves 28% to 1.9 million oz - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWItTVFiREVLb2FGUW5DUFQxMWd1U2x5dnBxclhkX1pid0R1b3dNdDFqWWJobWVJWTZNbXFRbTVOcmptaTB6d0NrMUVzSjREWVhpSGhZUlc5MlBJR0sxVldxcEFYSzI1N2pXV2o4NEJTdHR3MWFyNXQ2Zm01S0VSbkMycFMwVnRlV2hhQUlDRWItN3lPbk9YTDZ6d0FFX210a1J4TURUQ3dqcVhPbnNabklIdk5nQUFtMEFfSW0xYjU?oc=5",
+      "source": "StreetInsider",
+      "published": "Tue, 10 Nov 2026 12:03:10 GMT",
+      "description": "Aris Mining raises Segovia gold reserves 28% to 1.9 million oz StreetInsider",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHRoa3Z5d3F4MzhmSXZnSnR0c09XMzZjT2xFSTh1a0FlaEhiWkc4eDIxSjFHN2hYeFc4eHAyc25pcS02UnpyaXQ1YllWTEhfbmltNzU0MzE4bEp5WV9mOUw3LUtaem9zSHdXakFOUlJkZ25fV0ZIcGp2eE5YcHZPYkoxdEd2b3o4UlNyNUg2ZGFtWjhYNDV1OEhRTkRreUFuWElMY2tuZUVjNVp2RGhreTdlczFNRjVZdGt1ZXFoMzhVTjRjYnRSSmRzNnY?oc=5",
+      "source": "Morningstar",
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "description": "Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces Morningstar",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Indonesia's Antam Gold Price Rises Rp15,000; Buyback Jumps Rp25,000 per Gram - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QYXBBdWVKU2VmWnVFbmxGT1pVVnFWVGxuek5LQ1dBQ2lxSDJzeklZWENNa3dveDd0bGlVYWlpa2hFa2ZRX2FCbHZRQnZ4akVFaVJrSG9iSjNTNmoxLUp6R0U4c2RMQzJwZnJQMkJnUWppZTNLdGc?oc=5",
+      "source": "BigGo Finance",
+      "published": "Tue, 10 Nov 2026 11:55:00 GMT",
+      "description": "Indonesia's Antam Gold Price Rises Rp15,000; Buyback Jumps Rp25,000 per Gram BigGo Finance",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Silver Prices 10 November: Spot Gold Down 0.61% Before CPI - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEtPSUp0RWN2OVBheF8xSHVaM2FoUEVNOGFiWlNheFQ4UnNXV0Fua2xZNVN1U1Q2bnZFNXFZU2k3N0VzVE9DVUtuWlIxU2NsdVlkUHljUk9YZEQ3UFllMXJyejZWSnBwZXhWNTFmMVBScmpxb2kxamdpaEVsRHhNQkhwX3RxUkNxVlRSV1JsSE11OUc2SnU1U1dkOGllQ0tXRnVRZQ?oc=5",
+      "source": "JournalArta",
+      "published": "Tue, 10 Nov 2026 11:00:08 GMT",
+      "description": "Gold Silver Prices 10 November: Spot Gold Down 0.61% Before CPI JournalArta",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Futures Ease as Inflation Data and Federal Reserve Expectations Take Focus - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUExUQkluTnI5a0NralhaWkpaeXNFYlozakJ4RVhWSkRyN2xPbTNqU3Y4NTY3N1pYX2stbU9PR0ZUVkVaNTJmMTRRMnByMGU5SFl0YjN4TVAwNFhRNzlBS0w2dnNBQUUwQlN3Vl9nczhtVzUyTG9FQ3RQQ3I4YmxTUkVmc2k2N0tVRF9wX2ZsaDdhVVh3b094NzNyMHg2QVByczB1Y09NMHduM1lNZEM3M1NlNjlUYTVYVm5n?oc=5",
+      "source": "Kalkine",
+      "published": "Tue, 10 Nov 2026 10:14:00 GMT",
+      "description": "Gold Futures Ease as Inflation Data and Federal Reserve Expectations Take Focus Kalkine",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Beyond the Gold Price: Risk Management and Growth Opportunities in Australia's Bullion Market - Finance Magnates",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWExBOGlkb0dPZ0JCSEpqeTlMaTNaVlpxaWZiSXFzaHRWWE1ZY2JBQWtPcVpqSmU5X1RpWEFQSXExUmV2MkE3UVV0Z1A5QkxxY1RrVXJfM05ScEwyakVCTnFzY0REWmdVaE1pVUx5TW5XeHNlNDVzaFFYYzNJQ3F5SmkxbTJLRklMOFhmU09TWEZjeTl3bV9QcGJKSFN6Z25iZkhteXJzNk81Q0dRQThtb0pTOG5mcFRPbUZnSjlXNWVqLXY5c2ZIUGMwZ01lUVNQMndRMFFUU0pjVnc?oc=5",
+      "source": "Finance Magnates",
+      "published": "Tue, 10 Nov 2026 10:06:38 GMT",
+      "description": "Beyond the Gold Price: Risk Management and Growth Opportunities in Australia's Bullion Market Finance Magnates",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Miners Remain Resilient Despite Tighter Margins in Q2’26 | Post by Oliver Blagden | Insights - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY25PM3BDajlDNTljSnZXbDlFcWZkMm1CMHFXSU5iQk96OGR5SkV3NUxJQmF0VEloa1ZfWXEySlBSSWNJVDVMYXMyVzBmN3laTU5maXJnczBsUk8xX0pCMFRxQTJCcnVXSGVGZ2hZdC12SWstclc2X1dFTUZQWno1THVDSlhkWmtNVWY1SWdjSVMzOXdyU3cwcmJ6bG9ZNHlCNW5tRE5tZWU?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 10 Nov 2026 09:25:37 GMT",
+      "description": "Gold Miners Remain Resilient Despite Tighter Margins in Q2’26 | Post by Oliver Blagden | Insights World Gold Council",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Gold Price Forecast: Can Gold Clear $4,150 After the Nasdaq Rally? - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFhZMHRuSU9yREUxSldBTnlBNXRnUzE5eXdkZURmd0ktSV85T3p2T0p6R19qTEJXRVp0NDFEaUMzM2ZLM0lsbFZCbVIwVGlVYnpMUXdfQmljQkJkLTZJWjRFNzBLRUNnMmVmMkNDSWhmTF9NNl9MTDhEdVhyYXpCWHBFRk82ZkpCYnVvdDI2b3oybGs0VHhGQzdhZnYtaU1aSVJtTEVoTERMNXR6eWRCNkk5UQ?oc=5",
+      "source": "FXEmpire",
+      "published": "Tue, 10 Nov 2026 08:28:44 GMT",
+      "description": "Gold Price Forecast: Can Gold Clear $4,150 After the Nasdaq Rally? FXEmpire",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Nasdaq, Dow Jones rollercoaster – Four reasons for the rebound, XAU/USD in ascending triangle [Video] - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTE5WUGhTQ1d3UF8xYkdZRnNDV1FUeGpnMjhxSl8zeHJHZnl1TFlCN3U1bUhqeDktdjFhVHBzM2hVSG45dGdnVmlDd1hFbWUzUXpYenNPdnZKQ3Z0Y2xCd0pTaEhvOWhCRjlhdjJqcjIxdHZKM19lQ1hITGhLd1NldFJ3UEF4a3czSS1tWjYycVNqbFpEalNLVGVlcWJnRGNyN3F1SXRna0FWLXEzVEwtcF9PcnIxYlNCMm9qaFA5V081bGppcFRxR3dReDlCMUtTNnVWcS1ybWp1QQ?oc=5",
+      "source": "FXStreet",
+      "published": "Tue, 10 Nov 2026 08:03:20 GMT",
+      "description": "Nasdaq, Dow Jones rollercoaster – Four reasons for the rebound, XAU/USD in ascending triangle [Video] FXStreet",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "XAU/USD price outlook: Gold faces rejection at 0.786 Arc – Awaiting directional confirmation - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmwzaGxhdC1Gb1V0WFZlX1Zsc0FWV2hma2RkMEVkdWZSQWZpMzFLbGtrRkhQeGpOUTBGMk5VUExId3hnRXh0SEtIZmdYUkg0N1F5Z1FsT1c2Mk00dHBjNXk0cTRoQlJBMkpWLTBiZXJQa1FTNzFjNjhjSDdOeUxpSFhiVjF5TGJkazVPeVhLbnVJWWlHYUh1bXhCUHRPNzcwVDNNOWJrbU9WaHQ0bXFGYnFRNzBIbDJ1V2xnRVVNbGR1aE0xckpTY2lPQVZGNVQ1?oc=5",
+      "source": "FXStreet",
+      "published": "Tue, 10 Nov 2026 07:15:31 GMT",
+      "description": "XAU/USD price outlook: Gold faces rejection at 0.786 Arc – Awaiting directional confirmation FXStreet",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Rate Hikes vs Safe Havens: Gold’s 2027–2028 Price Outlook - deVere Group",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDd6Sm9kcmNkd3hRSVBoNzBCT2RpVkF3bFRrTUJqeF8ySnVlRTJrXzRwaGZFX3gwRnZsNzA4NUNWUWJCQVJHcnJpMkRqN1d2Z3J3dFVvUDdNUkNYWDI0UVBFb3NqWXlZMnR1SzJYV19QMzdGWHZPSU1XbmlyMlRMWTdFUnJLNzBOMHREOS02b1BSdEZEQkNOWl9XODU4MER5N2pWMDVvTExoY054MS1Z?oc=5",
+      "source": "deVere Group",
+      "published": "Tue, 10 Nov 2026 06:47:28 GMT",
+      "description": "Rate Hikes vs Safe Havens: Gold’s 2027–2028 Price Outlook deVere Group",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "Singapore opens national currency vault to foreign central banks for gold reserves - The Star",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2szaEN3bVdtbHRPNkNLS0JRV3JDdjM3NkZyS2Fud01LdUVjdWF4UkktNUxTREZqLWtoOGc0ZjVmQVY1ZGhIWkFHbDZZdW9fTHI1eXJIY1p3T29STVFMR0FTenRkb3ZBNGdIQl90dFlRQmpSNGNaQXExc2dNVjQwb2xLalEwS25xWTFiSjdBSzczUnZ5eG1pSEZVS0NIbkpySVhOYzlqYmFMUjN0QVVGcDBkQVFiTWdqZU1IcFBJa3l0LVhPYWNEZmN3ZE01QU9qRDhQWTdGaUZ1TzdBZ2c?oc=5",
+      "source": "The Star",
+      "published": "Tue, 10 Nov 2026 06:43:00 GMT",
+      "description": "Singapore opens national currency vault to foreign central banks for gold reserves The Star",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Singapore adds lustre to bullion hub with gold vault service for central banks - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMm5xeFpidGsxRHRRZzJ2ZlEwTjNoUFFqaXJ1ZlpnMWE5cHNINW5KdlpBY2pUUWxBYjJ5NmN1bnc5MUhhUXpWdi16a1dhOXpIR3RabUhrSV9xWGtUQkxJUjg2Sjh3Z25TbVV4c3pHT0RKT1hPX2kxbkkzWjk1ejNnRlV1TC1Bdk5pYzlDVkl3d1U0WUVidzRRVjAwSGIxVlRpTVlqbWdXcnBjN3hYZnZfdXFFZkU2Tk1pbzNVeG56ODhTaTBHSm530gHHAUFVX3lxTFAtRGltV1RtR0swVkdCYzBiRzFsM3JETXZXem94RkVBZTZNVEtvNExHeE54OGJ3V25qcnlXeWVaUlBxVDZKNVFJTDBnbnhKODBMSnJDOEVLWUt0RkszSXcxZjh2Y0lrWWUwNlRsc1FtZjVWU1ZVYmFqMEhDZGVHSlF0VmgzVld1R2kzMUtDbFJjUVFneFVBb3lHQzFSWXFwQzZLeWZSdjdGemE4UXF0N1Y3SUp1WWp0UGMyVXVsbklScmtId1F0WWc?oc=5",
+      "source": "South China Morning Post",
+      "published": "Tue, 10 Nov 2026 06:16:42 GMT",
+      "description": "Singapore adds lustre to bullion hub with gold vault service for central banks South China Morning Post",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "More central banks expected to shift gold reserves out of the US - TheBanker.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92MTRxWTUzdm04VlEzcDVBZmU1R25fT3pibG5GODFOOExRYUo5UlFaTjJXZHJxc1lqSWNGbE9iUVhOQ29uLU1fSHUzUU5ENVZTb0E4ZjREam8xTndHMUNwcmRzLXpvZFAtVVZxVTNIWXVXSmJxd1NVM0pB?oc=5",
+      "source": "TheBanker.com",
+      "published": "Tue, 10 Nov 2026 06:13:08 GMT",
+      "description": "More central banks expected to shift gold reserves out of the US TheBanker.com",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Singapore to launch gold vaulting service for foreign central banks, ease taxes to boost bullion trad - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcFdCWUNmRWdkX3B6SFNrTV9nWlYxYmFkbmc2NTNOS3N6ZHlKdDdQY2JUUVlWbElKZWJNYmVRaktudFE2RkF1LXZLVmEzQVJuM2pybHVqLWJtUFNjRzI1S0c1cTFfNDZYMENTNVpJNWdfZVZVOXN2eGxCNnc2TXdndmNzZldoX3J6cUh2aE9XMlh4dW9QZ2loMUdwSXNUOVVwU1lSZjE2RG02RmdMbHU1eVVSQ1M2OHhkNmtabjhJWlhod085aHZ3R0o4b0hYeHRvaVpjQkxNc1N6RXROWHd6Qjg3QW9sc25ZNklBZUo0c3RKd3IzY3pzQ1RLNjNOOE9ZTm1rU1VqdDPSAY4CQVVfeXFMTWhKVUN0dGhYUDladzhncVFqQ2w1TlRSSnJiRXRnb0FxV0o0T01MVXhZclk2S3NnempESUp4Xzh6MzU5QkFHLVluZ1RjOUhkZGlCb1VreDI2ZTIzRkQtMmNqNGFDdlQyNTFORTFLdmVnRl9UbVdQWERoTFYxdVI5XzVfU2lDNDY3X1hXbV9FSFdVdXRPcXZLMExNZVQzOUVJc3RYMXV6blRmdzAtSHczZ2RfMnZlNDRJWU1YVWZjU25BWEtyM3QzVnZ2V1VlLXVWQUtyZGZCVDJZWkVVdHhubnpxc3hpTmRobkpqNUw0Q3RZRWwxOFB1ZG9XRVZlRlFHcGtMLUFpLVZkdk5YNHdn?oc=5",
+      "source": "The Economic Times",
+      "published": "Tue, 10 Nov 2026 06:01:39 GMT",
+      "description": "Singapore to launch gold vaulting service for foreign central banks, ease taxes to boost bullion trad The Economic Times",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "India Gold price today: FXStreet data point to lower prices - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmZGS0N1ZmdiNUJ6ZFNvdldBOG16Z052aFF0MFd1dzR0RV84NXZkd2hJUHozcVJtLUR5V0tBTzdiY0RHLWphVHhIVVNXTjJaMzl3OTJuNlVyUEd1MFBVT1c0ejRfTXBGY2dyVkFjT3c3RjBOSk84S0J0aFZOT0pRWHBxX0JpaWFsS0N5RUNINEpfeWg0N3dOcWdrUmpEekJxNkNSa2xYeGJEa0NjaV84dUFZZVdKN19wQmtYOGtYMF80QXV5LVE?oc=5",
+      "source": "www.tmgm.com",
+      "published": "Tue, 10 Nov 2026 05:18:36 GMT",
+      "description": "India Gold price today: FXStreet data point to lower prices www.tmgm.com",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Singapore Opens 500-Metric-Ton National Vault to Custody Gold Reserves for Foreign Central Banks - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yZ21BOWlMNDBUNWZSeGl2cThPQnBYcFZMUTJQMkNQSnByMktkamd1VDRpeTVxV2YtNk5tUkpwSDljWGlOeXdNWjJjWXVQeDR2bHhYdGxIQVpNNi00RWlnU0xaNVc2NmMyNzB2ZTc4d1RnQlFSNkE?oc=5",
+      "source": "BigGo Finance",
+      "published": "Tue, 10 Nov 2026 04:35:00 GMT",
+      "description": "Singapore Opens 500-Metric-Ton National Vault to Custody Gold Reserves for Foreign Central Banks BigGo Finance",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Gold Price Forecast: US Inflation Expected to Slow, October CPI May Support Gold Breaking Above $4,200 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUdLdzlwUDlOQWlSQjN4VXdzNUtPWjdrLURkdkRIajhiYkltWUZJc0hDNk1zSms2RXVaczctckVGVzhYcmRHcGxkS2ZOWFZyTEd3aHpsV0ZhTGxSTGdNdjlENDN6QjdMT2pna0pWSVQxc2xmd2p6ZGtQbzdEeHhQcWxxTmNlVzRhemRULVBrMWJMMWdRZmx5QlNPX2t2WU9va3pEcnFlYzB2OXlLTExtSVBkd3JSYUJvdTFvZWVBZUlhTzgxVFl0Y2p5ajdOUQ?oc=5",
+      "source": "TradingKey",
+      "published": "Tue, 10 Nov 2026 03:54:55 GMT",
+      "description": "Gold Price Forecast: US Inflation Expected to Slow, October CPI May Support Gold Breaking Above $4,200 TradingKey",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Spot gold biased to retrace toward $4,033 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEJfdWxvc0lKNFNrZXpiVElidVFEelp3Q0tSclhydDhrLXJtcGZiYjE1bXkyWkJGeUNvTURHYW5KZ1l4LS1ocVFOalJxY2JuaDZELWdyc0hUMVJJZVR1akRza0RiZnQyWlcySnRWaURfWVJkb0hITWVvRE55VGlMSzhWVWVzOUhyUHdkVGptVDVDUUFQbFdpWjZQdXlyVmlzcVlIOWVNMmZpUUF2TzJn?oc=5",
+      "source": "TradingView",
+      "published": "Tue, 10 Nov 2026 03:50:00 GMT",
+      "description": "Spot gold biased to retrace toward $4,033 TradingView",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Precious Metals StoneX Bullion weekly round-up 110926; Congressional gridlock; oil, yields, dollar down - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2l4emNNUFp0Q2JSRmVfN1lyOHBUTlVJd1hubG5hTjZKR2JMWDEtdzd2SnlYem9LNktGZ05FVjhIQlVOdVZ3NGZycjZxUDdmRkJIZkJjNE1sdDdESHhLdkxWNHpweHdsRHFoNFlPTWQ3dllteUc1M241Qy16MFUtREc4V1VNTDUtbWo1b3VzMlBFcVZmMWdXZTZ0Q2dKeXRtMER1S1E5MHROem5SR0tDbms1VG9aVWEtZW5ZQngyZVlXUmF3OGRpRGRVZkVsQWVVaUhuNGpTVFFIbFRhU0N1TVl4dTRDZUJD?oc=5",
+      "source": "StoneX",
+      "published": "Tue, 10 Nov 2026 02:37:14 GMT",
+      "description": "Precious Metals StoneX Bullion weekly round-up 110926; Congressional gridlock; oil, yields, dollar down StoneX",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Shafaq News..Iraq holds third spot in Arab Gold reserves - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwdUtfNDJNUVMwOU1rNGFiT01yNWVvTG9EcUQwMW9CREdDYUxaaGZlTC1zT2wyTV9xYlhzZnM2NVE2RTFNZWg2NnM1MC1Fd3hlM052TnZyOXprTFpfMDNlU1pxT0ViMGpTM1NLNURUaEhiM012Y3M0X1BNNi05Zw?oc=5",
       "source": "شفق نيوز",
@@ -1825,15 +2104,6 @@
       "description": "Shafaq News..Iraq holds third spot in Arab Gold reserves شفق نيوز",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold price rebounds as oil and dollar retreat - Mining.com.au",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUkFOWVo0Tmk1aVRNNlVHTW5iQW9OblZ6d2J6aGpWVW9ya2l2MXpFWFNvQ1BIRFJ4Qjlhd0ZScU10bTAtb0ZiWGtzbTJKZ2xzT1Q4N3FQR3VLcUlEMEZaeWRWeDZnaVA3TFl6RWhvdG1fMVVmR2lB?oc=5",
-      "source": "Mining.com.au",
-      "published": "Mon, 09 Nov 2026 20:48:45 GMT",
-      "description": "Gold price rebounds as oil and dollar retreat Mining.com.au",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold Forecast: XAU/USD Holds Firm Ahead of U.S. CPI Data - FOREX.com",
@@ -1854,24 +2124,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Jewellery stocks outshine Nifty as festive gold demand fuels optimism - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYVZtZThiWUNhd1BvYUdUekNUcUlGM3VNZjc4UGJnTUwyS1lKY2JRemhSMmU1cHR0b3RWZ2I1blFwck5Vci00QnAxajFQcTRxc3JVU080U3FPV09YZ1Jfd0dtMWVGQnF0c1dwUzEzNjBSUklMNi15MlRSVENidWFMOWJhTUo5Nl9lYzBJLS0xM1RTclRxU2dPbDVfUjlQOGpxd0I1TEFoQmpxSUVZOEJZZ1dlM0VQYUtjQWRYUE92X0Z3aWJraWNNenNEcFRwZGVqMkHSAdcBQVVfeXFMUGR6VmQ4V0NiMmFSOTI0V3I1V2xFV2lYckdxN2NpUFNMb3Nnak5SZXIycW1xYmxEbzhreU5kTW9rMjB0VV9lVGlwVWJiOUJubWFQOVBuY2w0bkdOYmVNS0pTV2RCT3JBZVY1ZkNjcjY4NGFBU0FmVEgtLWNGR2FWQ1k0OFQ0MFlvRHVNRk0tNmNMWjNaRjE2RGg5QjRSMmxNMi1vR1gtME44S1B4ZzJacXVoOWRTbnhuX19qcUxHMVpFallPRXlGd3pxdDNGU3ozdnF2WDlLbk0?oc=5",
-      "source": "Business Standard",
-      "published": "Mon, 09 Nov 2026 18:02:56 GMT",
-      "description": "Jewellery stocks outshine Nifty as festive gold demand fuels optimism Business Standard",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaWhBU3pzNEJxVGFGRHFvLXFqeWVZU3BIbURsdGhLQ3kzWmZSaGlMS2xaOGxvVTlweVktS21uUE9lbTdOZldWU3VNTGtkWC1XRGQ5dzNyd3ZpUnlXQUtsVjlLMXZ1S05BcnV0eEZyYUFRblNTU2JOS1JNb0trRHhHaThYV2pxX3U1VVRqXy1KUDhQQzlNd25zMkUtcWlkdGY5V0NvMDVCbDJSUzA4ZG1XTVlpbkJDSGpLWVFQdFNueUJoWm9MNy1fajJQOVRUdWtVdDMzc2JoRFBmSkNkQlgtQVdyc2xWRndLanJtaA?oc=5",
-      "source": "StoneX",
-      "published": "Mon, 09 Nov 2026 18:00:23 GMT",
-      "description": "Precious Metals StoneX Bullion weekly round-up 110226; Persistently sour sentiment, but some bargain hunting StoneX",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Egypt Gold Market Moves to Curb Stolen Goods Trade - Global Arab Network",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkk0TFpTa29PcDI3NUY0X3JUbUxqOTZfeUt1dGh5VlJYTkNCTDl4ckpCQXlhaW0tSXhCU1JwWGdNVnNCSEs4bndUaGhrTjdZcXQtN1ZpZzhJNTJYNXNrTl96YVdScWo0SU1OTnFVYjlMR2tibFhBMWtteDhYTjJvZms5aFJDRUVIdFhRZzRKTTMzRlNYenpJVGJRRnpFY0xlb1E?oc=5",
       "source": "Global Arab Network",
@@ -1881,20 +2133,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Price Today on November 09, 2026 - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3FUeVlPXzNkalUxT0psazBGZ3FVRUNfTFc1b1Z4d0dyZDRjZjhsM2pKUkpmR2dZRldmZTJRR2IydkhrWGFyT3JUNVFiSVpsTzRERWwwOGZQLThmUHYxTzNGSUt1YXlYeWZVa2wzR2xXeEZUemN2ZmZjc19hajRMZW5Oc1hnczZlRndTR29ONERXaF90RjQ2eEI1aUE3alVqQk9BYXBGc2c0X0E?oc=5",
-      "source": "USA Today",
-      "published": "Mon, 09 Nov 2026 17:14:00 GMT",
-      "description": "Gold Price Today on November 09, 2026 USA Today",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Solomon Global Offers Exclusive Signed Una and the Lion 2027 Gold Bullion Coins - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcTFMWm51dGhtWERPUlBxUlJOeFZSYkMzbVZsMWxhUlptbW5DY0NXcGxFWTQzRHFIdW90QjRKMkN0TVROcDdPcmc0X2M3YjBnWGVrTlp2eFFMbUkwbWVtOGxfM2tCMHcxeDBLZkpDTEJQb015MGRxakJEUUR3UE1kSklYVVBjZVZqOTNDNnQ0X3AyanRhNTMxYWszUHRTa0R3OG1QMGR3bTNKeEFJcUxsa2dnckVCVXBzM21KRUhwdVZzWDktOUR4M293NGNxQmJMbktaQkVOa3YtNlJRNldrbXdDSkRaVllu0gHuAUFVX3lxTE04bGc5MkNhZm83c0tHTC00UlNjLVE5UDB3RWtBUFJpUEt3TkFNNDJHelV0OGkydG1CUnpIQWZjcWFqdXYwZG1uQlNNc1hjNnEyb1lzZFFuejh0NmZ1OU41QzctNmV0S3VjS0tvR3puME1wMl9xQkhSNXZURHpOZ3FmRC0xNWRaYTd1QUx5Y2ZQcHZ3RGlsbWtKdThDX0xKemktaWw0NFRSNzFSaXdLenJpVEd3SE8wZzRMbzduY1NaMmREMm5vMnllVFpFUWc3VjBnMl9uZ3Y3MF9TN3NkMDFRNjhQbmZQTmNBZXF2c1E?oc=5",
-      "source": "The Manila Times",
-      "published": "Mon, 09 Nov 2026 15:40:47 GMT",
-      "description": "Solomon Global Offers Exclusive Signed Una and the Lion 2027 Gold Bullion Coins The Manila Times",
+      "title": "$4,100 area: Gold price forecast as XAU/USD maintains gains while risk appetite weighs on USD - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRXdPSjVrdjZxTnRjaVBOVUcyS0s5MVFaN1lPdzNoMVJFcUNCRTlEZEE4TjhXSGtWQmRCUkI4WFNCWkNuMVZGcU56cGlERWhoTjh6djdyT0JuZUs0SGRjUEJMa0pmaXhQdjR5RF9QempDWG5RZGg5dzB0WGhHRXF0ZDcyV1JFd2wtcTlZeWZuZUNmQjVIdHMtUGFrMmdXTDRRdUhpcFJ5X2JlblRhX3FySHVhVFpUMGJ6Y2NsVjNWTXBOdDg1UElQR1lUVzhBQ0RvU1p5MFlrTC11elNxczFRSw?oc=5",
+      "source": "www.tmgm.com",
+      "published": "Mon, 09 Nov 2026 17:10:30 GMT",
+      "description": "$4,100 area: Gold price forecast as XAU/USD maintains gains while risk appetite weighs on USD www.tmgm.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -1935,33 +2178,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Why is Bitcoin down but Gold rallying? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2JLS2t0RVdkSGlDdnBZbFRDd3ZiM0VPZTV4VV9qdzE2TWxaUmhFd3VOMWRPX0ZpSjg3THBoVW9QNlA1RXFfUWVidXBYczlzcTdoQ256cmZxV2RBZG56YlZNRlVlM0RGcExxMVNoYTVhTVVrRi15NVZicHA0dVF2T0RhT1BpS010N0pWRDZmZ1BvQUtzR1FST2pHUTVmNTVSY3BvWTBmaFBiaG92NWFjZVRZT0QwV25Lc1l0RjYxNzVVcGlseDZYVjJ6YjQ2ZHh6dHk3V3d2WEMzRTJzNzFrLU1tM1hDc0paT2c?oc=5",
-      "source": "FXStreet",
-      "published": "Mon, 09 Nov 2026 13:41:21 GMT",
-      "description": "Why is Bitcoin down but Gold rallying? FXStreet",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Decline in gold price pushes jewellery sales on Dhanteras - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGtoY2Q0am41OGRrel90czQtVXdmNDYxZGlXajJFeERiQm1CWXpZejNZeWhnTHFyTGk2RnBzUnktOWpNVDg2MEduUGhnVllMZkRabnh2dS1pMms1dnRSaUFRMUo5UUE0WXpjMG9neUI5OUt4bXNXXzlCUWo3a01sYXpTM3E1dElMdExVSV9RZ3BsQ2FnODRkOUZSSi1BcnVpWFN3a3Zoa1l4Q3pNMW1MSnFXeU4yR2tJR24xMDdlRm53RFI4aWJCd3pxaVc1Uzk4SFJwdXhaNjVpbTDSAeABQVVfeXFMUHY3MjBFTGMzZ1FlOTdZeGllOERsVUZPQkVpamg2Vl9Wc21jR05KRmFrbmEtM3FfN0VMa2hZS25iTGdvdW5lc29mUnBxMFBxR2RVOWZuUEN3TndMcm9Wd01FZWNGR053ZU5JVHd1Y1cyRUozY0I5d0NYdkxYT2ZqLU5aOVhZbEMyVGpPYkJodEhGakdtUWUxODBYakRHRnoyUkdsU0FBaEtyeVZTVDh5QVNSYzFsSVU2cXdHMmFsMXA1c0NDQ29VVGNvWjFpZkhFLVlSbE0zX1JRc3ZfYlNnNkM?oc=5",
-      "source": "The Times of India",
-      "published": "Mon, 09 Nov 2026 13:08:00 GMT",
-      "description": "Decline in gold price pushes jewellery sales on Dhanteras The Times of India",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold Price Forecast: Easing Energy Pressures Meet Persistent Fed Tightening Risk - FXLeaders",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFVMNmstWDBuX3U3X05yMTFmVE1XY0Z6RVNYaXBNc0pmQWpXZDB2YmdKVGZaWDR3Ry05YzJoYmRiRzZya1FTbW1BZDRjYl9nNVRUOEVTTks3cElnaC12QmZRWHYwdThCYXdHZmM2SXIzSjFoRnJYZk92a0w0am52VGItamlnZDh0MldaaC1KLWtQdXViNlM3RHJ4TjM4Uk9lOXNlZ1lSa1daR1RFdWNoMWhPbDhnMnFSX3hqbjlyaw?oc=5",
-      "source": "FXLeaders",
-      "published": "Mon, 09 Nov 2026 12:45:57 GMT",
-      "description": "Gold Price Forecast: Easing Energy Pressures Meet Persistent Fed Tightening Risk FXLeaders",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "India Gold price today: FXStreet data shows Gold prices rising - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlJlNE04bkxLZGVweXRuQWYtMTNibmRsUS1raVJTcGN3UGtGVkZkMjlEbU5pNGZudDRxeWRTNzZ4WkFzLURXNDdpMnVxUlFYbDVpNHlpd1JhT0xBeTBkbGI2T1p1S25iNTBxbG1Ha3NUWkNnQnNUUmlHMkhtcTlieXg2ajd4U3JqNjRIeDV3R0ZJeUJVNkFfN1pjZ0tuMGFQdGNiVXh6QUJFVG1VejF3Y0VpRGx3S3daOG1DR1FqN3dFYURpRTlzOQ?oc=5",
       "source": "www.tmgm.com",
@@ -1978,15 +2194,6 @@
       "description": "Gold Price Forecast: Risk appetite weighs on USD as XAU/USD maintains gains near $4,100 www.tmgm.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Forget the ETF Outflows: Gold Miners Offer 3X Leverage As Cash Flow Surges - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTRsZWdtQWtoQmUybW0tdHIxZHZOUzQ0MnlEVGZDUWRQRE5oMWhTS3NvWDhyVVBxMklsRGZRQ2hxQkw1NTM2ekJ5Wm04ODUyZWFtemhkZklJMTEtT3czNnNVa19qUGV2ZUtpa1lqb3JUcFFGY1g2dGpLR2YtbHp0OFY3ajFKenlRRmZFLVRhT3hXTmNCY1pacFVqVkpEaEtFUDlWcUZwWmlKZnY5MGctam53VGxvdGpkenl0ZEtlMkxpNUtldTNRUm4yZGU?oc=5",
-      "source": "TradingView",
-      "published": "Mon, 09 Nov 2026 12:00:26 GMT",
-      "description": "Forget the ETF Outflows: Gold Miners Offer 3X Leverage As Cash Flow Surges TradingView",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
     },
     {
       "title": "Gold Price Prediction For Next 10 Days: Three Dates That Will Decide The Direction - NDTV Profit",
@@ -2025,24 +2232,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold prices are rising in the global market, Spot Gold Hits $4,129 per Ounce - https://www.businesstimes-bd.com/",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KYk5aTjlWRnFZSVdmemhmSUp6Qkk2UUQ3ZGFxQUx6c0VzU2hqcGZ4Ti1IdWlCOUlqZDdtY1hxT1VkX2FMMm90bVJ2MFRMblpLNWs3aDhxTEI2TDg?oc=5",
-      "source": "https://www.businesstimes-bd.com/",
-      "published": "Mon, 09 Nov 2026 06:49:57 GMT",
-      "description": "Gold prices are rising in the global market, Spot Gold Hits $4,129 per Ounce https://www.businesstimes-bd.com/",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold, silver extend gains as softer oil prices ease inflation concerns - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc053cHNiTTd6N0VYamdSTHZFYmJBa0QzcTJEV1NBa2l0MkVJTDVVYnZnWlNFNnFWbF9kbGVsdkdHeXlFR2NRX3haNFpkUzBLcjBwdExIZXc1Q3p0bXJ0cU9aYWpzeXJnUW9FOHJKeDJWSlc5Y2RxQ3NkcjVCZl9HU2pGNndwRHpRaS1kRzUwcjdmaUZuUXE3SEJCYzBhUE9fN0dJc1U3aU14Zk84ejVlczJRTXpVN1ZJd0EzN2hJbF9OSFczVFlYbmpwajZmd3BNazMzVmVwRllCUG_SAeABQVVfeXFMUGwxaVZMbU41MWs5clNoUlVoNnZWU0FEeFF6UFYzS3c3NzBzZkpjd195a25jTnZuaC05YVhXaHVzV0dJWUFtN2ljR0VXeS1QQmtkbUNjS2p6eDkwcUlKdDdNRHI2YnhYRmNKa0ZDd1lOd19lVWd1eW9uOGVpdm5pREpWYXZkRnl2M0ZvM1hRcWt1YUhpWWxfYWZ3alFDYnFrMi1JbklpRjVrc1l0SEd0VjZRUHp0R0lnNnd5U0MxcmMyVE5jS1VMb3hzSXowT014cmpoSDVKanFGVTEya2NQRjU?oc=5",
-      "source": "Business Standard",
-      "published": "Mon, 09 Nov 2026 06:40:43 GMT",
-      "description": "Gold, silver extend gains as softer oil prices ease inflation concerns Business Standard",
-      "category": "macro_factors",
-      "classification": "Gold-Related Economic Factors"
-    },
-    {
       "title": "Gold Futures Rise To Rs 1.44 Lakh/10 Gm On Firm Spot Demand; Silver Futures Rise To Rs 1.88 Lakh Per Kg - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmNMWXVqNEg2S0t0Q0NhWjZaMHBCUVlxM3JpcS1hT2FXU2paak9VMDZkS0JKY25DNmo2engxck8wR1BTTkh0RGp3QWQ0QWxqVE5UMmI2LUFDR1BwYmhZY04ySGNFRnlheEdVNEZsdHlJUE0zMXdMTUxOUExaeXB0WDlnMlMtOHJYVHJVVVhreGVrTkZw0gGaAUFVX3lxTE9xdDZRMFRVX1J2MmI2eF9raTlEZ0dWS090V1V5YjJ1UndPLUZaT1R0Z1BEY041WHgxVE5uUUpfRlVqMlJNbG1XS21FNEdpd3NidUQwbE15aTNsNUcxRDVDNFp0aEptSUNrMjNqdjVSaVN1cVVRdTgwZHo0c1ZubnBaQXgtczRlcndyTFBKUWhPQllMWkRiZVdXa1E?oc=5",
       "source": "ETV Bharat",
@@ -2052,11 +2241,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Futures Rise to Rs 1.44 Lakh/10 gm on Strong Demand - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlh1NGswREFiczREVkJVdnJQbzNEUjBSZElxbkZkYUdFUmpFR1NGSjQwcVdKcEttT2RaNnd4eFJ4WW1uUjdiaTJQRjNYdi05Vkc2V2JxQVlCR2VkYkdKVGRkZUI3OS1wNGtmYXo2S3E4OF9jSk4ydWRtV3VwOC1URVh3LVRCNDkwVzA3SXZCWU4zeTdKYmlta0ZkZmZUNWEtOEZnd2tvTmZ6M1NR0gGyAUFVX3lxTE9lN3lXQ0ptVzhpS29nVlJyajExRWgxVk53Rkt1dG5pUU5WelJvTWxzeV9tTE4xU1ZKV2xRby14SzNYVENkak5GYS0wVGtVeHFBU0c1QnNOekM2dk8yTVFUZlhkYmVjOWx2MzB6Q2RlODhIUXVsblFuelp1NWcwZUcySGFlSDVZZnktV3lkbC1nV1pwUmxGUlUzdGZiQjdVbTMyLTg5WEhaTVFpQy1MUVJhenc?oc=5",
-      "source": "Rediff MoneyWiz",
-      "published": "Mon, 09 Nov 2026 05:56:46 GMT",
-      "description": "Gold Futures Rise to Rs 1.44 Lakh/10 gm on Strong Demand Rediff MoneyWiz",
+      "title": "Gold Futures Rise Rs 1,801 To Rs 1.44 Lakh Per 10 Grams - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmdpLW9jaDktcklvdHlIZEJPdzJ5Ny1Hd21VZlVIbmFfeXhUNGlrc1lFdTJwakF3NjJFenpiRjM5UVJTUWdkenRUcWFORlFuSHl6bkpfVHJTTjctR1FiSWhfbTZNNHA0cVRxQThpVXZNZXBCdnZ3VkRCaEoxNjlHNFR1dDFuT3ZRNXdKWGlEc2k4LXVBZl9lZ2NJdkExejBwTDBieE5FT0ljS1ZsNnNMQVln0gG3AUFVX3lxTFBRQndrV19qQ0V1T2NodmtFUHYwc1hMNjRUMXctb3MtOXBScDRqSGxoN1pEd2ZxNXZQSUdfM3pWdEdyZDRTcEhVWm1uTU5YbkY0ZGxEM2hNMmQ5NzFvLWlQSDBaRWUzNVNXVmx4aVVlSFNsRURfSm1acTFSb3IxYzNhUlIyd01sSnllN2tkRGlLTVFJR3lkQ1dRbUJRdnRrcm9TRDVxZnJZYmlNZkdxNmN1d1RLdnZPZw?oc=5",
+      "source": "Deccan Chronicle",
+      "published": "Mon, 09 Nov 2026 06:00:18 GMT",
+      "description": "Gold Futures Rise Rs 1,801 To Rs 1.44 Lakh Per 10 Grams Deccan Chronicle",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -2106,15 +2295,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Futures Expected To Trade Lower Next Week Amid Volatility In Global Markets - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLRjhWWjktZTdnRTJQUFBkbjVqQTZMYVFvLVBPNVJIUXZiVUExV09zUmFSNXloNHVXazlOVUFmRkdCQzlRWjdsdTdqTDNMY3hkR2hfakZxV3lNOHY1NEEtWHVaUQ?oc=5",
-      "source": "Bernama",
-      "published": "Sun, 08 Nov 2026 06:55:38 GMT",
-      "description": "Gold Futures Expected To Trade Lower Next Week Amid Volatility In Global Markets Bernama",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Central bank buying and ETF inflows support gold demand in Q3 2026 - Prop News Time",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmlIYlJRMGtZbGlLMFFEMExtN3NQeDg2MEJpeVNxQlM4bnhxSkZBWEhjN1lTeFJjTVNvdGJlekNxUnpMYl9DdlBvY2s0cy1KZVNyUjhmSG5DTU1RY3NUemR4YjhIdV84OHlCQ2dHZ3lEMnprYThRaUtxbEhqVTIycmVSaGd3VXB1MkdEV1JFQU9sZENWYXp2NW9ROEVJV2w5SVlrak9sN09VdUtlLWNudWNCbllicnpnU1E?oc=5",
       "source": "Prop News Time",
@@ -2140,15 +2320,6 @@
       "description": "China Boosts Gold Reserves as Prices Fall Briefs Finance",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcU1ZMFpnVFpmTFRyMnBBdWo4cFZOY25kaGFiODEyR21JYUdEeElhVjd1MFBBUlV5UGlSRHVmSGk3d1ZrYm5WenNtQzlfRlBPRmhuNEhsaWFRODBOa3lwOFNwb0VuTXFaVEluRVg3eHBYRjBMdTNOcFhqT3lfcUcxZEROTnAtMW9VMlZOVE9fNlhMN1k2cGdxM0diM0J4Y2FaX1lHdGRqQVZPaGpFck5zZW9zUWtWMTJJbERpSmVqX2g?oc=5",
-      "source": "FXEmpire",
-      "published": "Sat, 07 Nov 2026 06:26:00 GMT",
-      "description": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction FXEmpire",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments - Livemint",
@@ -2212,15 +2383,6 @@
       "description": "Kazakhstan Boosts Gold Reserves With Five-Ton Purchase Caspian Post",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Kitco Commentary: Why Gold Price Charts Don't Tell the Whole Physical Market Story - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1dfTFdTbktSN2lqaVpMTF90a3MtVzFJUENidDdfTTZiOERQNUJsekVaV2R5bjNPVlhuVWpVR2RDR2w1bmNBR09pNll5QlhSLVIzVHRjRDhSYnM1NzdOMEt5UGZ6cTVYRFdXUE9panFUUE1NVUpsYmp6OXpHdzNaby1MaTAxbUpRM3Zxa3JfVkhQMUsxLV90WFVlc1lRQQ?oc=5",
-      "source": "IndexBox",
-      "published": "Fri, 06 Nov 2026 15:44:04 GMT",
-      "description": "Kitco Commentary: Why Gold Price Charts Don't Tell the Whole Physical Market Story - News and Statistics IndexBox",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold Market Commentary: Where Floor Art Thou? - Seeking Alpha",
@@ -2322,29 +2484,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
-      "source": "Investing.com",
-      "published": "Fri, 06 Nov 2026 08:36:57 GMT",
-      "description": "Goldman lowers year-end gold price forecast on hawkish Fed shift Investing.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - StoneX",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjh1ZjVRc3RrcFdLOFhucHZmSERybE5lU3lqdG11SjYwd2ZPRmsxYk1MRlFhbmNtWFhSVXMzTnQ3aW0xTnFxdXFzeUZxcG5NVmxVeXh1RWdrd2VreUdRbS1Mak1vQzdwd3k1Q3FRY1BGaTdWZS02dThNakJpYUNuU0RLN080dTFCUGVhWWg0OFhmYmEyaG45WHFXakcyZTlSa2dLdHAtX2dIR3BpOTVOQ2syN1lRVkxHT2RpWDEzazM1VmJkSkJHX3JIcVY?oc=5",
       "source": "StoneX",
       "published": "Fri, 06 Nov 2026 08:00:00 GMT",
       "description": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data StoneX",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Dhanteras 2026: A 12% demand surge awaits Indian gold market even as prices hit two-week high - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNXBsQUh6bUJ6cldRMFdqeXFnSDZZaFRSdThWc2VGeEVUYnNwMzBHbTlzMHg0TV8xM2lWQk03Y2hXb216U19tbW5BaVpOQ0dQV3BqWDZnMzFHZGo0YnUxWnRYdWVtU0NxS1lKcVNMaVhZTTRKUExmcm90TTNIRVdmTW01THYxeTdRTWhyRVBVNURIOUpQYTBodklxZ0F6V3VRa2d2R3JDNjZaSnFXRFZkb3hscTRXclJOa1d3Wk1LUWZGLUpwalhIWklFWl9VRkJsOHpGeXpFeU5qVFhLdnRrV3BTT0FVbjZuU2lPSTJrdjBWTHVTM2MtMW9PbzJRa0p3aVNPODRUVVRzNTBvZkF3RWdlMWtLNVVtZXFDSW9QUzlZSFJZaVZV0gGsAkFVX3lxTE5zWjBaN2Y3YV90d0pwYjdJV0ttSWw0Y2NCUG1yVXh2SnBIc0dPU0ZBWUhFamstY2dsVFpUWkF6bXFCTlRmU1NXOVJsMUZFdXh5dXRmeERNT2JvNW1vVHd5ZGFEMzRLNkdJZXNXLWlJcjdIWVBMcHRFZFN3aGlrTkNWTFVYOWRraWloZDBFcnZIel9Fa29xeWF0MFJqSE5RZWhva0ZUdUVSbTV0UXpaMU1IYmc1Z2JtQnBqa3JOZTJ2eUdkUXExX1JBeDA4MjkyNGFreXhLT2p1aWdNNkpkeWtBb180NFpnQlhTSGFrZEFfOTFzUndQamtZR0FZWUc4VzBldFcyeDNZZ2pBMFhpUGZlY2ZMT0hxS3B6a0hPV21YZ1JTdG95a0tDNVA1TQ?oc=5",
-      "source": "The Economic Times",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "description": "Dhanteras 2026: A 12% demand surge awaits Indian gold market even as prices hit two-week high The Economic Times",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -2367,15 +2511,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "ZAWYA: Egypt's gold prices rally as global bullion hits two-week high - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkZaRXpQNWJVT2lmazJkRnpvdlRiQmx2M0NubF9jWlB0UEZWaUctVnRCNm5lWFNhUmlZS0llbHVlNnVCM1NybXIwX0hTT0liWkdONk9Wb0RtVTQzTjhRNnlINVhTcnhrVTNwNWk0NkZYTEdKaXVNbnJpMWc0X2RHN2w2eWhTclFCcTFfZGIxSThQTFRxRWY0eXIwWDZ0bHV2VFFfSk1tazg1bTFhQWw3M1A2bmdVRmlnaU9XY01heThnNzd1YU4xbW5TQktxZjUtUjIzb3lOd1Y4X0hX?oc=5",
-      "source": "TradingView",
-      "published": "Fri, 06 Nov 2026 06:24:00 GMT",
-      "description": "ZAWYA: Egypt's gold prices rally as global bullion hits two-week high TradingView",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "India Gold Demand Gets Festive Boost After Price Pullback - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFBoUTVNMERxc1FZRjZJYUZJVkl6UFYtLUtLNzRPZG1TcHZuemppWmxCZ2VjV2dBMEdKZ1ZqbVg1YnV2R2pzZWJ1MjJKeWZvbVZZSXB4dXBxTUpBZlNZTG53MHVCeEcxa2dfWGZ4UVowS1hCaVpodXJxSXVaMXplVHA5Z19PYXJrYmJINXkzcnRmcFozajQwak5BSzJqWDhCWTdpZDgzaVJxdUJp?oc=5",
       "source": "Bloomberg.com",
@@ -2383,15 +2518,6 @@
       "description": "India Gold Demand Gets Festive Boost After Price Pullback Bloomberg.com",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD corrects to near $4,060 amid caution ahead of US NFP data - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGhTWnFEQkJ2TS1VT2JlTUFoeXhhNEhlMjNockhnVHNwOFhmOTl0X1ppa1BkdjNqWnowdGgzeG9rNG1kLThiMHI4a1dXemE2M3AwYWRKR1ZLYTRuV0dfTngzVlhIRFdQbnZERW9ZWUtJSHlCeXVwNFBnbW0yYjZBWjJKZHl5VzAyNXJUSDUwMFhRa3pSd0VPTEE5ZGNKa281MlMwVENJV3RFZUNZU0s1NE80aE5NTk9lU24xdUh3NTNMRExuOWF1M280RQ?oc=5",
-      "source": "FXStreet",
-      "published": "Fri, 06 Nov 2026 03:39:10 GMT",
-      "description": "Gold Price Forecast: XAU/USD corrects to near $4,060 amid caution ahead of US NFP data FXStreet",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold demand in India may fall to a six-year low — Channel NewsAsia - UA.NEWS",
@@ -2421,15 +2547,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold price surges back above $4,000 - Start of a much bigger rally? [Video] - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzJRRzB3WG5YUDFTS0NZSnlXdUdOY2oxMUFycXVnZWhUUE1ZWmt6djBISGpBMlVOTmIwU292Y3c0RGlmNjRXMmxIMHUtSG1tVkIzaXJGZmZxLXA0LXFoREVMQjBnZy16dGRheFkxSVlZdVNTMW1pMnVERm05eWVYckM1WnpBOVFWc0tJd2h0QnppRG52QXVFaFR0TXVnQUd3cmNIUFd3SF9TQ2p6S0ZuMUg2cEhCcTQ?oc=5",
-      "source": "FXStreet",
-      "published": "Thu, 05 Nov 2026 22:02:12 GMT",
-      "description": "Gold price surges back above $4,000 - Start of a much bigger rally? [Video] FXStreet",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "September central bank Gold buying hit highest monthly total of the year - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmpUTUNwRVBxS2xzaW5MUWd6X04wNVp6Z1VoMFNVUDE0MWoyeldvOHF4YXE2NV96UXQ4aVJleUtZekhkSVV3eGFlNXpkR3VhR1RvNU03Y3hXOGZaN1VQeHQ3ZGh0SENvUkMxcU83UTBfcEhCbUlIOU53eWZRTGhjSTZwY29yTXl2ZDFucHh2QkJXQm4tYTZPQ0ZuOGJPb0M4b0YxY1FlR0I5blU4cEtmTzVTZmhSSlJLeHM4?oc=5",
       "source": "FXStreet",
@@ -2457,11 +2574,11 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold Price Today: November 6, 2026 - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5",
-      "source": "Forbes",
-      "published": "Thu, 05 Nov 2026 13:05:00 GMT",
-      "description": "Gold Price Today: November 6, 2026 Forbes",
+      "title": "Gold Futures Rebound, Could Break US$4,100 Barrier - BusinessToday Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblBZS1gyQ2FVM2ZLVEt4OWI4LWZpanhIYmR0T1l0bG82T2s0aVJrTllMa3JmZUM3bDJyWXpyTFNJZjBTczBZX3JpaTI1b2p0YlBZQXQ4MGRMUmhRWFFFWnlZeEM0RTZNeXpRNXYwNEl0RmFjdGpQX1V1ODZsZFpOWEpDUzF2RWNHeUswSGctY3JreF92SWRz?oc=5",
+      "source": "BusinessToday Malaysia",
+      "published": "Thu, 05 Nov 2026 14:32:51 GMT",
+      "description": "Gold Futures Rebound, Could Break US$4,100 Barrier BusinessToday Malaysia",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -2502,6 +2619,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold Futures Rise To Rs 1.45 Lakh/10 Gm On Firm Spot Demand; Silver Futures Decline - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXVzajZDZEdZam1wdXd4aDhXNThwSndpYnVOTUVoLTB4TjM5V3JlQmsxQzF2TnZyZVdhc3h1VlpVZldyREkxTHhYVFFEV2NCV1Q5ZnVKM1NnNVE3V0VjS0NTZHI2OGxza3JrVnFvMGVmQUViQkFRdmZSc2NCOTlNSFR4RzFIOF82TF9scW5IZGdOdkEyUVEwX09kejZpeEpPU3pZQ0FWWGhIUkpySkVjRGRKOWNpOHViSnJjcS1oNEVwYUpEV2h4VmRoMVZpVEVGWTJOOVNvc3kwcVNrR2fSAeMBQVVfeXFMT0JrbVR1YTRzMzByckFFNG5rYjNLSFBLNTdTQzRuc2VPRTFfaU9LRWJjSkNsV1o3Z2QweXlYMFlqV3ZGckZKU2JiSkNPSnloX0lZSVNRaHk0ZEtiSEZiTWtaUWJJWHNVN01Ra2NlQ2lxRnJfeFBwZ19ub201RXdKRkphT0VkdmpyZUVSWTRBZm5CVl9qVnFISzFEWXNtM3BIUGpNaUlubUdrdkpxQTVUdzNuZWhGSUw4R0xpamdTUmdQZU8wUXlrSEl3ZnQ2QjFQZmp2VmJfZ2ppSkpNZ29UYTMycm8?oc=5",
+      "source": "ETV Bharat",
+      "published": "Thu, 05 Nov 2026 06:52:38 GMT",
+      "description": "Gold Futures Rise To Rs 1.45 Lakh/10 Gm On Firm Spot Demand; Silver Futures Decline ETV Bharat",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold futures jump 3% as Treasury yields slide and dollar retreats. - CME Group",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUxVNUsxT3hFTjlCTmVUTnp1d2pBeHY3T2psU2NnXzVfZEtuaFBQUFB1THdyMl9feFk1dWZYR3IxNlhtbGVSOEJZMnJMalNtbFZMZC0wYjdFX1BPTG9DMG5zdW5MWVNxYjRtaXhCNkxzS3k5WjZBQUZIcjllbEtjcW9MbWpHZjgwOUNvWEREcVU0LW8yS0U0VWU1UFNDQW9VYXpwUDlhLUI1QmFtRjRBTw?oc=5",
       "source": "CME Group",
@@ -2516,15 +2642,6 @@
       "source": "www.tokenpost.com",
       "published": "Thu, 05 Nov 2026 04:01:00 GMT",
       "description": "Spot Gold Posts 2% Intraday Gain at $4,141.23 Per Ounce www.tokenpost.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Spot gold may extend gains into $4,188-$4,285 range - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVRHaF9aRFRGMHdDRnFWNEp0NjBpRDA5MnBPdC11MllUZElRTkFWN25QQzd3b05TSGF6UWZXYUV3WXhCOXpSdHFZZEdydzFfVU84aTFfUzYyNWcyUThLRGtITXV4eHVxZlotcV9YTC1nSnZZQTBrOUl3Tm5ybkg1X1IyZXc2TFQ4TUo1em5XT1ZRRXpJWWh3RllDaFI0X3ZpUW04SV9jS1ZEY3IwdWQwb3p1MEtyQjRtV3E4?oc=5",
-      "source": "TradingView",
-      "published": "Thu, 05 Nov 2026 03:08:00 GMT",
-      "description": "Spot gold may extend gains into $4,188-$4,285 range TradingView",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -2556,15 +2673,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "DC Edit | Gold Demand To Hit Multi-Year Low - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3FQT2M1d0NsSnhOak5HcS1WczhVcHU3eXNhc0ZvYmZic0dTcGFYMXlXT0MxdXBOVGR2NTNROU5Tb2tsQUE1VHVfV0RNWnd3WmF2VXdKejBnUF9wd25vZFczVE9WdV9HdG9CTmw1NVJ5S1YwMUZrVlduWVEwdXZ0N1ZrSXhGel8wVDJPd1UyRHc3dTE5Mmt1QW5NZ19pOHEzTFHSAacBQVVfeXFMT1oyV1VSZGJxbkJYem82bVZDazRUb3hBcnpFa0Mzb3oyWkgwRWp0a25aNzBWWUc0d3JvOEtJM0ZVLXFybXc2UnlLeGtHSW94S0V1dURTaFo3UEIyX2VyaUdtRTA3OFJIUlBDdHRUUnFHb3laTGQ1SkVmd21icVNBbEw3bmJVbi03R05YX2RMZmNqTnJmSkNqS21CeF9XTWd3N1M4WV9YYUk?oc=5",
-      "source": "Deccan Chronicle",
-      "published": "Wed, 04 Nov 2026 14:46:13 GMT",
-      "description": "DC Edit | Gold Demand To Hit Multi-Year Low Deccan Chronicle",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
       "title": "Global Central Banks Are Buying Gold. Russia Is Selling More Than Anyone to Cover Its Budget Deficit - UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnpFWXBQLWQtSGk1VlZMdnhyNktWdXhrM0dTVXFZQzBEWldJR3RhVHNhRTRVeWR0b19nRUdMXzk0V2IyTGRscFY5dWd6bFNQM3Y3aWpDV1Z1Z1BibV81ZkJKX0JnUnRxSVN6QnJ5YVN0MHozU1ItcGYtRG5ieUtmLVctVkJwci1IV25YZEZTRjNMckZmQnFBTG81OENib2RDRENTTTA3YTVvNEFuaXA0NnQxMG9ZMmJ0MHRDamRZV0pET2ZqOTNxaU5DeExVZUZPTUJR?oc=5",
       "source": "UNITED24 Media",
@@ -2572,6 +2680,15 @@
       "description": "Global Central Banks Are Buying Gold. Russia Is Selling More Than Anyone to Cover Its Budget Deficit UNITED24 Media",
       "category": "macro_factors",
       "classification": "Gold-Related Economic Factors"
+    },
+    {
+      "title": "Central-bank buying and gold ETF inflows support demand in third quarter - thenational.co.za",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1ZFbmhiaGdCSXQwTnJITUdGUUtjSzVEUjFQZlRUdnZYT253UzUyeGc2a3ZxeXJRUTFhcWRPVi13OUNudnFVQnlEUjNmVkJlT3lqQy1reURnWEViQ2h2Z2RrbEFMQTFZbnhFT2FiMWN2dzdlQndHZEpZdVV6N3duS2NUOVl2U1hBOG5SWXBLRElPb2RseFFaLWRRaURveGh4OTZrQVdkdXRDMk4wb3NFcEc3azBPdw?oc=5",
+      "source": "thenational.co.za",
+      "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+      "description": "Central-bank buying and gold ETF inflows support demand in third quarter thenational.co.za",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
     },
     {
       "title": "Spot Gold Surges Past $4,000 Amid U.S. Midterm Election Impact; GOLD Stock Dividend Profile in Focus - GuruFocus",
@@ -2664,15 +2781,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold Market Primer: Market size and structure - World Gold Council",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUc5VjlWZ19IbEFRR09VV0hXUTRsdDRReGtuc0I2c1JlMFpPSkY4ZEF1QUpuckVGTWE0NUFFZWwydDd3TU9HWFF5ZFdxSzAtWDdvSEVRMHYzc0t4OVp4Zlh1LVNHeVdkSUdEb1ZVb3dWcnJsRjNoenBmcUVVdFBLYl94TFVSd0g5eXFIakh0RG8wVk1BQm9aVkFfSWQ?oc=5",
-      "source": "World Gold Council",
-      "published": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "description": "Gold Market Primer: Market size and structure World Gold Council",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Demand Trends: Q3 2026 - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1dpTkVIeDJNeExyczdrWG5IVjFYZUtTdmNoNWdvVkIzcnVJT0V4RDZfOFc4YXc4bGs1N0hSWUNOTENBTmdFRVM1WWYxX0h5d2NrX3pEUkxBN0NKNmNLYmVrdjc0Wl93V2NCTG1jeGN2SWM1eWYyU0szUXBQYkQtdzNYZEhhMmI3MjBn?oc=5",
       "source": "World Gold Council",
@@ -2680,6 +2788,15 @@
       "description": "Gold Demand Trends: Q3 2026 World Gold Council",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
+    },
+    {
+      "title": "Gold Market Primer: Market size and structure - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUc5VjlWZ19IbEFRR09VV0hXUTRsdDRReGtuc0I2c1JlMFpPSkY4ZEF1QUpuckVGTWE0NUFFZWwydDd3TU9HWFF5ZFdxSzAtWDdvSEVRMHYzc0t4OVp4Zlh1LVNHeVdkSUdEb1ZVb3dWcnJsRjNoenBmcUVVdFBLYl94TFVSd0g5eXFIakh0RG8wVk1BQm9aVkFfSWQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "description": "Gold Market Primer: Market size and structure World Gold Council",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
     },
     {
       "title": "Gold Demand Trends: India Focus Q3 2026 - World Gold Council",
@@ -2718,24 +2835,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "SLV Crashes To Near 52-Week Lows, GLD Falls Pre-Market – World Gold Council Cuts 2026 Gold Investment Forecast By Half - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVldfSWVRN3o5T0NJdHp1cHhvWEZlcWxWZTVhNkozUWx4NmV2VjBJdUVhTmtGR2tJcWRzLTRLQ2w5QWxyVmpnRlVKYmpyUlc1NHNhQ3d1ZXpadEdBdV9EVTFhTGoxWEc2TXhNbmVQSUUtVExsQWo0T0pQYkU5eEhnSmF0R2JkUFpLVXVUQnVFcXNkU0x4YzA3bF9R?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 03 Nov 2026 11:41:50 GMT",
-      "description": "SLV Crashes To Near 52-Week Lows, GLD Falls Pre-Market – World Gold Council Cuts 2026 Gold Investment Forecast By Half Yahoo Finance",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Global gold demand virtually matches historic high in January-September: Report - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVAwdWtwSnpLRTVXbk1LVmZMNFpIOHFudm9Nck40R2QxQVIzb3RKeFIxUENuUUNoNjJHQXNXYWZYTlhfUy01aTZENk11Sjl5WXZYd1BwMW5zNUlzZ2szSlpGeERZdU9MMjdMU0h0YmlDWjhaRnl2ZzBPU2pkMVdzN3JBWnZoUk5FTkdDYVRwX0FsRWNWLUIyWEpXRWxHNElWek1WYnVJbFcwekRkbFNSUkMzLUpXWTBXcV9Z?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "Tue, 03 Nov 2026 07:46:51 GMT",
-      "description": "Global gold demand virtually matches historic high in January-September: Report Anadolu Ajansı",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
       "title": "Gold Futures: Market Correction, Cycle Analysis and Potential Reversal Zones - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjNSYzI3TEtmUWRGZEViMlJtdlVGNkp3aS1XZE1yZEl0M1pfdDFIVG9vRzJWU3kxVUFnU1RQWWd2dDMyMmNlc2RCQWYzbzlqYThUaURZWUNucFBXdy1UdV8xem9kQ0RteVp3Q0MtWHhNNnZUZk9ZbUVCN2RBOEdZcGFJNzhWMGN5Sl94TmRXZ2wzRTYyMGFwVkFVZG1UMTZMaVAzdTlxaHJvX3JzZnQyTXM1SGlRZ1J4bk5j?oc=5",
       "source": "Investing.com",
@@ -2752,15 +2851,6 @@
       "description": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg",
       "category": "macro_factors",
       "classification": "Gold-Related Economic Factors"
-    },
-    {
-      "title": "Gold Futures: A Major Correction or the Final Washout Before Reversal - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2NIZjFFaVVjYWE4V0tWNkVUNldVQWNTM3lHY1N0TERDMHdYekFUOEh1SHpCYkJyQlMtc1dWOGw1b0VDc0FrLUZXSEwzWllFY09aQVliRmJ3anZRYVdZOFp6S0tZbDJKd1lDSnJDRVBJSnJjYWV3WHJpdjhaQjVxdGJ5Q243bkx4S0g3Nk4tQkttSWZaR3JIcGg0Vk9NV1pFdm41ZzVYcUdjMWxIRlRaaWJwMA?oc=5",
-      "source": "Investing.com",
-      "published": "Mon, 02 Nov 2026 07:19:14 GMT",
-      "description": "Gold Futures: A Major Correction or the Final Washout Before Reversal Investing.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? - Morningstar",
@@ -2808,6 +2898,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Intercontinental Exchange launches trading in gold futures in London - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFVJMXhkdnc1S1gwc2IxcHRVbUJWRDRVVWxQeGxMZEhEMjVNTFpsaDltd1pUR2ZMVENlZko5MDB3dVYzc3NRYVc2VmhaeHFIWFFsZmJYWUtUcjViell0RW5FNWZoTWtHLW1ST194b2gyR1g1NkJDXzJsWmY4SFZVMzB5ZEQ?oc=5",
+      "source": "Financial Times",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "description": "Intercontinental Exchange launches trading in gold futures in London Financial Times",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
       "source": "World Gold Council",
@@ -2815,15 +2914,6 @@
       "description": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Intercontinental Exchange launches trading in gold futures in London - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFVJMXhkdnc1S1gwc2IxcHRVbUJWRDRVVWxQeGxMZEhEMjVNTFpsaDltd1pUR2ZMVENlZko5MDB3dVYzc3NRYVc2VmhaeHFIWFFsZmJYWUtUcjViell0RW5FNWZoTWtHLW1ST194b2gyR1g1NkJDXzJsWmY4SFZVMzB5ZEQ?oc=5",
-      "source": "Financial Times",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "description": "Intercontinental Exchange launches trading in gold futures in London Financial Times",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "You asked, we answered: Why are central banks moving their gold reserves | Post by Krishan Gopaul | Insights - World Gold Council",
@@ -2880,15 +2970,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold futures rebounded after testing 200-day moving average. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGxfU0d4cjBRdjlJY19kS1llWW1LQ2Vnc1U3S3dvbTRtcUJ5cjRYWC1ndFFmdzJjdklEMllmdHdGeWhvU2N0V3dCR01YWkNSMjl6MTRDbG9wUkZKSFZZTVJOQU02YXM2Y09sQnhQTFBtUmtLSHFFT2dGQU9TV1BIX0FzdVd5QnVrQ0JsLXBuLUI2RFplVzBIOFBZMHFwQVFxa0ZCai1GWWNRdllnS0dEXw?oc=5",
-      "source": "CME Group",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "description": "Gold futures rebounded after testing 200-day moving average. CME Group",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0diX0NXMU9LM2thenJRM2g2VTN6OF91b2FieHhmWTVpaUZoaWplalc3RmtfR2tjeExNWmVwdGlrNGJ6VDFhYVBLS2NmRGJwSVVLajIxQlRoTG5qSUphMm45UDZ2d0FGSHdfdUVQNEZWNGtSX2NFWXJnUm5uN3dVZjhscWlNRGJrM3dQd1ZXT1VSQTBfQU9YMDA2OWJCUlhFQmtESUFjOG93SFE?oc=5",
       "source": "World Gold Council",
@@ -2907,15 +2988,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold Demand Trends: India Focus Q2 2026 - World Gold Council",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVKWUV3OW1vdkV6TGxiR1BfbjBYMzBmVnI1dDNSdGJhSmQ0dGpiR0I5OXFzMjVpbl9CQ1pkV2Q1Q20wLVBPSnBDY0NCbTFSc1dHX1BxOTlqdG1vZG1haU9SRkhyX0hRZ21iWHFwTlUtRnU2NUN2QzVLSTU4YThsZ1lqWjNQWUd0ZEFMcXN5clFjRElITjl4eXFtRQ?oc=5",
-      "source": "World Gold Council",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "description": "Gold Demand Trends: India Focus Q2 2026 World Gold Council",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
       "title": "Gold market shows resilience as price momentum cools in Q2 - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkxLby11Y3hUd0dyci1CdU9jTmpvS0ZIbVlKZUxYN0xsUXFNaXhRMjVwaW5XN1AxdHR0TlYtR3NQdVRmOUNQS3V6czJod2ZISHVYRVBFVEpLckRJUzMwZlVUNl85VjBCR1BCUGppVmtrNXBBdktYbm42ZU85dWIyTFk4RDRva2JtYlBkWC0zNkp1WloxcjRzX2FlR1d4S3ItS2o2eFBQdw?oc=5",
       "source": "World Gold Council",
@@ -2923,6 +2995,15 @@
       "description": "Gold market shows resilience as price momentum cools in Q2 World Gold Council",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Demand Trends: India Focus Q2 2026 - World Gold Council",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVKWUV3OW1vdkV6TGxiR1BfbjBYMzBmVnI1dDNSdGJhSmQ0dGpiR0I5OXFzMjVpbl9CQ1pkV2Q1Q20wLVBPSnBDY0NCbTFSc1dHX1BxOTlqdG1vZG1haU9SRkhyX0hRZ21iWHFwTlUtRnU2NUN2QzVLSTU4YThsZ1lqWjNQWUd0ZEFMcXN5clFjRElITjl4eXFtRQ?oc=5",
+      "source": "World Gold Council",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "description": "Gold Demand Trends: India Focus Q2 2026 World Gold Council",
+      "category": "supply_demand",
+      "classification": "Gold Supply and Demand"
     },
     {
       "title": "China gold market update: June concludes a divided H1 | Post by Ray Jia | Insights - World Gold Council",
@@ -2997,15 +3078,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights - World Gold Council",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUExajAwZWY2SkxlbThXWE9xOVdMaE0ySDM5bXJBbzQzUXRQeUpPb09YSFpUcnVyOWUweWtDelBlLUJEUi1hOEw5WGxQTkRjV3VlcG9HaGtRODQ0UnZjV2d1ZjdrWEc5Z3k4NkxxeHI4VnMyWGkxcTg5MVc4QUlvbWU5N2ZERzB1YV94VWFMeUZqRVNKOUFhVmNPeUhqQkNP?oc=5",
-      "source": "World Gold Council",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "description": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights World Gold Council",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
       "source": "World Gold Council",
@@ -3041,28 +3113,28 @@
     }
   ],
   "gold_categories": {
-    "direct_gold": 76,
-    "supply_demand": 55,
-    "macro_factors": 3
+    "direct_gold": 73,
+    "supply_demand": 60,
+    "macro_factors": 5
   },
   "report": {
     "summary": "Descriptive research based on public economic and gold news. Classification uses keywords and is not a verified AI judgment. It does not establish causation or predict prices.",
     "observations": [
       {
         "title": "General News",
-        "text": "Collected 209 general news articles."
+        "text": "Collected 213 general news articles."
       },
       {
         "title": "Direct Gold News",
-        "text": "76"
+        "text": "73"
       },
       {
         "title": "Gold Supply and Demand",
-        "text": "55"
+        "text": "60"
       },
       {
         "title": "Gold Economic Factors",
-        "text": "3"
+        "text": "5"
       },
       {
         "title": "World GDP Growth",
