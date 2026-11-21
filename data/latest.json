@@ -1,6 +1,6 @@
 {
   "schema_version": "7.0",
-  "generated_at": "2026-11-21T14:06:40.396354+00:00",
+  "generated_at": "2026-11-21T22:43:48.205851+00:00",
   "timezone": "UTC",
   "data_status": "periodic_public_data_not_live",
   "quality": {
@@ -9,6 +9,42 @@
     "score": 75
   },
   "news": [
+    {
+      "title": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
+      "source": "Kotak Neo",
+      "published": "Sat, 21 Nov 2026 16:04:58 GMT",
+      "description": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+      "source": "Kitco",
+      "published": "Sat, 21 Nov 2026 15:58:11 GMT",
+      "description": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart Kitco",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQklYQS1uSzlZYkU2V1h0RWtFdFd6WXFJS2ViSHpNeUN1N2s3OTdMSkFlNFd4dzR6cDZ1dUloTjR5LTFaa2tKbEdrT1RaS18xbEN0Q3hQT0VNT0o2OWxmTzhCYWhBWEJrV0dIZ0VuSW9qLTkyLW1xcENzYWVPaElWbE5zV0VyeWFLOUFPMFRUZHdGSlVFa1VHWE8tSmJ1RS1HYjFIOHNJNkVSZkcwelpjWlViNjRfLWxLYnk3ODBpcTRIVGtjempUZ2I1ejBtX0djVks00gHfAUFVX3lxTE9VaE1MdmpROExJM292VnA0a2xIVmhnTHpKS2dha2pIdmJkMmlGQTNEQnVvMEpPMEt6eFZLczhFTkVtTzBPeFBzZHRsVWE0dEhjNXpqd1dFV3hQaE9oMDRxSk0ycGRtSmdKTVcyMTBzM012c3RnVENlRFBPei0tbURvNlFLSkw0ZWVzZ0FDbV9uN08xSE1KNkxvSDlRMDdmaXV2UGN3TlY0aG5STHRWemFxbVlVU1hoUDRGU2RaelBYaEFCQThqTmRaRFZwTldXb0pSdGtzU1hrYzBVLWdpMXM?oc=5",
+      "source": "FOREX.com",
+      "published": "Sat, 21 Nov 2026 15:06:42 GMT",
+      "description": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March FOREX.com",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Could Resource Expansion Make Cabral Gold (TSXV:CBR) A Gold Market Standout? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWTJ1bWthaDEzVUFFQlBTLW5oWEtocXpRekZ5MzNWdUdNSndVV3pvVWRDa0p0S0hpOHlkbGFFTzlSbUpld1I0ZnVMQkFuV0g5MlY2ME1HX3JpUTF6bFQ1eHY0VnVBaVAxWjRqeElqbWhXbTBvdkxzRmQ0LUhPbWdNeWoyWGZzUmNyXzFFN2NiWEpaS1hYLWFwM29EUnloTWYxZUIwTk5TaUdnNXBPN3FvS25R?oc=5",
+      "source": "Kalkine Media",
+      "published": "Sat, 21 Nov 2026 14:43:00 GMT",
+      "description": "Could Resource Expansion Make Cabral Gold (TSXV:CBR) A Gold Market Standout? Kalkine Media",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
     {
       "title": "Gold Market Weekly ( Technicals) : Dare to Catch a Falling Knife? - The Dark Side Of The Boom",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ENGxYNGRJeFpUMG02WnhlUktCVmZYNUxxckxOam4zcUlSMnZpZUZ1YjFzb2tGN1c1UzVtbk9iYk1KOHFHOTl6UVFTc1JiWUdFQVFmcnlrRFN0MmgwWGtSb2hIejREUGRFNE1nRXhfbXJEZEs4bUxvY0l4dDE3bVpDSWs?oc=5",
@@ -19,47 +55,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold price falls by Tk 84,855 since January - New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenpkc0dBODBKQzFTUTBCRzlHTmYyRTR0ZDRfTzhUd0RuQlJjcDIwcW96LVBjTXBvSmRwcTJkT3NKTTN6cFVMNjRpSldmVll6bW5HdzhHWjhDX3B5UE40YVoycDlVamdWVmNCenRnOWMtUVNIYTV2R1ZYdzhnWDZmUHlZb01EdVJYejVtSEpfNWNZN2tjbU1JMURycFk?oc=5",
-      "source": "New Age BD",
-      "published": "Sat, 21 Nov 2026 10:57:00 GMT",
-      "description": "Gold price falls by Tk 84,855 since January New Age BD",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
-      "source": "Kotak Neo",
-      "published": "Sat, 21 Nov 2026 09:01:46 GMT",
-      "description": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year - NAI500",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1N6S2EtcjE3aDYxbFNlMUJpamZHYXVUTl81RW1tOC1rdDdBTGJSdTd0TjZDQTJuMWhqOTV4SEQzcWhuU0w5VmMwaE9oVS1leFpqbHgyaXJWREhEWHk0RVJmX3QzNTdzSWZhYm5mVDZ3Ry1LUXAzLVdHZTRId0RjU045UHR5Y3ljck5rbVJselNMU283NllEbjlneFhqM3hlaEZnSHZsazY1T0VvSnc?oc=5",
       "source": "NAI500",
       "published": "Sat, 21 Nov 2026 08:02:52 GMT",
       "description": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year NAI500",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Golden lessons from past gold price fluctuations amid current gold price crash — 32% down from its peak in 2026 - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNjFXZzBDN1lUTHVya3pjSF8tZzBwUzE5dURNbkF1WlFLc3FWcndleC1DcU5hZ1ByYXFfc1hoNU1mZHBpT0FmVy0zVElYdjRsY0Q0Q0pVdmNkYkRRUlVJSlhieTlTTG85TXVYTXpiU1U3LWVYM2NDY3JtOWtYbXI5dnhFSktnMzhRUmZmbkI5QnJDZ3VCbnZoaVo1RGpndjlRTEZRYU4ybnlXTzNnWk5KdmVWemtOR2lQTWYwR0tnVDBUckJveVlaUHZpcnBVdUxSQjhEbXgzNjg4cHJ1YXdtMlFTWW5Nc18wVGNjUm55cjMxTnBCR2owQl9VMmNXSUZ5eS1MdFN4RdIBjAJBVV95cUxOX090bFEyYmhYUG5tUzcxWWlYTldMRno0RkFzeTRya1QtTXhXckV1TGVRb2trSHY3WEdoMmhaWk0wVEs2Q1cwd0Q0Q2czOHhDYUUxTXZxeUJwNGg1QVBsY1RwdDFhSG9kRlNJb3VNeGpETlY3cUNidTVYT0cyTklZQ3RYTlhFRmtWNTlCcnVVZWFxWjVZMWZ5WUlSVHNCMkpXRFAyTmM4WHE1a0g0a1NSa0pUcjczM1VCYlJKRjJJMnBTY1o5SGdpUk00aTlwVjBUWVBHZGhubXdCNmxpcXJVLWZTU2otLW42dFJoNEhBa2pBZXFpQmZwczdCQndOM0FxaWVQLTV3b0VEVVo3?oc=5",
-      "source": "Livemint",
-      "published": "Sat, 21 Nov 2026 07:29:41 GMT",
-      "description": "Golden lessons from past gold price fluctuations amid current gold price crash — 32% down from its peak in 2026 Livemint",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Global Gold Price Falls Below $3,550; Chinese Brands Cut Per-Gram Prices of Pure Gold Jewelry by More Than 20 Yuan - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTenBVV3U2cW5Fa3Nta1VwcTlqdEJ2dzNZdjRvNGNWWUR6YmN1bWFRb1I2RHZfbHlPUWpjX1N2QjdscmliZWZqYWxobUNGN2lNSVFGcDVkWU8wQjFTX2YwUExHMkhJQUUwaVhOTS1CSC1VZE5CaXc?oc=5",
-      "source": "BigGo Finance",
-      "published": "Sat, 21 Nov 2026 06:55:00 GMT",
-      "description": "Global Gold Price Falls Below $3,550; Chinese Brands Cut Per-Gram Prices of Pure Gold Jewelry by More Than 20 Yuan BigGo Finance",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -91,24 +91,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold price fall nears $3,500: cost and capex pressures for mine planners - Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmc0NklkLXVFcFkzMzQ2RGRqMjdSTk1QNk0wZDhIWVN0TnJEVnlUaWlieXpDU1lGb21aQjJTaVB2aHpzcG16Q0xLYVRJVW5icVdvNW91M0JXMWRaM3JEQm9IcTAwbEw0M19wVjhhcTB4Vk9ab0dUekllb0FEcUMyUkNvY1ktN19yNEgwb25DTEFLUzFoc2F6X3ZfQnAxYWs0d3ljSTFjZHpWWXdPWWlj?oc=5",
-      "source": "Geomechanics.io",
-      "published": "Sat, 21 Nov 2026 00:01:39 GMT",
-      "description": "Gold price fall nears $3,500: cost and capex pressures for mine planners Geomechanics.io",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold price fall nears $3,500 as miners face soaring costs - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTBKNGdIMDJlUk1JZ3E1dm1pOEtVZmVuT3l5UmRYaHhXMVZVQXdCMlhDVmpYc0FwXzdydlBlMFZDeV9XS2lndUoyaFc1TE5DaXN6T09zTTJNSVgxZVRGbHdMS3dLZnJadlRLdlBDTzRwSlU4VUFwV09ZV2dLdk5LUHhzNHRNSjg?oc=5",
-      "source": "Mining.com",
-      "published": "Fri, 20 Nov 2026 23:50:45 GMT",
-      "description": "Gold price fall nears $3,500 as miners face soaring costs Mining.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Federal Reserve announces College Fed Challenge winners",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
       "source": "Federal Reserve",
@@ -135,15 +117,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97% - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUFSQ1BqTTJFVk9QLWhaTlMzaEFLZ3ljUlo0X1RFODhsZnFTQkFEX0VWaVRnM3VYa0MxbHdsRlhOQTBJaEo0akFXVWF0UkNwUzBsZzdJaHkxcXYydzcxRndDZVEzOExaUk1RaHFEZkFtNzd2MWVsU1R5SlVyLTlIVkM2MlAzbFRGOGczSXZHb2ZQejVJVzJSUmNxS092UkE?oc=5",
-      "source": "Investing.com",
-      "published": "Fri, 20 Nov 2026 20:05:40 GMT",
-      "description": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97% Investing.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970 - BullionVault",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
       "source": "BullionVault",
@@ -153,13 +126,13 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Miners Slump Toward Yearly Lows as Bullion Breaks Below $3,600 - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUTdoRVZkTnJlMXRIMHdsVmxIY3Vid2pUajZHNmtGd0NWRndCVFRWMThROE9JazNQblVaRmtVMDRSOFlhN0JlN1J4OW1yS0o2aHZYWHFUTjBoM3N4X0lKcGoybVdrSmZoZ1U1WGEzVWh4ODk3eUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "Fri, 20 Nov 2026 16:25:00 GMT",
-      "description": "Gold Miners Slump Toward Yearly Lows as Bullion Breaks Below $3,600 BigGo Finance",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
+      "title": "Gold's slide deepens as AI rout, rate hike bets hurt bullion - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTThwVlFEZElBdUI1bnlXSFNEaUp1NTZrSm9JdThSQkg1QkR3dHB4X2hzOExqMFdvcHpYTTE3N1VxRk8yVFZrMzl1TnR2SC1DUGZuTDhFcXRqN0VITjg4enJxWUlZRDhEU1hqWGs5YWdTOS1KUV9CckpvdE5LbklpVUpkeTM4ZkZSUHg0WEV4eXR4ajJzT1gtUHpYaG0wdEY4RHp0R2ZjQlhNclQ5Y2ZkUEh0TlduMVhGVnJwaC03Tjh5cmF6MWdvNg?oc=5",
+      "source": "TradingView",
+      "published": "Fri, 20 Nov 2026 17:33:39 GMT",
+      "description": "Gold's slide deepens as AI rout, rate hike bets hurt bullion TradingView",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
     },
     {
       "title": "Pacific Precious Metals Announces In-Person Gold Bullion Buying Options Across the San Francisco Bay Area - Benzinga",
@@ -251,24 +224,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Why is gold price going down? - The National",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkJrWmdweXdyOEVkbmZZNWJKZHFndTF5dkxoOTlVRTR6eU1fWVI5YW9lR3kzdmo0aUNRbzZPUTVWLXNTMm1CNUhvRFluQ1ZBaVZLZnhldW1jblI1RDREaXYxZVhSWUYyU2RYd0J5Z3hRNTBDZ0k2UlZjbjVHdDhzY25HOGhFb0JCYmxiZ3Vrclk?oc=5",
-      "source": "The National",
-      "published": "Fri, 20 Nov 2026 09:08:33 GMT",
-      "description": "Why is gold price going down? The National",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "World gold price today, November 20th: Slump sinks gold market - Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEtnUk9nWW11VzhOTWNORnVlc1c2cUhJMjYtUFAxRFUtRHN0WEVva1JzUDZhcXBkYmoyalJ3VnFuWkF4TE12NXBBa2RyQWhETHNVdTJ6UnVpRmNqa2tvSTEzNWRUR25jaXhEZzJqZFo3bjBTbjMtSGdnYk15bnhGdFVyaXNlVTRhUy1XcFVIME5GdWpqbDR6amNlMzZjckFZbjc2NXdjN05DOHFtdHdvU2syT3Y?oc=5",
-      "source": "Laodong.vn",
-      "published": "Fri, 20 Nov 2026 09:01:23 GMT",
-      "description": "World gold price today, November 20th: Slump sinks gold market Laodong.vn",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Christine Lagarde: Acting in time",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
       "source": "European Central Bank",
@@ -277,20 +232,20 @@
       "category": "general"
     },
     {
-      "title": "Trending Stocks Today, November 20, 2026: PC Jeweller, Tata Gold ETF, Vodafone Idea, Nippon India ETF Gold BeES - HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzhLdnU4aHJNMHFxWHVPWFkxcWdaR0pQeVA5ZmRKMUxxSjlNZVBqTnljMWZwSDVIM1JqMUZmWkRIci10TnZuQlltOThDN2pLN3dUYWNqWVFKOGhDcmNIcF9hbG5OXy1CbXBYTGFDNWRJa21abzREcGRGaF9jcC1DQ2lsV2VYaHU2Qk90VXNIbWc0ZXQ5a29DdkxPcFZjcXdtM0tNZlc2MlFJbHJJRmtVZmpoQ2FBSjYtdkpiX3Vjd2NtU2l3WU5LNGpR?oc=5",
-      "source": "HDFC Sky",
-      "published": "Fri, 20 Nov 2026 07:01:28 GMT",
-      "description": "Trending Stocks Today, November 20, 2026: PC Jeweller, Tata Gold ETF, Vodafone Idea, Nippon India ETF Gold BeES HDFC Sky",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
+      "title": "Gold Futures Decline to Rs 1.22 Lakh Amid Weak Demand - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3pTbkNGQ2d5c2NoY2t4cXFIVGpISkxpTmJ4ZlNkSC1kdnhNYUZZRkNuNm9iN0ZxZWhueTgzVDZMZmFEdzZGY2JKY243RFhxZ19SSnRES0h6eWE5THpoTF9SdGxGWWR0c2ZZaGRUT0FOUmd2UFNOM0Y5SWpMNnFCNXhSVndNSjVVNm01aEZEUWQyTXZmTVFLVzRzT3NROTdFeVZqeDFGcFPSAa4BQVVfeXFMTVIxLXVnd0dFbjJPcHV4dUktcFRvc2lOdUstTjNCZXJURGt3WlhTM3pZNElVdGRoZXZQR29sek9feGNtaEQ4VlRLV3FGX1gwOGtjLWdsVzE4UDc5MEo1akR1QmJvWmtXcEVGdUZHN2EzdGg2d2ZidGpmeHdwQWxoejR4MDBScDM5ZkhLeDhoTV96UkY5OHZhcy1oQXJvdnNZYlQwT29YaDBLUEZfdUFR?oc=5",
+      "source": "Rediff MoneyWiz",
+      "published": "Fri, 20 Nov 2026 07:55:58 GMT",
+      "description": "Gold Futures Decline to Rs 1.22 Lakh Amid Weak Demand Rediff MoneyWiz",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
     },
     {
-      "title": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week - South China Morning Post",
+      "title": "Anthropic’s IPO, gold price drops: 5 figures investors are watching this week - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzhyY19Vc3pUVmpPSlRGcDNQNklTdnFBaGdUaXh5cXpHU3ZFakpLT2tVYWxNTjR2TW85YTR5eFFBeWc2bVFvWUxpZVBzclUwMUJWZHllZkhpb29rYmFidkhTcmdTT2JnX2ZOUUNjNk5rWEVZZXVDNW1PVWtGcW9WbENSYThZcjZHVXpFdXRvcmR2RnI2aHowV3NNendoeU1DaUlDaGdnZ3Bwd2RpclNSYlFaXzFtZjNCT3ZZSFlVNTZwRGdQQ0NCYlZvY1pTMjQ2M0E?oc=5",
       "source": "South China Morning Post",
       "published": "Fri, 20 Nov 2026 07:00:10 GMT",
-      "description": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week South China Morning Post",
+      "description": "Anthropic’s IPO, gold price drops: 5 figures investors are watching this week South China Morning Post",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -331,6 +286,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 20, 2026 - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnJEWDhYYVB5NjVIT252bTZRN2RXOEF2VEJVSHZVcFNGdVhpUXc0emRXb1A1QlF4V1R4RjFYbmJuRDQ5QXd0ZTE0NXQ0TEhKbTk0bTI3Z2lMZ0RVOWY1UE5MTUw0RnVLUi1fdzVzVFNKcGRQZWh5aU1tMm9vdHN2YUxYbll6ZXNHSW9xeUtmd0x0T2ljUUxZ?oc=5",
+      "source": "Mitrade",
+      "published": "Fri, 20 Nov 2026 04:07:54 GMT",
+      "description": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 20, 2026 Mitrade",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Spot gold may fall into $3,442-$3,474 range - TradingView",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmVVTVZTbE04T0pOR2VMc0w3TmtBWk1XUGpRTVRWa1UxTHU5c0IwMXlhejFMN1ZkTjI0aGRYalg1STdWN2x4bGhQcnJrZTlMZmJKNHRUS3ZKbWtfTUlmdUJHcU1Zd3RwcUxzc0pmOHVDU0ZMaWlreHFfYTluOEpUMEZ0ejJPaTZHZUxKT0FEaDRpY2ZJQ19Uc1FxYWJkVnFHWWV1TjJHZE0tLVBaZ2gzWA?oc=5",
       "source": "TradingView",
@@ -358,11 +322,29 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Perseus Mining CEO Craig Jones: ‘High gold price makes acquisitions more complex’ - The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFFSb0tBYzlXaHVKMFIwWDdpdzV2T3BfNTZoNFFEcFRwRThtaE1UbzAwX3pfLUhJY3BTRXBYSm9rXzRWZG1SdFNJbWo4VmZSRk9kaXhrVFRKWGRXNm1iVFFuM1lmVERXRWkwNWkyMHB5RThSUVpILWMxdlJMNkszbUtZT0JUMUdEVXQweVVTSW96QnhENHdnVGNYc3Q5QkhnaDJQcnh0VEtxMXBIUlpMcnlCZHpvcTJtYkE?oc=5",
+      "source": "The Africa Report",
+      "published": "Fri, 20 Nov 2026 01:01:07 GMT",
+      "description": "Perseus Mining CEO Craig Jones: ‘High gold price makes acquisitions more complex’ The Africa Report",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
       "source": "Investing News Network",
       "published": "Thu, 19 Nov 2026 20:50:00 GMT",
       "description": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar Investing News Network",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Analysis: Why Does XAU/USD Keep Losing Ground? - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlhCYUlDbkM2Um9SQ0s2U0lfRzBnenlsYTlwcnRvWllrYU1SRUpPZE9mQjBsTzlCcTFQV3QzRW1SMXdOOHgwN2Y2NFpQX2w4dWQ4b0ZaTzYtSGRmR2Nac1A5RmdMMXpLb1pPYkdtNDhSOWJoODhRRXhuV0RrRkktbVd5LTdfT2N1MFFOZ1pJanBoUVN5VmNpTzVIQ1E?oc=5",
+      "source": "FOREX.com",
+      "published": "Thu, 19 Nov 2026 17:11:58 GMT",
+      "description": "Gold Analysis: Why Does XAU/USD Keep Losing Ground? FOREX.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -402,6 +384,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold Price Today: November 19, 2026 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5",
+      "source": "Forbes",
+      "published": "Thu, 19 Nov 2026 13:01:00 GMT",
+      "description": "Gold Price Today: November 19, 2026 Forbes",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaG9pRFQ5emN4TkZLd3VWNGIxSFh4cTc4SGM5djlKUF9NelBPdTg0cXhwVVpLZk9NSDI0ZzdnVkl3WUo3SVRvYWM3Qk5Id3gzX2dmSF9UQmdCS2RFQ0s5clhUNFBUX1ZFWFMzdUk0ZVcwX1hpZlBoX1lucjZIYzVCaW14QU1TTGpseFdXc2U5eFF4Um1RYW9Gb056MDhya2xpa25POEtNeXpxRzA5LXhxS213b0I2Y3MwOEw5NUF2MlZpY2ZidXpMa0NyTlN2RWllY2h2d1ZPcEE2VmZwUlZDQWVFNDJDZDRNcDNEcllHYzY4UGo3NzRkYXZjY0lzbFk?oc=5",
       "source": "Yahoo Finance",
@@ -417,6 +408,15 @@
       "published": "Thu, 19 Nov 2026 08:00:00 Z",
       "description": "UK’s financial regulators are proposing a new guidance to help financial services firms prepare for and recover from cyber incidents as threats grow.",
       "category": "general"
+    },
+    {
+      "title": "Niger targets gold market, higher revenue with Russian partnership - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYU9XOFdNY3NDS3ZTQzNqRVU4cG1vV2F5YXhJSFh6QzR0Uk9aUG9iSW1WU2JjMHNRTER5WllJVUdScFdSSHMyb3NncGpaMm9xTUN3M0VFcjJTUGY1eE00SHVzYTkwUkFMYWdKZzByM19BdVI2LU01YVRqcl9rUkpLRUhLdjU5dXdGdjljQm00cHBOV3hNQnlMMUNhZlpWNEhfSFhhSg?oc=5",
+      "source": "Business News Nigeria",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "description": "Niger targets gold market, higher revenue with Russian partnership Business News Nigeria",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
     },
     {
       "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
@@ -604,6 +604,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold futures rise Rs 171 to Rs 1.34 lakh/10 grams - The Shillong Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkJMaXdJSVdJcFR2cGtBVUVxQ2ZFcWNPZk9qckR1cjZaV0w1cUt3YU5ZaG13YXdndnM2WUQ4YlZ6eFJPSHRFdXQxdHVtTkRuRmw3QTdEczVoTnNCcU1YQWFLeFFLTkw0ckN1a0ZfTFNrcWxGN1c3cVREYmhoTDFITkNLYVlvXzh2WGM0ZjRnS2Zzdl9w?oc=5",
+      "source": "The Shillong Times",
+      "published": "Wed, 18 Nov 2026 01:08:43 GMT",
+      "description": "Gold futures rise Rs 171 to Rs 1.34 lakh/10 grams The Shillong Times",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "India Gold Demand Holds Up as Prices Fall; ETFs Log Fifth Straight Month of Inflows - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdi1LNmVYOU9DQXlQWmJjdkZHVXdGVzVZNVJwY3YxRndHQjRXa1JHUVdFdEJ6dzRlUHNtMlZZODVDaThZLW1nLWN5bnR4emJyU3hwb05NVG0ya1JHWlhtQjZmRWJYSnhEOWZYX3RPWkIxMWdVSjBOQVJTYTd4UUNsQ3gxSXktYXA2SHktNkp6clRaeVRTdEhqWDdR?oc=5",
       "source": "IndexBox",
@@ -689,15 +698,6 @@
       "published": "Mon, 16 Nov 2026 09:30:00 +0100",
       "description": "",
       "category": "general"
-    },
-    {
-      "title": "Higher Grades Lift Aris Mining’s Segovia Gold Reserves to 1.9 Million Ounces - Finance Colombia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3JvVGkxckw1d3dwNTVIb1o4b2hOdThtOFFDV3lnTW1nTjhLNVNTWExGQ1VMck1hZFhXSUN4UjlzMnliYW1udGhzQXBuNVl2TVJvNVVVaC1BSG03bk1yU1g2V21ZSmdFYlBIdFJHdHdUQXdVNi1uZE5yQjh2anVWbTFIME5aYXQ1Ylk5OUJPTFRmZ1JlbmQ0dzRTekdidHAtUEkxUEpKTy1mTWh4?oc=5",
-      "source": "Finance Colombia",
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "Higher Grades Lift Aris Mining’s Segovia Gold Reserves to 1.9 Million Ounces Finance Colombia",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
     },
     {
       "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 13.11.26: Gold Faces Renewed Pressure as US Inflation Reinforces Interest Rate Expectations - Get the Word Out",
@@ -1429,24 +1429,6 @@
       "classification": "Gold Supply and Demand"
     },
     {
-      "title": "Gold futures hit May highs as fiscal concerns offset yields. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1E5YmRFYmwtbFdRVVFLN1RseVZGWUZpXzlwenNSNEI5LTY4c2d4c0VvUkh5aGY4cktNbklCSUpWTl94Vm1XY0JpTGhfdFhiR2F0OXpWbTFwMTd0cHFSMm12RzNQSk9jUnBkdVd5bUpqVFNpM2xUc2I4WDdmRGczOHhtVzdJMHdsM2ZkMjE2dWRZX3JodktjbWFqOVYtX1RwNjZ3QWRYZjNOUjZFWnhySQ?oc=5",
-      "source": "CME Group",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "description": "Gold futures hit May highs as fiscal concerns offset yields. CME Group",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold futures rebounded after testing 200-day moving average. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGxfU0d4cjBRdjlJY19kS1llWW1LQ2Vnc1U3S3dvbTRtcUJ5cjRYWC1ndFFmdzJjdklEMllmdHdGeWhvU2N0V3dCR01YWkNSMjl6MTRDbG9wUkZKSFZZTVJOQU02YXM2Y09sQnhQTFBtUmtLSHFFT2dGQU9TV1BIX0FzdVd5QnVrQ0JsLXBuLUI2RFplVzBIOFBZMHFwQVFxa0ZCai1GWWNRdllnS0dEXw?oc=5",
-      "source": "CME Group",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "description": "Gold futures rebounded after testing 200-day moving average. CME Group",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights - World Gold Council",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0diX0NXMU9LM2thenJRM2g2VTN6OF91b2FieHhmWTVpaUZoaWplalc3RmtfR2tjeExNWmVwdGlrNGJ6VDFhYVBLS2NmRGJwSVVLajIxQlRoTG5qSUphMm45UDZ2d0FGSHdfdUVQNEZWNGtSX2NFWXJnUm5uN3dVZjhscWlNRGJrM3dQd1ZXT1VSQTBfQU9YMDA2OWJCUlhFQmtESUFjOG93SFE?oc=5",
       "source": "World Gold Council",
@@ -1701,6 +1683,42 @@
   ],
   "gold_news": [
     {
+      "title": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
+      "source": "Kotak Neo",
+      "published": "Sat, 21 Nov 2026 16:04:58 GMT",
+      "description": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+      "source": "Kitco",
+      "published": "Sat, 21 Nov 2026 15:58:11 GMT",
+      "description": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart Kitco",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQklYQS1uSzlZYkU2V1h0RWtFdFd6WXFJS2ViSHpNeUN1N2s3OTdMSkFlNFd4dzR6cDZ1dUloTjR5LTFaa2tKbEdrT1RaS18xbEN0Q3hQT0VNT0o2OWxmTzhCYWhBWEJrV0dIZ0VuSW9qLTkyLW1xcENzYWVPaElWbE5zV0VyeWFLOUFPMFRUZHdGSlVFa1VHWE8tSmJ1RS1HYjFIOHNJNkVSZkcwelpjWlViNjRfLWxLYnk3ODBpcTRIVGtjempUZ2I1ejBtX0djVks00gHfAUFVX3lxTE9VaE1MdmpROExJM292VnA0a2xIVmhnTHpKS2dha2pIdmJkMmlGQTNEQnVvMEpPMEt6eFZLczhFTkVtTzBPeFBzZHRsVWE0dEhjNXpqd1dFV3hQaE9oMDRxSk0ycGRtSmdKTVcyMTBzM012c3RnVENlRFBPei0tbURvNlFLSkw0ZWVzZ0FDbV9uN08xSE1KNkxvSDlRMDdmaXV2UGN3TlY0aG5STHRWemFxbVlVU1hoUDRGU2RaelBYaEFCQThqTmRaRFZwTldXb0pSdGtzU1hrYzBVLWdpMXM?oc=5",
+      "source": "FOREX.com",
+      "published": "Sat, 21 Nov 2026 15:06:42 GMT",
+      "description": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March FOREX.com",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Could Resource Expansion Make Cabral Gold (TSXV:CBR) A Gold Market Standout? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWTJ1bWthaDEzVUFFQlBTLW5oWEtocXpRekZ5MzNWdUdNSndVV3pvVWRDa0p0S0hpOHlkbGFFTzlSbUpld1I0ZnVMQkFuV0g5MlY2ME1HX3JpUTF6bFQ1eHY0VnVBaVAxWjRqeElqbWhXbTBvdkxzRmQ0LUhPbWdNeWoyWGZzUmNyXzFFN2NiWEpaS1hYLWFwM29EUnloTWYxZUIwTk5TaUdnNXBPN3FvS25R?oc=5",
+      "source": "Kalkine Media",
+      "published": "Sat, 21 Nov 2026 14:43:00 GMT",
+      "description": "Could Resource Expansion Make Cabral Gold (TSXV:CBR) A Gold Market Standout? Kalkine Media",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold Market Weekly ( Technicals) : Dare to Catch a Falling Knife? - The Dark Side Of The Boom",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ENGxYNGRJeFpUMG02WnhlUktCVmZYNUxxckxOam4zcUlSMnZpZUZ1YjFzb2tGN1c1UzVtbk9iYk1KOHFHOTl6UVFTc1JiWUdFQVFmcnlrRFN0MmgwWGtSb2hIejREUGRFNE1nRXhfbXJEZEs4bUxvY0l4dDE3bVpDSWs?oc=5",
       "source": "The Dark Side Of The Boom",
@@ -1710,47 +1728,11 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold price falls by Tk 84,855 since January - New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenpkc0dBODBKQzFTUTBCRzlHTmYyRTR0ZDRfTzhUd0RuQlJjcDIwcW96LVBjTXBvSmRwcTJkT3NKTTN6cFVMNjRpSldmVll6bW5HdzhHWjhDX3B5UE40YVoycDlVamdWVmNCenRnOWMtUVNIYTV2R1ZYdzhnWDZmUHlZb01EdVJYejVtSEpfNWNZN2tjbU1JMURycFk?oc=5",
-      "source": "New Age BD",
-      "published": "Sat, 21 Nov 2026 10:57:00 GMT",
-      "description": "Gold price falls by Tk 84,855 since January New Age BD",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
-      "source": "Kotak Neo",
-      "published": "Sat, 21 Nov 2026 09:01:46 GMT",
-      "description": "Gold Rate Today in India, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year - NAI500",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1N6S2EtcjE3aDYxbFNlMUJpamZHYXVUTl81RW1tOC1rdDdBTGJSdTd0TjZDQTJuMWhqOTV4SEQzcWhuU0w5VmMwaE9oVS1leFpqbHgyaXJWREhEWHk0RVJmX3QzNTdzSWZhYm5mVDZ3Ry1LUXAzLVdHZTRId0RjU045UHR5Y3ljck5rbVJselNMU283NllEbjlneFhqM3hlaEZnSHZsazY1T0VvSnc?oc=5",
       "source": "NAI500",
       "published": "Sat, 21 Nov 2026 08:02:52 GMT",
       "description": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year NAI500",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Golden lessons from past gold price fluctuations amid current gold price crash — 32% down from its peak in 2026 - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNjFXZzBDN1lUTHVya3pjSF8tZzBwUzE5dURNbkF1WlFLc3FWcndleC1DcU5hZ1ByYXFfc1hoNU1mZHBpT0FmVy0zVElYdjRsY0Q0Q0pVdmNkYkRRUlVJSlhieTlTTG85TXVYTXpiU1U3LWVYM2NDY3JtOWtYbXI5dnhFSktnMzhRUmZmbkI5QnJDZ3VCbnZoaVo1RGpndjlRTEZRYU4ybnlXTzNnWk5KdmVWemtOR2lQTWYwR0tnVDBUckJveVlaUHZpcnBVdUxSQjhEbXgzNjg4cHJ1YXdtMlFTWW5Nc18wVGNjUm55cjMxTnBCR2owQl9VMmNXSUZ5eS1MdFN4RdIBjAJBVV95cUxOX090bFEyYmhYUG5tUzcxWWlYTldMRno0RkFzeTRya1QtTXhXckV1TGVRb2trSHY3WEdoMmhaWk0wVEs2Q1cwd0Q0Q2czOHhDYUUxTXZxeUJwNGg1QVBsY1RwdDFhSG9kRlNJb3VNeGpETlY3cUNidTVYT0cyTklZQ3RYTlhFRmtWNTlCcnVVZWFxWjVZMWZ5WUlSVHNCMkpXRFAyTmM4WHE1a0g0a1NSa0pUcjczM1VCYlJKRjJJMnBTY1o5SGdpUk00aTlwVjBUWVBHZGhubXdCNmxpcXJVLWZTU2otLW42dFJoNEhBa2pBZXFpQmZwczdCQndOM0FxaWVQLTV3b0VEVVo3?oc=5",
-      "source": "Livemint",
-      "published": "Sat, 21 Nov 2026 07:29:41 GMT",
-      "description": "Golden lessons from past gold price fluctuations amid current gold price crash — 32% down from its peak in 2026 Livemint",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Global Gold Price Falls Below $3,550; Chinese Brands Cut Per-Gram Prices of Pure Gold Jewelry by More Than 20 Yuan - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTenBVV3U2cW5Fa3Nta1VwcTlqdEJ2dzNZdjRvNGNWWUR6YmN1bWFRb1I2RHZfbHlPUWpjX1N2QjdscmliZWZqYWxobUNGN2lNSVFGcDVkWU8wQjFTX2YwUExHMkhJQUUwaVhOTS1CSC1VZE5CaXc?oc=5",
-      "source": "BigGo Finance",
-      "published": "Sat, 21 Nov 2026 06:55:00 GMT",
-      "description": "Global Gold Price Falls Below $3,550; Chinese Brands Cut Per-Gram Prices of Pure Gold Jewelry by More Than 20 Yuan BigGo Finance",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -1782,24 +1764,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold price fall nears $3,500: cost and capex pressures for mine planners - Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmc0NklkLXVFcFkzMzQ2RGRqMjdSTk1QNk0wZDhIWVN0TnJEVnlUaWlieXpDU1lGb21aQjJTaVB2aHpzcG16Q0xLYVRJVW5icVdvNW91M0JXMWRaM3JEQm9IcTAwbEw0M19wVjhhcTB4Vk9ab0dUekllb0FEcUMyUkNvY1ktN19yNEgwb25DTEFLUzFoc2F6X3ZfQnAxYWs0d3ljSTFjZHpWWXdPWWlj?oc=5",
-      "source": "Geomechanics.io",
-      "published": "Sat, 21 Nov 2026 00:01:39 GMT",
-      "description": "Gold price fall nears $3,500: cost and capex pressures for mine planners Geomechanics.io",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold price fall nears $3,500 as miners face soaring costs - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTBKNGdIMDJlUk1JZ3E1dm1pOEtVZmVuT3l5UmRYaHhXMVZVQXdCMlhDVmpYc0FwXzdydlBlMFZDeV9XS2lndUoyaFc1TE5DaXN6T09zTTJNSVgxZVRGbHdMS3dLZnJadlRLdlBDTzRwSlU4VUFwV09ZV2dLdk5LUHhzNHRNSjg?oc=5",
-      "source": "Mining.com",
-      "published": "Fri, 20 Nov 2026 23:50:45 GMT",
-      "description": "Gold price fall nears $3,500 as miners face soaring costs Mining.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "Gold Price Today: Gold Falls 2.33% on November 20, 2026 - USA Today",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
       "source": "USA Today",
@@ -1818,15 +1782,6 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97% - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUFSQ1BqTTJFVk9QLWhaTlMzaEFLZ3ljUlo0X1RFODhsZnFTQkFEX0VWaVRnM3VYa0MxbHdsRlhOQTBJaEo0akFXVWF0UkNwUzBsZzdJaHkxcXYydzcxRndDZVEzOExaUk1RaHFEZkFtNzd2MWVsU1R5SlVyLTlIVkM2MlAzbFRGOGczSXZHb2ZQejVJVzJSUmNxS092UkE?oc=5",
-      "source": "Investing.com",
-      "published": "Fri, 20 Nov 2026 20:05:40 GMT",
-      "description": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97% Investing.com",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
       "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970 - BullionVault",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
       "source": "BullionVault",
@@ -1836,13 +1791,13 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Gold Miners Slump Toward Yearly Lows as Bullion Breaks Below $3,600 - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUTdoRVZkTnJlMXRIMHdsVmxIY3Vid2pUajZHNmtGd0NWRndCVFRWMThROE9JazNQblVaRmtVMDRSOFlhN0JlN1J4OW1yS0o2aHZYWHFUTjBoM3N4X0lKcGoybVdrSmZoZ1U1WGEzVWh4ODk3eUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "Fri, 20 Nov 2026 16:25:00 GMT",
-      "description": "Gold Miners Slump Toward Yearly Lows as Bullion Breaks Below $3,600 BigGo Finance",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
+      "title": "Gold's slide deepens as AI rout, rate hike bets hurt bullion - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTThwVlFEZElBdUI1bnlXSFNEaUp1NTZrSm9JdThSQkg1QkR3dHB4X2hzOExqMFdvcHpYTTE3N1VxRk8yVFZrMzl1TnR2SC1DUGZuTDhFcXRqN0VITjg4enJxWUlZRDhEU1hqWGs5YWdTOS1KUV9CckpvdE5LbklpVUpkeTM4ZkZSUHg0WEV4eXR4ajJzT1gtUHpYaG0wdEY4RHp0R2ZjQlhNclQ5Y2ZkUEh0TlduMVhGVnJwaC03Tjh5cmF6MWdvNg?oc=5",
+      "source": "TradingView",
+      "published": "Fri, 20 Nov 2026 17:33:39 GMT",
+      "description": "Gold's slide deepens as AI rout, rate hike bets hurt bullion TradingView",
+      "category": "macro_factors",
+      "classification": "Gold-Related Economic Factors"
     },
     {
       "title": "Pacific Precious Metals Announces In-Person Gold Bullion Buying Options Across the San Francisco Bay Area - Benzinga",
@@ -1926,38 +1881,20 @@
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "Why is gold price going down? - The National",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkJrWmdweXdyOEVkbmZZNWJKZHFndTF5dkxoOTlVRTR6eU1fWVI5YW9lR3kzdmo0aUNRbzZPUTVWLXNTMm1CNUhvRFluQ1ZBaVZLZnhldW1jblI1RDREaXYxZVhSWUYyU2RYd0J5Z3hRNTBDZ0k2UlZjbjVHdDhzY25HOGhFb0JCYmxiZ3Vrclk?oc=5",
-      "source": "The National",
-      "published": "Fri, 20 Nov 2026 09:08:33 GMT",
-      "description": "Why is gold price going down? The National",
+      "title": "Gold Futures Decline to Rs 1.22 Lakh Amid Weak Demand - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3pTbkNGQ2d5c2NoY2t4cXFIVGpISkxpTmJ4ZlNkSC1kdnhNYUZZRkNuNm9iN0ZxZWhueTgzVDZMZmFEdzZGY2JKY243RFhxZ19SSnRES0h6eWE5THpoTF9SdGxGWWR0c2ZZaGRUT0FOUmd2UFNOM0Y5SWpMNnFCNXhSVndNSjVVNm01aEZEUWQyTXZmTVFLVzRzT3NROTdFeVZqeDFGcFPSAa4BQVVfeXFMTVIxLXVnd0dFbjJPcHV4dUktcFRvc2lOdUstTjNCZXJURGt3WlhTM3pZNElVdGRoZXZQR29sek9feGNtaEQ4VlRLV3FGX1gwOGtjLWdsVzE4UDc5MEo1akR1QmJvWmtXcEVGdUZHN2EzdGg2d2ZidGpmeHdwQWxoejR4MDBScDM5ZkhLeDhoTV96UkY5OHZhcy1oQXJvdnNZYlQwT29YaDBLUEZfdUFR?oc=5",
+      "source": "Rediff MoneyWiz",
+      "published": "Fri, 20 Nov 2026 07:55:58 GMT",
+      "description": "Gold Futures Decline to Rs 1.22 Lakh Amid Weak Demand Rediff MoneyWiz",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
     {
-      "title": "World gold price today, November 20th: Slump sinks gold market - Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEtnUk9nWW11VzhOTWNORnVlc1c2cUhJMjYtUFAxRFUtRHN0WEVva1JzUDZhcXBkYmoyalJ3VnFuWkF4TE12NXBBa2RyQWhETHNVdTJ6UnVpRmNqa2tvSTEzNWRUR25jaXhEZzJqZFo3bjBTbjMtSGdnYk15bnhGdFVyaXNlVTRhUy1XcFVIME5GdWpqbDR6amNlMzZjckFZbjc2NXdjN05DOHFtdHdvU2syT3Y?oc=5",
-      "source": "Laodong.vn",
-      "published": "Fri, 20 Nov 2026 09:01:23 GMT",
-      "description": "World gold price today, November 20th: Slump sinks gold market Laodong.vn",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Trending Stocks Today, November 20, 2026: PC Jeweller, Tata Gold ETF, Vodafone Idea, Nippon India ETF Gold BeES - HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzhLdnU4aHJNMHFxWHVPWFkxcWdaR0pQeVA5ZmRKMUxxSjlNZVBqTnljMWZwSDVIM1JqMUZmWkRIci10TnZuQlltOThDN2pLN3dUYWNqWVFKOGhDcmNIcF9hbG5OXy1CbXBYTGFDNWRJa21abzREcGRGaF9jcC1DQ2lsV2VYaHU2Qk90VXNIbWc0ZXQ5a29DdkxPcFZjcXdtM0tNZlc2MlFJbHJJRmtVZmpoQ2FBSjYtdkpiX3Vjd2NtU2l3WU5LNGpR?oc=5",
-      "source": "HDFC Sky",
-      "published": "Fri, 20 Nov 2026 07:01:28 GMT",
-      "description": "Trending Stocks Today, November 20, 2026: PC Jeweller, Tata Gold ETF, Vodafone Idea, Nippon India ETF Gold BeES HDFC Sky",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week - South China Morning Post",
+      "title": "Anthropic’s IPO, gold price drops: 5 figures investors are watching this week - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzhyY19Vc3pUVmpPSlRGcDNQNklTdnFBaGdUaXh5cXpHU3ZFakpLT2tVYWxNTjR2TW85YTR5eFFBeWc2bVFvWUxpZVBzclUwMUJWZHllZkhpb29rYmFidkhTcmdTT2JnX2ZOUUNjNk5rWEVZZXVDNW1PVWtGcW9WbENSYThZcjZHVXpFdXRvcmR2RnI2aHowV3NNendoeU1DaUlDaGdnZ3Bwd2RpclNSYlFaXzFtZjNCT3ZZSFlVNTZwRGdQQ0NCYlZvY1pTMjQ2M0E?oc=5",
       "source": "South China Morning Post",
       "published": "Fri, 20 Nov 2026 07:00:10 GMT",
-      "description": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week South China Morning Post",
+      "description": "Anthropic’s IPO, gold price drops: 5 figures investors are watching this week South China Morning Post",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -1998,6 +1935,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 20, 2026 - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnJEWDhYYVB5NjVIT252bTZRN2RXOEF2VEJVSHZVcFNGdVhpUXc0emRXb1A1QlF4V1R4RjFYbmJuRDQ5QXd0ZTE0NXQ0TEhKbTk0bTI3Z2lMZ0RVOWY1UE5MTUw0RnVLUi1fdzVzVFNKcGRQZWh5aU1tMm9vdHN2YUxYbll6ZXNHSW9xeUtmd0x0T2ljUUxZ?oc=5",
+      "source": "Mitrade",
+      "published": "Fri, 20 Nov 2026 04:07:54 GMT",
+      "description": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 20, 2026 Mitrade",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Spot gold may fall into $3,442-$3,474 range - TradingView",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmVVTVZTbE04T0pOR2VMc0w3TmtBWk1XUGpRTVRWa1UxTHU5c0IwMXlhejFMN1ZkTjI0aGRYalg1STdWN2x4bGhQcnJrZTlMZmJKNHRUS3ZKbWtfTUlmdUJHcU1Zd3RwcUxzc0pmOHVDU0ZMaWlreHFfYTluOEpUMEZ0ejJPaTZHZUxKT0FEaDRpY2ZJQ19Uc1FxYWJkVnFHWWV1TjJHZE0tLVBaZ2gzWA?oc=5",
       "source": "TradingView",
@@ -2025,11 +1971,29 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Perseus Mining CEO Craig Jones: ‘High gold price makes acquisitions more complex’ - The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFFSb0tBYzlXaHVKMFIwWDdpdzV2T3BfNTZoNFFEcFRwRThtaE1UbzAwX3pfLUhJY3BTRXBYSm9rXzRWZG1SdFNJbWo4VmZSRk9kaXhrVFRKWGRXNm1iVFFuM1lmVERXRWkwNWkyMHB5RThSUVpILWMxdlJMNkszbUtZT0JUMUdEVXQweVVTSW96QnhENHdnVGNYc3Q5QkhnaDJQcnh0VEtxMXBIUlpMcnlCZHpvcTJtYkE?oc=5",
+      "source": "The Africa Report",
+      "published": "Fri, 20 Nov 2026 01:01:07 GMT",
+      "description": "Perseus Mining CEO Craig Jones: ‘High gold price makes acquisitions more complex’ The Africa Report",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
       "source": "Investing News Network",
       "published": "Thu, 19 Nov 2026 20:50:00 GMT",
       "description": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar Investing News Network",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Gold Analysis: Why Does XAU/USD Keep Losing Ground? - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlhCYUlDbkM2Um9SQ0s2U0lfRzBnenlsYTlwcnRvWllrYU1SRUpPZE9mQjBsTzlCcTFQV3QzRW1SMXdOOHgwN2Y2NFpQX2w4dWQ4b0ZaTzYtSGRmR2Nac1A5RmdMMXpLb1pPYkdtNDhSOWJoODhRRXhuV0RrRkktbVd5LTdfT2N1MFFOZ1pJanBoUVN5VmNpTzVIQ1E?oc=5",
+      "source": "FOREX.com",
+      "published": "Thu, 19 Nov 2026 17:11:58 GMT",
+      "description": "Gold Analysis: Why Does XAU/USD Keep Losing Ground? FOREX.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -2061,11 +2025,29 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold Price Today: November 19, 2026 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5",
+      "source": "Forbes",
+      "published": "Thu, 19 Nov 2026 13:01:00 GMT",
+      "description": "Gold Price Today: November 19, 2026 Forbes",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaG9pRFQ5emN4TkZLd3VWNGIxSFh4cTc4SGM5djlKUF9NelBPdTg0cXhwVVpLZk9NSDI0ZzdnVkl3WUo3SVRvYWM3Qk5Id3gzX2dmSF9UQmdCS2RFQ0s5clhUNFBUX1ZFWFMzdUk0ZVcwX1hpZlBoX1lucjZIYzVCaW14QU1TTGpseFdXc2U5eFF4Um1RYW9Gb056MDhya2xpa25POEtNeXpxRzA5LXhxS213b0I2Y3MwOEw5NUF2MlZpY2ZidXpMa0NyTlN2RWllY2h2d1ZPcEE2VmZwUlZDQWVFNDJDZDRNcDNEcllHYzY4UGo3NzRkYXZjY0lzbFk?oc=5",
       "source": "Yahoo Finance",
       "published": "Thu, 19 Nov 2026 12:22:58 GMT",
       "description": "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months Yahoo Finance",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
+      "title": "Niger targets gold market, higher revenue with Russian partnership - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYU9XOFdNY3NDS3ZTQzNqRVU4cG1vV2F5YXhJSFh6QzR0Uk9aUG9iSW1WU2JjMHNRTER5WllJVUdScFdSSHMyb3NncGpaMm9xTUN3M0VFcjJTUGY1eE00SHVzYTkwUkFMYWdKZzByM19BdVI2LU01YVRqcl9rUkpLRUhLdjU5dXdGdjljQm00cHBOV3hNQnlMMUNhZlpWNEhfSFhhSg?oc=5",
+      "source": "Business News Nigeria",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "description": "Niger targets gold market, higher revenue with Russian partnership Business News Nigeria",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
     },
@@ -2223,6 +2205,15 @@
       "classification": "Direct Gold Market News"
     },
     {
+      "title": "Gold futures rise Rs 171 to Rs 1.34 lakh/10 grams - The Shillong Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkJMaXdJSVdJcFR2cGtBVUVxQ2ZFcWNPZk9qckR1cjZaV0w1cUt3YU5ZaG13YXdndnM2WUQ4YlZ6eFJPSHRFdXQxdHVtTkRuRmw3QTdEczVoTnNCcU1YQWFLeFFLTkw0ckN1a0ZfTFNrcWxGN1c3cVREYmhoTDFITkNLYVlvXzh2WGM0ZjRnS2Zzdl9w?oc=5",
+      "source": "The Shillong Times",
+      "published": "Wed, 18 Nov 2026 01:08:43 GMT",
+      "description": "Gold futures rise Rs 171 to Rs 1.34 lakh/10 grams The Shillong Times",
+      "category": "direct_gold",
+      "classification": "Direct Gold Market News"
+    },
+    {
       "title": "India Gold Demand Holds Up as Prices Fall; ETFs Log Fifth Straight Month of Inflows - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdi1LNmVYOU9DQXlQWmJjdkZHVXdGVzVZNVJwY3YxRndHQjRXa1JHUVdFdEJ6dzRlUHNtMlZZODVDaThZLW1nLWN5bnR4emJyU3hwb05NVG0ya1JHWlhtQjZmRWJYSnhEOWZYX3RPWkIxMWdVSjBOQVJTYTd4UUNsQ3gxSXktYXA2SHktNkp6clRaeVRTdEhqWDdR?oc=5",
       "source": "IndexBox",
@@ -2284,15 +2275,6 @@
       "description": "Gold Futures Press Toward the 3900/4000 Line in the Sand: Does the Floor Hold or Give Way? Barchart.com",
       "category": "direct_gold",
       "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Higher Grades Lift Aris Mining’s Segovia Gold Reserves to 1.9 Million Ounces - Finance Colombia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3JvVGkxckw1d3dwNTVIb1o4b2hOdThtOFFDV3lnTW1nTjhLNVNTWExGQ1VMck1hZFhXSUN4UjlzMnliYW1udGhzQXBuNVl2TVJvNVVVaC1BSG03bk1yU1g2V21ZSmdFYlBIdFJHdHdUQXdVNi1uZE5yQjh2anVWbTFIME5aYXQ1Ylk5OUJPTFRmZ1JlbmQ0dzRTekdidHAtUEkxUEpKTy1mTWh4?oc=5",
-      "source": "Finance Colombia",
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "Higher Grades Lift Aris Mining’s Segovia Gold Reserves to 1.9 Million Ounces Finance Colombia",
-      "category": "supply_demand",
-      "classification": "Gold Supply and Demand"
     },
     {
       "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 13.11.26: Gold Faces Renewed Pressure as US Inflation Reinforces Interest Rate Expectations - Get the Word Out",
@@ -2518,24 +2500,6 @@
       "description": "DNB improves tradability of gold reserves De Nederlandsche Bank",
       "category": "supply_demand",
       "classification": "Gold Supply and Demand"
-    },
-    {
-      "title": "Gold futures hit May highs as fiscal concerns offset yields. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1E5YmRFYmwtbFdRVVFLN1RseVZGWUZpXzlwenNSNEI5LTY4c2d4c0VvUkh5aGY4cktNbklCSUpWTl94Vm1XY0JpTGhfdFhiR2F0OXpWbTFwMTd0cHFSMm12RzNQSk9jUnBkdVd5bUpqVFNpM2xUc2I4WDdmRGczOHhtVzdJMHdsM2ZkMjE2dWRZX3JodktjbWFqOVYtX1RwNjZ3QWRYZjNOUjZFWnhySQ?oc=5",
-      "source": "CME Group",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "description": "Gold futures hit May highs as fiscal concerns offset yields. CME Group",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
-    },
-    {
-      "title": "Gold futures rebounded after testing 200-day moving average. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGxfU0d4cjBRdjlJY19kS1llWW1LQ2Vnc1U3S3dvbTRtcUJ5cjRYWC1ndFFmdzJjdklEMllmdHdGeWhvU2N0V3dCR01YWkNSMjl6MTRDbG9wUkZKSFZZTVJOQU02YXM2Y09sQnhQTFBtUmtLSHFFT2dGQU9TV1BIX0FzdVd5QnVrQ0JsLXBuLUI2RFplVzBIOFBZMHFwQVFxa0ZCai1GWWNRdllnS0dEXw?oc=5",
-      "source": "CME Group",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "description": "Gold futures rebounded after testing 200-day moving average. CME Group",
-      "category": "direct_gold",
-      "classification": "Direct Gold Market News"
     },
     {
       "title": "China gold market update: Strong official sector buying in July | Post by Ray Jia | Insights - World Gold Council",
@@ -2808,15 +2772,15 @@
   ],
   "gold_categories": {
     "direct_gold": 77,
-    "supply_demand": 44,
-    "macro_factors": 0
+    "supply_demand": 41,
+    "macro_factors": 1
   },
   "report": {
     "summary": "Descriptive research based on public economic and gold news. Classification uses keywords and is not a verified AI judgment. It does not establish causation or predict prices.",
     "observations": [
       {
         "title": "General News",
-        "text": "Collected 196 general news articles."
+        "text": "Collected 194 general news articles."
       },
       {
         "title": "Direct Gold News",
@@ -2824,11 +2788,11 @@
       },
       {
         "title": "Gold Supply and Demand",
-        "text": "44"
+        "text": "41"
       },
       {
         "title": "Gold Economic Factors",
-        "text": "0"
+        "text": "1"
       },
       {
         "title": "World GDP Growth",
